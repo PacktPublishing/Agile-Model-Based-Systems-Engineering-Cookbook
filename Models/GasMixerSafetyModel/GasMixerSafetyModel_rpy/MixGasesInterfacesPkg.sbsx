@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 2664f056-222f-44be-a382-61ca86790996</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MixGasesInterfacesPkg</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::14:22:52</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:13</strongCGTime>
+			<_defaultComposite type="s">GUID b539c626-f4a9-4c89-92a3-851475a8a8c9</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b539c626-f4a9-4c89-92a3-851475a8a8c9</value>
+				<value>GUID 574ed2fc-d3fd-42b0-be5e-bd07b42327b9</value>
+				<value>GUID 03e4bb8a-c421-4e0c-85e0-b546213db782</value>
+				<value>GUID e68c514e-5739-4359-8d32-de649e719dd7</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID b539c626-f4a9-4c89-92a3-851475a8a8c9</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 574ed2fc-d3fd-42b0-be5e-bd07b42327b9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">iUc_MixGases_aMG_Ventilator</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">interfaceBlock</_hname>
+							<_hid type="a">GUID b2944aa1-daf4-4596-9707-d7ae5b2f2976</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::13:40:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:14</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::13:40:14</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:14</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 03e4bb8a-c421-4e0c-85e0-b546213db782</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">iUc_MixGases_aMG_Patient</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">interfaceBlock</_hname>
+							<_hid type="a">GUID b2944aa1-daf4-4596-9707-d7ae5b2f2976</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::13:40:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:16</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::13:40:16</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:16</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID e68c514e-5739-4359-8d32-de649e719dd7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">iUc_MixGases_aMG_GasSupply</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">interfaceBlock</_hname>
+							<_hid type="a">GUID b2944aa1-daf4-4596-9707-d7ae5b2f2976</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::14:22:52</weakCGTime>
+			<strongCGTime type="a">3.10.2020::14:22:52</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8ffe9be5-ac86-44d6-9afe-940bb6d0d895</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Pegasus_SystemDecompositionPkg</_name>
+			<_modifiedTimeWeak type="a">7.15.2020::13:14:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.15.2020::13:40:25</_modifiedTime>
+			<weakCGTime type="a">7.15.2020::13:14:7</weakCGTime>
+			<strongCGTime type="a">7.15.2020::13:14:7</strongCGTime>
+			<_defaultComposite type="s">GUID f9abf243-5d44-4fa2-94f0-0087c83459cf</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 644cfb69-296a-4c62-b8b2-997069fcbe45</value>
+				<value>GUID e216b7e5-7783-474d-a1d9-e4e56623f1e7</value>
+				<value>GUID cf07b8c8-f2ab-472d-aa43-62d41073a177</value>
+				<value>GUID 8d958ca8-ee55-47cd-85c2-22dd49fb54b7</value>
+				<value>GUID 23475dc4-902e-4ae0-b4a1-e6b0dd453e4d</value>
+				<value>GUID 30738385-6aa2-4f72-b98d-12ce0adc287b</value>
+				<value>GUID f9abf243-5d44-4fa2-94f0-0087c83459cf</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MechanicalFramePkg</fileName>
+			<_id type="a">GUID 644cfb69-296a-4c62-b8b2-997069fcbe45</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ElectricPowerDeliveryPkg</fileName>
+			<_id type="a">GUID e216b7e5-7783-474d-a1d9-e4e56623f1e7</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">PowerTrainPkg</fileName>
+			<_id type="a">GUID cf07b8c8-f2ab-472d-aa43-62d41073a177</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">CommsPkg</fileName>
+			<_id type="a">GUID 8d958ca8-ee55-47cd-85c2-22dd49fb54b7</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">RiderInteractionPkg</fileName>
+			<_id type="a">GUID 23475dc4-902e-4ae0-b4a1-e6b0dd453e4d</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MainComputingPlatformPkg</fileName>
+			<_id type="a">GUID 30738385-6aa2-4f72-b98d-12ce0adc287b</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID f9abf243-5d44-4fa2-94f0-0087c83459cf</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

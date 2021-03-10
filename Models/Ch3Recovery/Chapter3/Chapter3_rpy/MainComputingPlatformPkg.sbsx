@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 30738385-6aa2-4f72-b98d-12ce0adc287b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MainComputingPlatformPkg</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.4.2020::14:46:53</_modifiedTime>
+			<weakCGTime type="a">9.3.2020::18:13:43</weakCGTime>
+			<strongCGTime type="a">7.15.2020::13:14:7</strongCGTime>
+			<_defaultComposite type="s">GUID 7d38a8b0-5a76-4a8e-b16c-181bbed4244b</_defaultComposite>
+			<_eventsBaseID type="a">13801</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 55d5e9fd-268a-4c74-ab49-f860cb4bdf84</value>
+				<value>GUID 19278de8-ca09-4949-8b40-7a891a8a7004</value>
+				<value>GUID 7d38a8b0-5a76-4a8e-b16c-181bbed4244b</value>
+				<value>GUID 12310a8b-b9e2-432c-a4f4-d306a2625db9</value>
+				<value>GUID 271c4cc4-4f37-4762-8358-3788254cea0b</value>
+				<value>GUID 83e8095d-92f5-41ca-9a73-fee337b6f13e</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ITag type="e">
+			<_id type="a">GUID 55d5e9fd-268a-4c74-ab49-f860cb4bdf84</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">isSubsystem</_name>
+			<_modifiedTimeWeak type="a">7.15.2020::13:14:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.15.2020::13:14:7</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 971ebfdb-b126-4d39-bee0-685a440a8450</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 971ebfdb-b126-4d39-bee0-685a440a8450</_id>
+			<_modifiedTimeWeak type="a">7.15.2020::13:14:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.15.2020::13:14:7</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<ISubsystem type="e">
+			<fileName type="a">MainComputingPlatformDecompositionPkg</fileName>
+			<_id type="a">GUID 19278de8-ca09-4949-8b40-7a891a8a7004</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 7d38a8b0-5a76-4a8e-b16c-181bbed4244b</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 12310a8b-b9e2-432c-a4f4-d306a2625db9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MainComputingPlatform</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">Block</_hname>
+							<_hid type="a">GUID f685432f-691e-4ff1-be70-4d09d19457e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+							<_hname type="a">Subsystem</_hname>
+							<_hid type="a">GUID 4ea1c1da-7dc6-4a35-bc5a-313393e8408f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.3.2020::18:18:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\ArchitecturalDesignPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg</_hsubsystem>
+					<_hname type="a">System Structure</_hname>
+					<_hid type="a">GUID e9cf2678-b470-42e5-86d6-233320f8dd88</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fswiss\fprq2\fcharset0 Calibri;}}%0D
+\viewkind4\uc1\pard\ltrpar\fs20 Mission:\par%0D
+\f1\fs22 The main computing platform contains the primary computing electronics and software for the system. It managers rider-level applications - such as controlling and monitoring rides and sensor data, system configuration (including motor transfer function tuning and rider settings), and data management. This subsystem is envisioned to be primarily software and digital electronics hardware. \f0\fs20\par%0D
+}%0D
+</_textRTF>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">9.3.2020::18:18:39</_modifiedTime>
+			<_lastID type="a">14</_lastID>
+			<weakCGTime type="a">9.3.2020::18:18:39</weakCGTime>
+			<strongCGTime type="a">7.15.2020::13:14:7</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 87e239d7-119e-44a9-874e-852337b4f686</value>
+				<value>GUID a2616d00-a892-433a-b1a5-07f956211f86</value>
+				<value>GUID 9164aaf4-c719-467e-a1bf-b1bb468f4c4a</value>
+				<value>GUID 12449a5a-65db-4c3c-af22-72da7f8bd7fe</value>
+				<value>GUID d3cadac3-3843-4e4c-b417-b7e411a81085</value>
+				<value>GUID 3574f047-106a-4304-8e02-6c2f1c2c3ce6</value>
+				<value>GUID 819ec6c5-b985-410c-af4a-27517bfbf2d1</value>
+				<value>GUID c13f09ff-e612-4438-a643-f5251064b13d</value>
+				<value>GUID c79df874-2364-4aa5-8183-414467c85ad8</value>
+				<value>GUID 4a92d182-080b-4965-b5fa-b5a04183490e</value>
+				<value>GUID c3abe168-1be7-48a2-80ea-7a6381b59ffd</value>
+				<value>GUID 216ea619-8457-4b15-8e71-53a9b9107234</value>
+				<value>GUID cd380181-81bf-440d-a441-4e406f7ecce4</value>
+				<value>GUID 2619ec28-d6c6-4612-a3b5-11312de53160</value>
+				<value>GUID 20bbc740-3196-4294-887f-daf1dc385a60</value>
+				<value>GUID b6338051-25d7-4ccd-a517-62873ace2102</value>
+				<value>GUID 830fd63b-611e-4d7d-beb3-437c6515bcf5</value>
+				<value>GUID be28f295-a7df-4ab4-83bd-698a2f78fc4f</value>
+				<value>GUID 443dd373-f001-4d80-82a3-2cc541fd3c24</value>
+				<value>GUID d4569540-191d-4959-80ba-544637dbf19e</value>
+				<value>GUID 90efaca7-9355-49ad-bb42-b232039ba77e</value>
+				<value>GUID a583892c-6389-402c-9fcd-c6268c961644</value>
+				<value>GUID 2bed7203-c210-4fa8-9d0e-2dde48338396</value>
+				<value>GUID 178cd505-70ee-4ca3-9cdf-7677b71aa47f</value>
+				<value>GUID 1af115ab-cdf5-48c5-8c8a-9fd784b1450a</value>
+				<value>GUID d9691270-721c-47f5-bba9-f522236fb6ec</value>
+				<value>GUID 394b5862-aeb7-4c18-b345-d2b16df61212</value>
+				<value>GUID d5267856-8849-47f9-8acc-2c52fefa0f1a</value>
+				<value>GUID 9c09268a-f245-4c5a-a25c-dd955e0880c0</value>
+				<value>GUID 4501a74c-6670-4786-9816-6ad8587e58d7</value>
+				<value>GUID 07b2addd-bb0b-41ad-a94d-777f7e680528</value>
+				<value>GUID 7bcacdc9-1eff-4c00-a557-58133d436e71</value>
+				<value>GUID b4a2fc48-121d-433d-bf3b-d718adc9e65c</value>
+				<value>GUID 795c3431-b24b-4d24-9afd-22b29e581a73</value>
+				<value>GUID b6c61b7a-e0b8-4e83-a77c-95619bb6972d</value>
+				<value>GUID e37d168e-9d9d-4350-b275-c0d47b4b67dc</value>
+				<value>GUID 1474a875-05f8-4f17-99ee-11928a5f0a48</value>
+			</AggregatesList>
+		</IClass>
+		<ISysMLPort type="e">
+			<_id type="a">GUID 87e239d7-119e-44a9-874e-852337b4f686</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pDigitalPower</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">flowPort</_hname>
+							<_hid type="a">GUID e38cbf02-1c06-464c-927e-6e2c6c764315</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.4.2020::15:25:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::15:25:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID eefb26ac-ed15-42f4-9f5a-379225f60878</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_implicitClass type="p"><IClass type="e">
+				<_id type="a">GUID eefb26ac-ed15-42f4-9f5a-379225f60878</_id>
+				<_myState type="a">10240</_myState>
+				<_name type="a">pDigitalPower_implicitType</_name>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Interface</_hname>
+								<_hid type="a">GUID 2a7b8a63-f54f-4379-bab0-02800a5084e1</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">6.4.2020::15:25:18</_modifiedTimeWeak>
+				<_modifiedTime type="a">6.4.2020::15:25:18</_modifiedTime>
+				<weakCGTime type="a">6.4.2020::15:25:18</weakCGTime>
+				<strongCGTime type="a">6.4.2020::15:25:18</strongCGTime>
+				<_itsStateChart type="r">
+					<IHandle type="e">
+					</IHandle>
+				</_itsStateChart>
+				<_classModifier type="a">Unspecified</_classModifier>
+			</IClass>
+			</_implicitClass>
+			<_direction type="a">InOut</_direction>
+		</ISysMLPort>
+		<IPort type="e">
+			<_id type="a">GUID a2616d00-a892-433a-b1a5-07f956211f86</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pRiderInteraction</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.3.2020::18:8:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:8:58</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">iMainComputingPlatform_RiderInteraction</_hname>
+					<_hid type="a">GUID a656b5ad-4d37-43a0-bad9-d268934e7731</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<_behavioral type="a">1</_behavioral>
+			<AggregatesList type="e">
+				<value>GUID 26914e2b-7563-47a3-8247-32cdae307b0f</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID 26914e2b-7563-47a3-8247-32cdae307b0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 9579ae38-3793-4c78-b2e8-cefdbf429959</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 9579ae38-3793-4c78-b2e8-cefdbf429959</_id>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_value type="a">RiderInteraction</_value>
+		</ILiteralSpecification>
+		<IPort type="e">
+			<_id type="a">GUID 9164aaf4-c719-467e-a1bf-b1bb468f4c4a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pComms</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.3.2020::18:18:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:18:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">iMainComputingPlatform_Comms</_hname>
+					<_hid type="a">GUID 2f656ba1-ff86-4168-826c-d3b2963b8182</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_behavioral type="a">1</_behavioral>
+			<AggregatesList type="e">
+				<value>GUID b849a46e-294d-4fd7-a5c0-7f604c97beab</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID b849a46e-294d-4fd7-a5c0-7f604c97beab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 45c835d1-aacb-4c42-95f1-7a31923072cc</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 45c835d1-aacb-4c42-95f1-7a31923072cc</_id>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_value type="a">Comms</_value>
+		</ILiteralSpecification>
+		<IPort type="e">
+			<_id type="a">GUID 12449a5a-65db-4c3c-af22-72da7f8bd7fe</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pMechanicalFrame</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.3.2020::18:8:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:8:59</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">iMainComputingPlatform_MechanicalFrame</_hname>
+					<_hid type="a">GUID 4ad470b1-5fc7-4b62-a1df-dd539f5b3c9f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<_behavioral type="a">1</_behavioral>
+			<AggregatesList type="e">
+				<value>GUID f3d4ca6f-6e46-46a5-bc33-93f32bf9a2ed</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID f3d4ca6f-6e46-46a5-bc33-93f32bf9a2ed</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 79b92317-75ab-404f-b510-c8d9d190e53c</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 79b92317-75ab-404f-b510-c8d9d190e53c</_id>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:1</_modifiedTime>
+			<_value type="a">MechanicalFrame</_value>
+		</ILiteralSpecification>
+		<IPort type="e">
+			<_id type="a">GUID d3cadac3-3843-4e4c-b417-b7e411a81085</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pPowerTrain</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.3.2020::18:9:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:9:1</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">iMainComputingPlatform_PowerTrain</_hname>
+					<_hid type="a">GUID 58c338e2-df06-4d81-beae-88735c450263</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<_behavioral type="a">1</_behavioral>
+			<AggregatesList type="e">
+				<value>GUID 29528d72-2d29-46c8-a1d1-eed8464279f2</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID 29528d72-2d29-46c8-a1d1-eed8464279f2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:5</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID f4ab31ba-f7dd-4d71-aa8d-d71506ea7fa3</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID f4ab31ba-f7dd-4d71-aa8d-d71506ea7fa3</_id>
+			<_modifiedTimeWeak type="a">9.3.2020::18:7:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:7:5</_modifiedTime>
+			<_value type="a">PowerTrain</_value>
+		</ILiteralSpecification>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 3574f047-106a-4304-8e02-6c2f1c2c3ce6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeGearRatio</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:31:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:31:53</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 819ec6c5-b985-410c-af4a-27517bfbf2d1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RetrieveRiderMass</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:31:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:31:53</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID c13f09ff-e612-4438-a643-f5251064b13d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RetrieveCurrentGear</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:31:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:31:53</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IReception type="e">
+			<_id type="a">GUID c79df874-2364-4aa5-8183-414467c85ad8</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evSetInclude()</_hname>
+					<_hid type="a">GUID 837286ae-97a5-4432-bae0-b8a8003f763f</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IReception type="e">
+			<_id type="a">GUID 4a92d182-080b-4965-b5fa-b5a04183490e</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evSetgearing()</_hname>
+					<_hid type="a">GUID 7d7cad11-7581-4ba9-a6fe-fa74b9550e89</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID c3abe168-1be7-48a2-80ea-7a6381b59ffd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">sendFilteredPowerToApp</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:7</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 216ea619-8457-4b15-8e71-53a9b9107234</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">applyTimeFilterToPower</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:7</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID cd380181-81bf-440d-a441-4e406f7ecce4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">sendPedalCadenceToApp</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:7</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 2619ec28-d6c6-4612-a3b5-11312de53160</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computePedalCadence</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:7</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IReception type="e">
+			<_id type="a">GUID 20bbc740-3196-4294-887f-daf1dc385a60</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evPedalPosition()</_hname>
+					<_hid type="a">GUID 744acd6d-9018-4c30-bc16-e6e4d817782e</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IReception type="e">
+			<_id type="a">GUID b6338051-25d7-4ccd-a517-62873ace2102</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evPedalSpeed()</_hname>
+					<_hid type="a">GUID 5fd01757-0513-4fd9-a41b-0f3834d98d28</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IReception type="e">
+			<_id type="a">GUID 830fd63b-611e-4d7d-beb3-437c6515bcf5</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evSetMeasuredPedalForce()</_hname>
+					<_hid type="a">GUID 3ac62208-3586-4242-b483-42a54e529cef</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID be28f295-a7df-4ab4-83bd-698a2f78fc4f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">sendAccelarationToApp</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 443dd373-f001-4d80-82a3-2cc541fd3c24</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">sendSpeedToApp</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID d4569540-191d-4959-80ba-544637dbf19e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">applyResistance</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 90efaca7-9355-49ad-bb42-b232039ba77e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeResistancecToApplyAtThePedal</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID a583892c-6389-402c-9fcd-c6268c961644</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeAcceleration</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 2bed7203-c210-4fa8-9d0e-2dde48338396</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeSpeed</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 178cd505-70ee-4ca3-9cdf-7677b71aa47f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeDrag</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 1af115ab-cdf5-48c5-8c8a-9fd784b1450a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">retrieveCurrentIncline</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID d9691270-721c-47f5-bba9-f522236fb6ec</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">computeInertia</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::17:32:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::17:32:16</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IReception type="e">
+			<_id type="a">GUID 394b5862-aeb7-4c18-b345-d2b16df61212</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+					<_hname type="a">evIncline()</_hname>
+					<_hid type="a">GUID 97d1f641-5bf0-4f16-9aa4-0c0d5bbdc244</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID d5267856-8849-47f9-8acc-2c52fefa0f1a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Get_Ride_Interval_Data</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:13:43</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 9c09268a-f245-4c5a-a25c-dd955e0880c0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Select_Ride</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:13:43</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 4501a74c-6670-4786-9816-6ad8587e58d7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">UploadRideList</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:13:43</_modifiedTime>
+			<_virtual type="a">1</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+		</IPrimitiveOperation>
+		<IReception type="e">
+			<_id type="a">GUID 07b2addd-bb0b-41ad-a94d-777f7e680528</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 271c4cc4-4f37-4762-8358-3788254cea0b</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IReception type="e">
+			<_id type="a">GUID 7bcacdc9-1eff-4c00-a557-58133d436e71</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_event type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 83e8095d-92f5-41ca-9a73-fee337b6f13e</_hid>
+				</IHandle>
+			</_event>
+		</IReception>
+		<IPart type="e">
+			<_id type="a">GUID b4a2fc48-121d-433d-bf3b-d718adc9e65c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsDataManagement</_name>
+			<_modifiedTimeWeak type="a">6.4.2020::14:50:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::14:50:10</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\DataManagementPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::DataManagementPkg</_hsubsystem>
+					<_hname type="a">DataManagement</_hname>
+					<_hid type="a">GUID 5a30a509-52a1-4128-b9db-5ba013da8bc1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 795c3431-b24b-4d24-9afd-22b29e581a73</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRiderApplication</_name>
+			<_modifiedTimeWeak type="a">6.4.2020::14:50:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::14:50:12</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RiderApplicationPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::RiderApplicationPkg</_hsubsystem>
+					<_hname type="a">RiderApplication</_hname>
+					<_hid type="a">GUID ab6bb3e6-390a-405a-b91f-d7b8f97ce9ee</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID b6c61b7a-e0b8-4e83-a77c-95619bb6972d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsSystemConfiguration</_name>
+			<_modifiedTimeWeak type="a">6.4.2020::14:50:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::14:50:15</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\SystemConfigurationPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::SystemConfigurationPkg</_hsubsystem>
+					<_hname type="a">SystemConfiguration</_hname>
+					<_hid type="a">GUID 08c80eee-ff83-4552-9a32-aafbb20a9202</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IObjectLink type="e">
+			<_id type="a">GUID e37d168e-9d9d-4350-b275-c0d47b4b67dc</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRiderApplication_itsDataManagement</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.4.2020::15:34:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::15:34:42</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID b4a2fc48-121d-433d-bf3b-d718adc9e65c</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 795c3431-b24b-4d24-9afd-22b29e581a73</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\DataManagementPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::DataManagementPkg</_hsubsystem>
+					<_hclass type="a">DataManagement</_hclass>
+					<_hname type="a">pRiderApp</_hname>
+					<_hid type="a">GUID 4e424a18-cf70-4388-a229-541697486013</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\RiderApplicationPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::RiderApplicationPkg</_hsubsystem>
+					<_hclass type="a">RiderApplication</_hclass>
+					<_hname type="a">pDM</_hname>
+					<_hid type="a">GUID 9693157c-f905-48fe-b998-44c01b362c48</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IObjectLink type="e">
+			<_id type="a">GUID 1474a875-05f8-4f17-99ee-11928a5f0a48</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsSystemConfiguration_itsRiderApplication</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.4.2020::15:37:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.4.2020::15:37:28</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 795c3431-b24b-4d24-9afd-22b29e581a73</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID b6c61b7a-e0b8-4e83-a77c-95619bb6972d</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\RiderApplicationPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::RiderApplicationPkg</_hsubsystem>
+					<_hclass type="a">RiderApplication</_hclass>
+					<_hname type="a">pConfig</_hname>
+					<_hid type="a">GUID 12d3295f-57a1-4223-b0b4-84c5f58e4140</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\SystemConfigurationPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg::Pegasus_SystemDecompositionPkg::MainComputingPlatformPkg::MainComputingPlatformDecompositionPkg::SystemConfigurationPkg</_hsubsystem>
+					<_hclass type="a">SystemConfiguration</_hclass>
+					<_hname type="a">pRiderApp</_hname>
+					<_hid type="a">GUID 4b711693-794c-45fc-bbf2-fc14ee5307da</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IEvent type="e">
+			<_id type="a">GUID 271c4cc4-4f37-4762-8358-3788254cea0b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evGetRideList</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:13:43</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 83e8095d-92f5-41ca-9a73-fee337b6f13e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSelectRideToUpload</_name>
+			<_modifiedTimeWeak type="a">9.3.2020::18:13:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.3.2020::18:13:43</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

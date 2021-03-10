@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a0d87645-68b3-4f92-a0c9-442772da6079</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ControlResistanceExecutionScopePkg</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::14:30:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:30:0</_modifiedTime>
+			<weakCGTime type="a">2.14.2020::14:30:0</weakCGTime>
+			<strongCGTime type="a">2.14.2020::14:30:0</strongCGTime>
+			<_defaultComposite type="s">GUID d73195b0-c68c-41cf-ab67-af96a625c2be</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.14.2020::14:29:56</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 03de6012-8ad3-4377-9e47-15d8aa4d7003</value>
+				<value>GUID d73195b0-c68c-41cf-ab67-af96a625c2be</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">Control_ResistanceSim</fileName>
+			<_id type="a">GUID 03de6012-8ad3-4377-9e47-15d8aa4d7003</_id>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID d73195b0-c68c-41cf-ab67-af96a625c2be</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::14:30:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:30:0</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.14.2020::14:30:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 559b65fe-214c-4dd9-9546-cc0063c5e499</value>
+				<value>GUID 0822e550-cb50-4fd0-b3a4-9e6e23a52b3f</value>
+				<value>GUID 015ec799-bcd1-4fc1-9dff-00cbab340130</value>
+				<value>GUID 120fd1ee-8ccf-4b54-a1f9-4382824b4226</value>
+				<value>GUID fc3d0608-43bb-4661-ab3b-1419355bb560</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 559b65fe-214c-4dd9-9546-cc0063c5e499</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsUc_ControlResistance</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::14:29:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:29:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg_ActivityApproach.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach</_hsubsystem>
+					<_hname type="a">Uc_ControlResistance</_hname>
+					<_hid type="a">GUID f0609866-60cc-4114-9470-d402de3831bf</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 0822e550-cb50-4fd0-b3a4-9e6e23a52b3f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtTrainingApp</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::14:29:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:29:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ControlResistanceActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach::ControlResistanceActorPkg</_hsubsystem>
+					<_hname type="a">aCR_TrainingApp</_hname>
+					<_hid type="a">GUID d0ac5820-7596-4771-a2ae-5b64377444c4</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 015ec799-bcd1-4fc1-9dff-00cbab340130</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtRider</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::14:29:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:29:59</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\ControlResistanceActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach::ControlResistanceActorPkg</_hsubsystem>
+					<_hname type="a">aCR_Rider</_hname>
+					<_hid type="a">GUID 57be8184-0b29-4fcb-97b6-0f0cfe0a7164</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IObjectLink type="e">
+			<_id type="a">GUID 120fd1ee-8ccf-4b54-a1f9-4382824b4226</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::14:29:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:29:59</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 0822e550-cb50-4fd0-b3a4-9e6e23a52b3f</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 559b65fe-214c-4dd9-9546-cc0063c5e499</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\ControlResistanceActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach::ControlResistanceActorPkg</_hsubsystem>
+					<_hclass type="a">aCR_TrainingApp</_hclass>
+					<_hname type="a">pUc_ControlResistance</_hname>
+					<_hid type="a">GUID 05af2105-bc52-4975-a9f5-553cf09ec55d</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg_ActivityApproach.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach</_hsubsystem>
+					<_hclass type="a">Uc_ControlResistance</_hclass>
+					<_hname type="a">paCR_TrainingApp</_hname>
+					<_hid type="a">GUID 2cf4f3ad-091c-4c55-aaf7-c22552ab11ac</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IObjectLink type="e">
+			<_id type="a">GUID fc3d0608-43bb-4661-ab3b-1419355bb560</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.14.2020::14:30:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::14:30:0</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 015ec799-bcd1-4fc1-9dff-00cbab340130</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 559b65fe-214c-4dd9-9546-cc0063c5e499</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\ControlResistanceActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach::ControlResistanceActorPkg</_hsubsystem>
+					<_hclass type="a">aCR_Rider</_hclass>
+					<_hname type="a">pUc_ControlResistance</_hname>
+					<_hid type="a">GUID d06d46ea-eeae-4322-9225-5eb926a7f489</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg_ActivityApproach.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg_ActivityApproach</_hsubsystem>
+					<_hclass type="a">Uc_ControlResistance</_hclass>
+					<_hname type="a">paCR_Rider</_hname>
+					<_hid type="a">GUID 304e06b0-fa1c-46a9-8adc-dbc478a25fad</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

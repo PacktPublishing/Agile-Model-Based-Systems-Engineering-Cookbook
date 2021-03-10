@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID aa12ef75-af22-49d3-bba8-a6423f2ae2ad</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CommonStereotypes</_name>
+			<_modifiedTimeWeak type="a">11.1.2020::19:34:41</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hname type="a">ModelOverviewSharedModel</_hname>
+					<_hid type="a">GUID becbfb11-e5ef-417c-9447-29a82b5285b9</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">11.1.2020::19:34:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">11.1.2020::19:34:41</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 44add410-54f0-45a2-88ce-1caf7707ab5c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 4d7a7aed-f7c3-4f83-86b8-b8ced1359cad</value>
+				<value>GUID 6fcd67c6-a93b-42ce-9cd9-ec1d6ed707d7</value>
+				<value>GUID b757c67c-36f8-4a09-a15c-92ac5e6660ba</value>
+				<value>GUID 43be9cbd-58c8-4c48-ace5-f31be3b7dd78</value>
+				<value>GUID 44add410-54f0-45a2-88ce-1caf7707ab5c</value>
+				<value>GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IStereotype type="e">
+			<_id type="a">GUID 4d7a7aed-f7c3-4f83-86b8-b8ced1359cad</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">electronics</_name>
+			<_modifiedTimeWeak type="a">10.13.2020::13:53:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.13.2020::13:53:10</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IStereotype type="e">
+			<_id type="a">GUID 6fcd67c6-a93b-42ce-9cd9-ec1d6ed707d7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">software</_name>
+			<_modifiedTimeWeak type="a">10.13.2020::13:53:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.13.2020::13:53:10</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IStereotype type="e">
+			<_id type="a">GUID b757c67c-36f8-4a09-a15c-92ac5e6660ba</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">mechanical</_name>
+			<_modifiedTimeWeak type="a">10.13.2020::13:53:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.13.2020::13:53:10</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IStereotype type="e">
+			<_id type="a">GUID 43be9cbd-58c8-4c48-ace5-f31be3b7dd78</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">deriveFeature</_name>
+			<_modifiedTimeWeak type="a">10.19.2020::17:11:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.19.2020::17:11:50</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IClass type="e">
+			<_id type="a">GUID 44add410-54f0-45a2-88ce-1caf7707ab5c</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IMatrixLayout type="e">
+			<_id type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Message Mapping Layout</_name>
+			<_modifiedTimeWeak type="a">9.27.2020::20:57:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.27.2020::20:57:25</_modifiedTime>
+			<FromElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Block</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Class</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</FromElementTypes>
+			<ToElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Attribute</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">FlowProperty</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Operation</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">Reception</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">ValueProperty</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</ToElementTypes>
+			<CellElementTypes type="c">
+				<IRPYRawContainer type="e">
+					<TableDataDefinition type="e">
+						<_myTable type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IMatrixLayout</_hm2Class>
+								<_hid type="a">GUID 3a679b5b-6f3f-4024-9d63-1f5bea9a6fb2</_hid>
+							</IHandle>
+						</_myTable>
+						<_modelElement type="r">
+							<IHandle type="e">
+							</IHandle>
+						</_modelElement>
+						<TableDataDefinitionName type="a">represents</TableDataDefinitionName>
+						<_DataType type="a">2</_DataType>
+					</TableDataDefinition>
+					
+				</IRPYRawContainer>
+			</CellElementTypes>
+		</IMatrixLayout>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 923babe6-c6cf-4d87-ae6f-40f9b4b46872</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DesignSynthesisPkg</_name>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<weakCGTime type="a">11.15.2019::12:23:46</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 710589cb-b56f-42b0-a23b-28e88bdd3aa7</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 495b7318-a1d0-46c7-909d-8e3cc6f4ece3</value>
+				<value>GUID 11d78cae-3c29-42a5-8a9b-5c960905e0c4</value>
+				<value>GUID 710589cb-b56f-42b0-a23b-28e88bdd3aa7</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ArchitecturalDesignPkg</fileName>
+			<_id type="a">GUID 495b7318-a1d0-46c7-909d-8e3cc6f4ece3</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ArchitecturalAnalysisPkg</fileName>
+			<_id type="a">GUID 11d78cae-3c29-42a5-8a9b-5c960905e0c4</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 710589cb-b56f-42b0-a23b-28e88bdd3aa7</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

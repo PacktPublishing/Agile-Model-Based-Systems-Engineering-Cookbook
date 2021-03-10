@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 4abdd85c-e225-4127-888e-1add277eb669</_id>
+			<_name type="a">Control_ResistanceSim</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:2:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:2:13</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 26033487-3b3f-421a-a7f1-e3d8e63666b9</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">4.6.2020::17:2:13</weakCGTime>
+			<strongCGTime type="a">4.6.2020::17:2:13</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID a458b780-960a-4b2a-ab8f-c8bb9eb39272</value>
+				<value>GUID 26033487-3b3f-421a-a7f1-e3d8e63666b9</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID a458b780-960a-4b2a-ab8f-c8bb9eb39272</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:2:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:2:13</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg</_hsubsystem>
+							<_hname type="a">ControlResistancePkg</_hname>
+							<_hid type="a">GUID 22d5f13d-7e5d-4198-8170-25de84b90116</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceInterfacesPkg_1.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceInterfacesPkg</_hname>
+							<_hid type="a">GUID 19a405c9-65bc-45e2-a796-1fe828e41c8d</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 26033487-3b3f-421a-a7f1-e3d8e63666b9</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">WebComponents</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">WebFramework</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">GenerateInstrumentationCode</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Animate</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:2:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:2:13</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">4.6.2020::17:2:13</weakCGTime>
+			<strongCGTime type="a">4.6.2020::17:2:13</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 2d71e8db-f5b7-41d9-a8fd-b45460a26c11</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 2d71e8db-f5b7-41d9-a8fd-b45460a26c11</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Animate</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:2:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:2:13</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID cb7d823d-d34b-46af-8d16-a6acf7319117</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateBasicGearingExecutionScopePkg</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::15:25:20</_modifiedTime>
+			<weakCGTime type="a">12.27.2019::14:59:3</weakCGTime>
+			<strongCGTime type="a">12.27.2019::14:59:3</strongCGTime>
+			<_defaultComposite type="s">GUID 488b551a-9afc-4994-9022-25c9a960cc1f</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.27.2019::14:59:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID daee6011-e24d-4185-bc04-2cb91326cd97</value>
+				<value>GUID 488b551a-9afc-4994-9022-25c9a960cc1f</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">Emulate_Basic_GearingSim</fileName>
+			<_id type="a">GUID daee6011-e24d-4185-bc04-2cb91326cd97</_id>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID 488b551a-9afc-4994-9022-25c9a960cc1f</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:3</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">12.27.2019::14:59:3</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 0679144e-9ec4-467b-853e-b325bfc60d04</value>
+				<value>GUID ad15e1aa-c988-4cf8-9f71-d813af4a2680</value>
+				<value>GUID 1c5bfab4-1561-4cd2-871d-a51579a8a9f1</value>
+				<value>GUID e5d4e8b8-e154-4d17-bb36-db41b1fc7cae</value>
+				<value>GUID e5d9e711-5244-4268-a708-2a6ad17c4f4a</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 0679144e-9ec4-467b-853e-b325bfc60d04</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsUc_EmulateBasicGearing</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+					<_hname type="a">Uc_EmulateBasicGearing</_hname>
+					<_hid type="a">GUID e0d62fb0-a3cf-4429-beb4-355bf3c3eec8</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID ad15e1aa-c988-4cf8-9f71-d813af4a2680</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtTrainingApp</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hname type="a">aEBG_TrainingApp</_hname>
+					<_hid type="a">GUID 76f2f130-928a-4579-9b45-53792fe132f1</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 1c5bfab4-1561-4cd2-871d-a51579a8a9f1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtRider</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:3</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hname type="a">aEBG_Rider</_hname>
+					<_hid type="a">GUID 6d485360-e18b-410f-b0f1-42db71e12696</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IObjectLink type="e">
+			<_id type="a">GUID e5d4e8b8-e154-4d17-bb36-db41b1fc7cae</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:2</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID ad15e1aa-c988-4cf8-9f71-d813af4a2680</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 0679144e-9ec4-467b-853e-b325bfc60d04</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hclass type="a">aEBG_TrainingApp</_hclass>
+					<_hname type="a">pUc_EmulateBasicGearing</_hname>
+					<_hid type="a">GUID 19d50aaf-ce50-46e6-888d-e75f32d5a773</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+					<_hclass type="a">Uc_EmulateBasicGearing</_hclass>
+					<_hname type="a">paEBG_TrainingApp</_hname>
+					<_hid type="a">GUID d53459e1-bfab-407d-8642-420debd4f323</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IObjectLink type="e">
+			<_id type="a">GUID e5d9e711-5244-4268-a708-2a6ad17c4f4a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::14:59:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:59:3</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 1c5bfab4-1561-4cd2-871d-a51579a8a9f1</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 0679144e-9ec4-467b-853e-b325bfc60d04</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hclass type="a">aEBG_Rider</_hclass>
+					<_hname type="a">pUc_EmulateBasicGearing</_hname>
+					<_hid type="a">GUID 049e52c7-daed-45a3-bebc-829fc21fd4c5</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+					<_hclass type="a">Uc_EmulateBasicGearing</_hclass>
+					<_hname type="a">paEBG_Rider</_hname>
+					<_hid type="a">GUID 1240ab34-5d93-4d20-8aba-edc9e8353854</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

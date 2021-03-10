@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b111e958-5496-4261-bece-7686817651d5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateFrontAndRearGearingReqPkg</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:13:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:13:7</_modifiedTime>
+			<_lastID type="a">22</_lastID>
+			<weakCGTime type="a">6.5.2020::15:13:7</weakCGTime>
+			<strongCGTime type="a">3.3.2020::13:34:52</strongCGTime>
+			<_defaultComposite type="s">GUID 830183d1-77d8-4967-8bed-fe6b423bbe69</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 82bd7d82-8c6a-45eb-8a89-a6a93ef2d51e</value>
+				<value>GUID bf0b195c-8b30-44fd-8534-2ab89bb6a5de</value>
+				<value>GUID 5747ca7e-1856-4eb4-b5be-25af988d64e0</value>
+				<value>GUID 00877406-6d66-4d54-9459-d0e56eca0b04</value>
+				<value>GUID f2b91bce-1eef-4953-9232-71b32889e4d8</value>
+				<value>GUID a6a27606-4c42-432d-aa43-0a5c78600240</value>
+				<value>GUID 64766c15-1e1f-4b46-840d-83a81a973a43</value>
+				<value>GUID 32c37446-82ee-4efb-9027-4356ab82108d</value>
+				<value>GUID 006367b2-1d09-4f2f-8e30-13c748d217b7</value>
+				<value>GUID ad035776-ca75-4abf-bc0b-f6bbe4ceaea4</value>
+				<value>GUID c72943ad-b31b-4ebd-ba78-8dabd86a142e</value>
+				<value>GUID 438c95ee-9c8b-425f-b540-117e0793f12a</value>
+				<value>GUID 8eb12a2a-a4d1-48a8-990a-b521f984caf3</value>
+				<value>GUID e88babfc-4f26-4848-b1da-d284c7983b64</value>
+				<value>GUID b6f38631-9d1d-4664-974a-ac0bd21ae0b5</value>
+				<value>GUID 7ba4bca4-a5c7-40c1-9a2c-878e1d3e88bf</value>
+				<value>GUID bceb0399-1d9b-4e6f-8e80-8fa06ae8eccd</value>
+				<value>GUID 9b9d5416-f427-499c-8385-f76ebac983f1</value>
+				<value>GUID 5eec09a6-7dc9-49eb-9404-f6fa9c5e1637</value>
+				<value>GUID f94470f2-63d4-4a89-92a8-3291d235b7eb</value>
+				<value>GUID c62bb50c-689d-43d0-a7e6-250986b79a70</value>
+				<value>GUID c9b5d4a4-b198-4353-a9c4-786762a2784c</value>
+				<value>GUID 5be8bb6a-04c2-4f99-bf6f-031075cce754</value>
+				<value>GUID 898141b9-6d34-4d2b-ae5c-9dcc48d5d7ec</value>
+				<value>GUID 5fea5391-2fb7-438e-a7bf-e0a3551b3aa8</value>
+				<value>GUID 01846732-88f7-4355-8360-4f9c84839126</value>
+				<value>GUID 582c972d-7d4f-4eb9-b15f-7881e1d9d5f0</value>
+				<value>GUID 830183d1-77d8-4967-8bed-fe6b423bbe69</value>
+				<value>GUID 4aae7cdb-583c-4d81-b47d-78be2264da9e</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 82bd7d82-8c6a-45eb-8a89-a6a93ef2d51e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg01</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:42:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:42:43</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall notify the rider of the current number of chain rings and cassette rings on start up. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID bf0b195c-8b30-44fd-8534-2ab89bb6a5de</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg02</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:42:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:42:52</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept a rider command to enter a mode to configure the gearing.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5747ca7e-1856-4eb4-b5be-25af988d64e0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg13</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:44:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:44:31</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 3 chain rings shall be 28, 40, and 56.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 00877406-6d66-4d54-9459-d0e56eca0b04</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg16</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:44:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:44:54</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 11 cassette rings shall be 11, 12, 13, 14, 15, 16, 17, 19, 21, 23, and 25.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f2b91bce-1eef-4953-9232-71b32889e4d8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg17</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:9</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 12 cassette rings shall be 11, 13, 15, 17, 19, 21, 24, 28, 32, 36, 42, and 50.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID a6a27606-4c42-432d-aa43-0a5c78600240</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg18</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:17</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The rider shall be able to command the system to leave configuration mode. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 64766c15-1e1f-4b46-840d-83a81a973a43</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg19</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:24</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default starting gear shall be chain ring 1 and cassette ring 1 when starting a ride. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 32c37446-82ee-4efb-9027-4356ab82108d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg20</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:38</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The rider shall be able to augment the front chain ring from a lower to the next higher gear until the largest chain ring is reached.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 006367b2-1d09-4f2f-8e30-13c748d217b7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg22</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:56</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The rider shall be able to augment the cassette ring from a lower (larger number of teehth) to the next higher (smaller number of teeth) gear until the smallest cassette ring is reached. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ad035776-ca75-4abf-bc0b-f6bbe4ceaea4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg21</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:45:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:45:47</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The rider shall be able to decrement the front chain ring from a higher to the next lower gear until the smallest chain ring is reached. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c72943ad-b31b-4ebd-ba78-8dabd86a142e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg03</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:3</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept a rider command to set up from 1 to 3 front chain rings, inclusive.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 438c95ee-9c8b-425f-b540-117e0793f12a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg04</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:12</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of chain rings shall be 2. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8eb12a2a-a4d1-48a8-990a-b521f984caf3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg05</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:46:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:46:11</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The rider shall be able to decrement the cassette ring from a higher (smaller number of teeth) to the next lower (larger number of teeth) gear until the largest cassette ring is reached. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e88babfc-4f26-4848-b1da-d284c7983b64</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg06</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:25</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept a rider command to set up from 10-12 cassette rings, inclusive.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b6f38631-9d1d-4664-974a-ac0bd21ae0b5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg07</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:40</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of cassette rings shall be 12.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7ba4bca4-a5c7-40c1-9a2c-878e1d3e88bf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg08</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept a rider command to set any chain ring to have from 20 to 70 teeth. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID bceb0399-1d9b-4e6f-8e80-8fa06ae8eccd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg09</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:43:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:43:56</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept a rider command to set up any cassette ring to have from 10 to 50. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 9b9d5416-f427-499c-8385-f76ebac983f1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg10</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:44:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:44:4</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 1 chain ring shall be 48.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5eec09a6-7dc9-49eb-9404-f6fa9c5e1637</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg11</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:44:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:44:18</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 2 chain rings shall be 34 and 53.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f94470f2-63d4-4a89-92a8-3291d235b7eb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg12</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:46:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:46:25</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall inform the rider of the new gearing when the gear is changed. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c62bb50c-689d-43d0-a7e6-250986b79a70</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg14</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:46:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:46:35</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall inform the training app of the new gearing when the gear is changed. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c9b5d4a4-b198-4353-a9c4-786762a2784c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">efarg15</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:44:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:44:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The default number of teeth for 10 cassette rings shall be 11, 12, 14, 16, 18, 20, 22, 25, 28, and 32.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5be8bb6a-04c2-4f99-bf6f-031075cce754</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_1</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:12:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:12:10</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall send the current gearing to the training app when the current gearing changes changes. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 898141b9-6d34-4d2b-ae5c-9dcc48d5d7ec</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_2</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:12:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:12:36</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall respond to a rider-initiated increase in gear by applying the new level of gearing provided that it does not exceed the maximum gearing of the gearing configuration. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5fea5391-2fb7-438e-a7bf-e0a3551b3aa8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_3</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:12:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:12:51</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall respond to a ride-initiated decrease in gear by applying the new level of gearing provided that it does not exceed the minimum gearing of the gearing configuration. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 01846732-88f7-4355-8360-4f9c84839126</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_4</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:12:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:12:59</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\sa160\sl252\slmult1\f0\fs22 The system shall display the current selected gear.  \f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 582c972d-7d4f-4eb9-b15f-7881e1d9d5f0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_5</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:13:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::15:13:7</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\sa160\sl252\slmult1\f0\fs22 The system shall default to the minimum gear during initialization.\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 830183d1-77d8-4967-8bed-fe6b423bbe69</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID 4aae7cdb-583c-4d81-b47d-78be2264da9e</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">EFARRequirements</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.3.2020::13:36:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:36:25</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID b111e958-5496-4261-bece-7686817651d5</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

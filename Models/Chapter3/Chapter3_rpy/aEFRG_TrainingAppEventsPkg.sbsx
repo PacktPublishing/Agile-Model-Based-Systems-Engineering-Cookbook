@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID eede0180-333b-448d-a1f9-e756f02ce44d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">aEFRG_TrainingAppEventsPkg</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:46:24</_modifiedTime>
+			<weakCGTime type="a">5.15.2020::13:26:34</weakCGTime>
+			<strongCGTime type="a">5.15.2020::13:26:34</strongCGTime>
+			<_defaultComposite type="s">GUID 6dec6b93-9c02-4710-8195-8268b3732e48</_defaultComposite>
+			<_eventsBaseID type="a">1801</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 6dec6b93-9c02-4710-8195-8268b3732e48</value>
+				<value>GUID ccf39051-e388-45fa-b918-92a083df6f16</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 6dec6b93-9c02-4710-8195-8268b3732e48</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID ccf39051-e388-45fa-b918-92a083df6f16</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evCurrentGearing</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID d37a73a9-8f4f-4c3c-ab2e-e6836805024d</value>
+				<value>GUID b5ff9e2f-b271-456b-9aa8-10e9936fd2d1</value>
+				<value>GUID 94cccef9-679b-4936-96e8-f28142b6fc95</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID d37a73a9-8f4f-4c3c-ab2e-e6836805024d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evCurrentGearing</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg::EmulateFrontandRearGearingActorPkg</_hsubsystem>
+					<_hname type="a">evCurrentGearing(unsigned int,unsigned int)</_hname>
+					<_hid type="a">GUID 57a32304-fc85-464a-b7cb-8a4155255308</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID ccf39051-e388-45fa-b918-92a083df6f16</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID b5ff9e2f-b271-456b-9aa8-10e9936fd2d1</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">front</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::21:0:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::21:0:22</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID 94cccef9-679b-4936-96e8-f28142b6fc95</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">rear</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::21:0:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::21:0:31</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

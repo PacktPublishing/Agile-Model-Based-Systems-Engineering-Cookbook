@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6dd01c3e-c07a-43b4-951d-223aa2f327b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MeasurePerformanceMetricsExecutionScopePkg</_name>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:6</_modifiedTime>
+			<weakCGTime type="a">3.16.2020::14:11:6</weakCGTime>
+			<strongCGTime type="a">3.16.2020::14:11:6</strongCGTime>
+			<_defaultComposite type="s">GUID e12e3784-9fc7-47c2-a707-a9d21d76d072</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">3.16.2020::14:11:4</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d645b5b3-c718-4214-8583-27d1d1675615</value>
+				<value>GUID e12e3784-9fc7-47c2-a707-a9d21d76d072</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">Measure_Performance_MetricsSim</fileName>
+			<_id type="a">GUID d645b5b3-c718-4214-8583-27d1d1675615</_id>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID e12e3784-9fc7-47c2-a707-a9d21d76d072</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:6</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">3.16.2020::14:11:6</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 5fb78bbb-0870-4972-a1a2-36637ad3b664</value>
+				<value>GUID 7222af3d-dfb6-479a-bf60-03935094c5b1</value>
+				<value>GUID 76fb65e8-b884-4606-b9c2-f5ce5773e268</value>
+				<value>GUID 0bb56910-db8f-4e82-bec6-22485358a273</value>
+				<value>GUID e4a5fed6-6e75-48d1-a2d2-19644013f6f8</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 5fb78bbb-0870-4972-a1a2-36637ad3b664</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsUc_MeasurePerformanceMetrics</_name>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">Uc_MeasurePerformanceMetrics</_hname>
+					<_hid type="a">GUID b29ee614-7a00-443b-9a58-38230bc05c02</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 7222af3d-dfb6-479a-bf60-03935094c5b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtTrainingApp</_name>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg::MeasurePerformanceMetricsActorPkg</_hsubsystem>
+					<_hname type="a">aMPM_TrainingApp</_hname>
+					<_hid type="a">GUID 87c6d84c-76c6-40de-b72a-83c0f6df9cd8</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 76fb65e8-b884-4606-b9c2-f5ce5773e268</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtRider</_name>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:6</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg::MeasurePerformanceMetricsActorPkg</_hsubsystem>
+					<_hname type="a">aMPM_Rider</_hname>
+					<_hid type="a">GUID d1e6520e-add4-4ed9-9bbf-a9e7dc61e0e7</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IObjectLink type="e">
+			<_id type="a">GUID 0bb56910-db8f-4e82-bec6-22485358a273</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:6</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 7222af3d-dfb6-479a-bf60-03935094c5b1</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 5fb78bbb-0870-4972-a1a2-36637ad3b664</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg::MeasurePerformanceMetricsActorPkg</_hsubsystem>
+					<_hclass type="a">aMPM_TrainingApp</_hclass>
+					<_hname type="a">pUc_MeasurePerformanceMetrics</_hname>
+					<_hid type="a">GUID b3206d58-b146-4cef-bd6c-406802be3e2f</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hclass type="a">Uc_MeasurePerformanceMetrics</_hclass>
+					<_hname type="a">paMPM_TrainingApp</_hname>
+					<_hid type="a">GUID ce20763f-10fc-444c-a4be-e72c4ed10b53</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IObjectLink type="e">
+			<_id type="a">GUID e4a5fed6-6e75-48d1-a2d2-19644013f6f8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.16.2020::14:11:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2020::14:11:6</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 76fb65e8-b884-4606-b9c2-f5ce5773e268</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 5fb78bbb-0870-4972-a1a2-36637ad3b664</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg::MeasurePerformanceMetricsActorPkg</_hsubsystem>
+					<_hclass type="a">aMPM_Rider</_hclass>
+					<_hname type="a">pUc_MeasurePerformanceMetrics</_hname>
+					<_hid type="a">GUID 0e1a84c0-7304-4779-ba30-f076c880fa5c</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hclass type="a">Uc_MeasurePerformanceMetrics</_hclass>
+					<_hname type="a">paMPM_Rider</_hname>
+					<_hid type="a">GUID 18ba6bf4-4afb-4026-b687-7524a5140509</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

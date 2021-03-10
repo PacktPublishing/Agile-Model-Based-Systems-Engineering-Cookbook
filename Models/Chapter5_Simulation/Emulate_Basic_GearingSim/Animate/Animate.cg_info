@@ -1,0 +1,165 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 23;
+	- value = "Emulate_Basic_GearingSim/Animate/EmulateBasicGearingActorPkg.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingActorPkg.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingExecutionScopePkg.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingExecutionScopePkg.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingInterfacesPkg.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingInterfacesPkg.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingPkg.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingPkg.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingTypesPkg.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingTypesPkg.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/ProxyPortInterfaces.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/ProxyPortInterfaces.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/Real_appliedTorque_ProxyFlowPropertyInterface.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/Real_resistance_ProxyFlowPropertyInterface.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/Uc_EmulateBasicGearing.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/Uc_EmulateBasicGearing.h" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/aEBG_Rider.cpp" 11.25.2020::19:56:30
+	"Emulate_Basic_GearingSim/Animate/aEBG_Rider.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/aEBG_TrainingApp.cpp" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/aEBG_TrainingApp.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/decrementGear_ProxyReceptionInterface.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/gearing_ProxyReceptionInterface.h" 11.25.2020::19:56:29
+	"Emulate_Basic_GearingSim/Animate/incrementGear_ProxyReceptionInterface.h" 11.25.2020::19:56:29
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 6;
+	- value = "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855" "GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d"
+	"GUID 77f0dbe2-9dfa-4b41-a310-320097059622" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID bf97bc45-0b0f-4a05-9ce6-afb2865a305a" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID cb7d823d-d34b-46af-8d16-a6acf7319117" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	
+}
+- size = 20;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingTypesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingTypesPkg";
+	- _id = GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingExecutionScopePkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingExecutionScopePkg";
+	- _id = GUID cb7d823d-d34b-46af-8d16-a6acf7319117;
+}
+- genTime = 11.25.2020::20:47:15;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f46fab9f-be89-4d76-9331-6c8d8cf09664;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 664a0bff-ea08-452f-86d5-244f62be8352;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f3b14bf8-06ef-4c36-b183-7a043e92fbdb;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingInterfacesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingInterfacesPkg";
+	- _id = GUID bf97bc45-0b0f-4a05-9ce6-afb2865a305a;
+}
+- genTime = 11.25.2020::20:46:55;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg";
+	- _name = "aEBG_TrainingApp";
+	- _id = GUID 76f2f130-928a-4579-9b45-53792fe132f1;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e6a5c9e0-8549-4d81-a196-bb8deade079b;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d769bcdc-6656-48e9-87fc-d63fd282df90;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a5b9aa5a-1d8b-46d6-9050-07808601fdf0;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg";
+	- _name = "EmulateBasicGearingPkg";
+	- _id = GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg";
+	- _name = "aEBG_Rider";
+	- _id = GUID 6d485360-e18b-410f-b0f1-42db71e12696;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingActorPkg";
+	- _id = GUID 77f0dbe2-9dfa-4b41-a310-320097059622;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e51a186d-db4b-4931-9254-9c2d763e3553;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 8356e2bf-109f-4077-8576-98d1127c5a76;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_Simulation_rpy\\EmulateBasicGearingPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "Uc_EmulateBasicGearing";
+	- _id = GUID e0d62fb0-a3cf-4429-beb4-355bf3c3eec8;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 32c8404d-713b-4138-969a-5a71b054a5a0;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 452c787f-9d15-4c5a-8f47-94bd8ec22272;
+}
+- genTime = 11.25.2020::19:56:30;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f2846f70-eeb9-4082-8530-6f8c67047411;
+}
+- genTime = 11.25.2020::20:45:32;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 5b731d14-46fa-4078-9c93-aa1cea54d8ac;
+}
+- genTime = 11.25.2020::20:45:32;
+

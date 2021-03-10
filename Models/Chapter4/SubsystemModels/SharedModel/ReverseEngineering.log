@@ -1,0 +1,29 @@
+
+Collect Macros 'F:\cygwin\lib\clang\3.8.1\include\stdint.h'
+File: F:\cygwin\lib\clang\3.8.1\include\stdint.h, Line: 31 in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+
+Collect Macros Done. See detailed report in the log file.
+
+
+Reverse Engineering 'F:\cygwin\lib\clang\3.8.1\include\stdint.h'
+Adding package 'include' to project 'SharedModel'. ok.
+File: F:\cygwin\lib\clang\3.8.1\include\stdint.h, Line: 31 in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+
+Parsing Summary:
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+"F:\cygwin\lib\clang\3.8.1\include\stdint.h":LINE 31: in preprocessor expression, next token should be unary op, operand leaf, or '(', not <
+
+Reverse Engineering Done (8). See detailed report in the log file.
+
+Creating Diagrams.
+
+Creating Diagram for Project SharedModel.
+
+Creating Diagrams Done.
+

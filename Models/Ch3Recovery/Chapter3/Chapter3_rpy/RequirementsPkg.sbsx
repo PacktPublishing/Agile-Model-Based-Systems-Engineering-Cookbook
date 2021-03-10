@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RequirementsPkg</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:12:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:27:4</_modifiedTime>
+			<_lastID type="a">13</_lastID>
+			<weakCGTime type="a">6.9.2020::12:12:33</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:45:0</strongCGTime>
+			<_defaultComposite type="s">GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">6.9.2020::11:58:3</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID db721767-19e4-4e74-be10-6942a53ead7e</value>
+				<value>GUID e9528cd9-991e-4251-a0a3-b294a389d38f</value>
+				<value>GUID 2c17148a-32af-495e-a4be-3b96b283eb9d</value>
+				<value>GUID 1bf0314f-34b4-49f1-8a6c-f5e27e46a2ab</value>
+				<value>GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</value>
+				<value>GUID b111e958-5496-4261-bece-7686817651d5</value>
+				<value>GUID 75f3e5b3-a632-4236-8708-ada6253cb224</value>
+				<value>GUID d355ee3f-1989-4b94-9475-aec0cd3a6b85</value>
+				<value>GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</value>
+				<value>GUID 9c6c0cb2-d38a-492c-b5e0-a041db646629</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComment type="e">
+			<_id type="a">GUID db721767-19e4-4e74-be10-6942a53ead7e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">comment_8</_name>
+			<_modifiedTimeWeak type="a">6.5.2020::15:19:50</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Mission: Show requirements for allocation and identify requirements that must be decomposed into derived requirements for allocation. </_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">6.5.2020::15:19:50</_modifiedTime>
+		</IComment>
+		<IComment type="e">
+			<_id type="a">GUID e9528cd9-991e-4251-a0a3-b294a389d38f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">comment_9</_name>
+			<_modifiedTimeWeak type="a">6.8.2020::12:36:32</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Mission: Show the decomposition of the requirements traced to from the Control Resistance use case for the purpose of allocation to subsystems. %0D
+</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">6.8.2020::12:36:32</_modifiedTime>
+		</IComment>
+		<ITag type="e">
+			<_id type="a">GUID 2c17148a-32af-495e-a4be-3b96b283eb9d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">includeInSharedModel</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 17b3bec9-0c69-426d-8b86-e5e6fc96db2f</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 17b3bec9-0c69-426d-8b86-e5e6fc96db2f</_id>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 1bf0314f-34b4-49f1-8a6c-f5e27e46a2ab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">includeInSubsystemModel</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 6acd41d0-3c35-4132-bc86-0c2f2e1a6a07</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 6acd41d0-3c35-4132-bc86-0c2f2e1a6a07</_id>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<ISubsystem type="e">
+			<fileName type="a">ComputeResistanceReqPkg</fileName>
+			<_id type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">EmulateFrontAndRearGearingReqPkg</fileName>
+			<_id type="a">GUID b111e958-5496-4261-bece-7686817651d5</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">EmulateDIShiftingReqPkg</fileName>
+			<_id type="a">GUID 75f3e5b3-a632-4236-8708-ada6253cb224</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SubsystemRequirementsPkg</fileName>
+			<_id type="a">GUID d355ee3f-1989-4b94-9475-aec0cd3a6b85</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IMatrixInstance type="e">
+			<_id type="a">GUID 9c6c0cb2-d38a-492c-b5e0-a041db646629</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Compute Resistance Derived Reqs View</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:12:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:12:33</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMatrixLayout</_hm2Class>
+					<_hfilename type="a">.\CommonPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">CommonPkg</_hsubsystem>
+					<_hname type="a">Derived Reqs Layout</_hname>
+					<_hid type="a">GUID 6e61ff9d-9d93-489e-85a1-104321d7ad6d</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<FromScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SubsystemRequirementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">SubsystemRequirementsPkg</_hname>
+							<_hid type="a">GUID d355ee3f-1989-4b94-9475-aec0cd3a6b85</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</FromScopeHandles>
+			<ToScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">ComputeResistanceReqPkg</_hname>
+							<_hid type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ToScopeHandles>
+		</IMatrixInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

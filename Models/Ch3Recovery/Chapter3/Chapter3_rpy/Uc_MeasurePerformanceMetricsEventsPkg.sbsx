@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 60b154b6-f9ea-4071-9f0d-1b849404da8d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Uc_MeasurePerformanceMetricsEventsPkg</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:46:24</_modifiedTime>
+			<weakCGTime type="a">5.15.2020::13:26:35</weakCGTime>
+			<strongCGTime type="a">5.15.2020::13:26:35</strongCGTime>
+			<_defaultComposite type="s">GUID bb8fca07-a9a2-4a1d-b4a3-fea5685b18bf</_defaultComposite>
+			<_eventsBaseID type="a">15801</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID bb8fca07-a9a2-4a1d-b4a3-fea5685b18bf</value>
+				<value>GUID 33347fd6-11fe-4495-832e-5ccafddbea53</value>
+				<value>GUID 8f459c04-1da8-42b4-95ed-a34e8375e650</value>
+				<value>GUID 16919516-86ba-4b36-8da3-12802de1bf6e</value>
+				<value>GUID d2630002-a386-4210-8507-c4eecd8f87da</value>
+				<value>GUID f4657cce-92a7-4cbb-986e-ef66174dbc03</value>
+				<value>GUID aea4bf5a-654e-4043-bc6e-4bc068d7debb</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID bb8fca07-a9a2-4a1d-b4a3-fea5685b18bf</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID 33347fd6-11fe-4495-832e-5ccafddbea53</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqGet_App_Ride_Interaction_Type</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID b2f0e932-3f75-4aa7-9dad-c887b06e3dab</value>
+				<value>GUID d52d3384-43cc-4b69-84c0-086b075fc63d</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID b2f0e932-3f75-4aa7-9dad-c887b06e3dab</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqGet_App_Ride_Interaction_Type</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqGet_App_Ride_Interaction_Type(APP_INTERACTION_TYPE)</_hname>
+					<_hid type="a">GUID 3cca5276-522b-4456-a29b-b614dfb3a675</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 33347fd6-11fe-4495-832e-5ccafddbea53</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID d52d3384-43cc-4b69-84c0-086b075fc63d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">interaction</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\Uc_MeasurePerformanceMetricsDataTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg::Uc_MeasurePerformanceMetricsDataTypesPkg</_hsubsystem>
+					<_hname type="a">APP_INTERACTION_TYPE</_hname>
+					<_hid type="a">GUID 403f5f4c-4b03-47ef-8c58-56735245917a</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 8f459c04-1da8-42b4-95ed-a34e8375e650</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqStart_Ride</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 8f6c3fa3-6cc9-4402-b1b4-a316b2184321</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 8f6c3fa3-6cc9-4402-b1b4-a316b2184321</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqStart_Ride</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqStart_Ride()</_hname>
+					<_hid type="a">GUID 76c597fa-8210-4388-b158-3f9eee8df9cd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 8f459c04-1da8-42b4-95ed-a34e8375e650</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 16919516-86ba-4b36-8da3-12802de1bf6e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqMeasure_Pedal_Position</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID c987eddf-d11c-40c6-a413-a3e3f414792a</value>
+				<value>GUID 59a134f7-33c5-477f-b441-aa0ccdb98cdd</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID c987eddf-d11c-40c6-a413-a3e3f414792a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqMeasure_Pedal_Position</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqMeasure_Pedal_Position(Radian)</_hname>
+					<_hid type="a">GUID 0afbd07c-15a6-4652-8fd8-56633f54db62</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 16919516-86ba-4b36-8da3-12802de1bf6e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID 59a134f7-33c5-477f-b441-aa0ccdb98cdd</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">rad</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\Uc_MeasurePerformanceMetricsDataTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg::Uc_MeasurePerformanceMetricsDataTypesPkg</_hsubsystem>
+					<_hname type="a">Radian</_hname>
+					<_hid type="a">GUID 57649f49-2064-4fdd-925e-75840c1452a5</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID d2630002-a386-4210-8507-c4eecd8f87da</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqMeasure_Applied_Power</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 30bcd518-0671-4708-9bb5-9513b622f6ae</value>
+				<value>GUID 570b118e-6a79-4750-b54b-a2cc274c0bd3</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 30bcd518-0671-4708-9bb5-9513b622f6ae</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqMeasure_Applied_Power</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqMeasure_Applied_Power(Newton)</_hname>
+					<_hid type="a">GUID b7d1c763-b686-4d59-ac8b-61411fa05326</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID d2630002-a386-4210-8507-c4eecd8f87da</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID 570b118e-6a79-4750-b54b-a2cc274c0bd3</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">pow</_name>
+			<_modifiedTimeWeak type="a">4.26.2020::22:14:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.26.2020::22:14:11</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::SIDefinitions::DerivedSIUnits</_hsubsystem>
+					<_hname type="a">Newton</_hname>
+					<_hid type="a">GUID 91e8f96a-5b8b-47c9-b9d6-9f6f763a4140</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID f4657cce-92a7-4cbb-986e-ef66174dbc03</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqUploadRide</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID a396aad1-d570-4770-a32f-1dec9c23c44c</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID a396aad1-d570-4770-a32f-1dec9c23c44c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqUploadRide</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqUploadRide()</_hname>
+					<_hid type="a">GUID 86c3b4d1-8072-467b-b49a-b4d1e3fe5fdd</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID f4657cce-92a7-4cbb-986e-ef66174dbc03</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID aea4bf5a-654e-4043-bc6e-4bc068d7debb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqSelect_Ride</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 1f8bb374-e83f-4cc6-b21a-e07cb0111f3c</value>
+				<value>GUID 454cbe4d-a2b9-41dc-9e4b-3224d8125f2d</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 1f8bb374-e83f-4cc6-b21a-e07cb0111f3c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">reqSelect_Ride</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">reqSelect_Ride(int)</_hname>
+					<_hid type="a">GUID eb71145b-c4a9-488d-962b-ffa6c9c5a35c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID aea4bf5a-654e-4043-bc6e-4bc068d7debb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID 454cbe4d-a2b9-41dc-9e4b-3224d8125f2d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">id</_name>
+			<_modifiedTimeWeak type="a">4.26.2020::22:21:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.26.2020::22:21:53</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

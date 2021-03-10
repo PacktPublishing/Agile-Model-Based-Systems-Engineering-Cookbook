@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 15825663-d78e-45ea-b05b-15c80e247a01</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RequirementsAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">11.29.2020::0:5:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.29.2020::0:8:0</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">11.29.2020::0:5:3</weakCGTime>
+			<strongCGTime type="a">9.4.2020::15:34:19</strongCGTime>
+			<_defaultComposite type="s">GUID f210abca-d5ef-4802-ae63-b76cc6e4eb4c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">6.5.2020::15:11:1</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</value>
+				<value>GUID 75191e82-e9bb-49a1-884e-f61f4d807323</value>
+				<value>GUID f210abca-d5ef-4802-ae63-b76cc6e4eb4c</value>
+				<value>GUID 6bee3caf-922c-44c6-bf7e-09b022a721df</value>
+				<value>GUID aac48dab-01cf-429b-a134-212498f65907</value>
+				<value>GUID a6d06860-0293-4feb-a8fb-b0fc0dbc4912</value>
+				<value>GUID 82b549b7-7a69-48f7-addd-a11f85b73b81</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">RequirementsPkg</fileName>
+			<_id type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">UseCaseDiagramsPkg</fileName>
+			<_id type="a">GUID 75191e82-e9bb-49a1-884e-f61f4d807323</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID f210abca-d5ef-4802-ae63-b76cc6e4eb4c</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">9.4.2020::15:34:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">9.4.2020::15:34:19</weakCGTime>
+			<strongCGTime type="a">9.4.2020::15:34:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID 6bee3caf-922c-44c6-bf7e-09b022a721df</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">TableSortColumnState</_Name>
+													<_Value type="a">1,1,0</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">All Requirements</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">11.29.2020::0:5:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.29.2020::0:5:3</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID 15825663-d78e-45ea-b05b-15c80e247a01</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		<ITableInstance type="e">
+			<_id type="a">GUID aac48dab-01cf-429b-a134-212498f65907</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">TableSortColumnState</_Name>
+													<_Value type="a">1,1,0</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Compute Resistance Requirements</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.5.2020::14:39:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.5.2020::14:39:15</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">ComputeResistanceReqPkg</_hname>
+							<_hid type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		<IMatrixInstance type="e">
+			<_id type="a">GUID a6d06860-0293-4feb-a8fb-b0fc0dbc4912</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Chapter2UseCaseReqsMatrix</_name>
+			<_modifiedTimeWeak type="a">3.3.2020::13:48:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.3.2020::13:48:6</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMatrixLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE::Layouts</_hsubsystem>
+					<_hname type="a">Use Case Trace Matrix Layout</_hname>
+					<_hid type="a">GUID d790271d-be1a-45cc-bb7e-3459d726a768</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<FromScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProject</_hm2Class>
+							<_hname type="a">Chapter5_MBT</_hname>
+							<_hid type="a">GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</FromScopeHandles>
+			<ToScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID 15825663-d78e-45ea-b05b-15c80e247a01</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ToScopeHandles>
+		</IMatrixInstance>
+		<IMatrixInstance type="e">
+			<_id type="a">GUID 82b549b7-7a69-48f7-addd-a11f85b73b81</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Chapter2UseCaseReqsMatrix_ControlResistance</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:53:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:53:1</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMatrixLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE::Layouts</_hsubsystem>
+					<_hname type="a">Use Case Trace Matrix Layout</_hname>
+					<_hid type="a">GUID d790271d-be1a-45cc-bb7e-3459d726a768</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<FromScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProject</_hm2Class>
+							<_hname type="a">Chapter5_MBT</_hname>
+							<_hid type="a">GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</FromScopeHandles>
+			<ToScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProject</_hm2Class>
+							<_hname type="a">Chapter5_MBT</_hname>
+							<_hid type="a">GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ToScopeHandles>
+		</IMatrixInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0f444dae-74a1-4a23-9ed8-4fde2eb04909</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">BikeCV_Case2</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintView</_hname>
+							<_hid type="a">GUID ebbbe90e-2234-48a0-ac69-a4dd36914337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.17.2020::15:59:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2020::16:1:29</_modifiedTime>
+			<weakCGTime type="a">8.17.2020::15:59:46</weakCGTime>
+			<strongCGTime type="a">8.17.2020::15:59:46</strongCGTime>
+			<_defaultComposite type="s">GUID 0d57bae8-d6a5-4ff7-8c7a-597c1cd15e2d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 6991a676-8bea-4608-bef7-af6ddf09ba5e</value>
+				<value>GUID a4d5850a-8163-4977-893d-52bcac66d980</value>
+				<value>GUID 0d57bae8-d6a5-4ff7-8c7a-597c1cd15e2d</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 6991a676-8bea-4608-bef7-af6ddf09ba5e</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Gearing Parameterics PAR</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToParametricDiagram</_hname>
+							<_hid type="a">GUID 9f6062ec-a2c8-4edd-8d4c-a53bafe9e540</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.17.2020::15:45:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2020::15:58:8</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\BikePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">BikePkg</_hsubsystem>
+					<_hname type="a">Gearing Parameterics PAR</_hname>
+					<_hid type="a">GUID 2d140bd7-de86-4b88-aa3a-b8f02ba39734</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 0f444dae-74a1-4a23-9ed8-4fde2eb04909</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID a4d5850a-8163-4977-893d-52bcac66d980</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">BikeIS_34x18At90</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToInstance</_hname>
+							<_hid type="a">GUID b7002f52-6c8b-4f1c-8162-2f48e79e7337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.17.2020::15:59:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2020::15:59:46</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IInstanceSpecification</_hm2Class>
+					<_hfilename type="a">.\BikePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">BikePkg</_hsubsystem>
+					<_hname type="a">BikeIS_34x18At90</_hname>
+					<_hid type="a">GUID dbc784ef-5606-4c9a-842d-38409b75fd38</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 0f444dae-74a1-4a23-9ed8-4fde2eb04909</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 0d57bae8-d6a5-4ff7-8c7a-597c1cd15e2d</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">8.17.2020::15:45:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">8.17.2020::15:45:34</weakCGTime>
+			<strongCGTime type="a">8.17.2020::15:45:34</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 3a99b908-8598-4131-a0fe-69804a584008</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TempPkg</_name>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:42</_modifiedTime>
+			<weakCGTime type="a">9.8.2020::12:38:42</weakCGTime>
+			<strongCGTime type="a">9.6.2020::2:26:20</strongCGTime>
+			<_defaultComposite type="s">GUID a554b2de-bb5f-4674-a682-47f0a7e240ca</_defaultComposite>
+			<_eventsBaseID type="a">16001</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID a554b2de-bb5f-4674-a682-47f0a7e240ca</value>
+				<value>GUID cf6a3f85-bc0e-4d25-82da-8d86fa8de3b8</value>
+				<value>GUID 1a607297-2007-4979-94ec-5b03c1757ee1</value>
+				<value>GUID 6919f5f6-b813-4050-a9b4-2e8e137bd500</value>
+				<value>GUID b76f8b4c-1e82-4eb6-a7a3-f98383784d23</value>
+				<value>GUID eb4dc2da-a0ab-4434-b3ce-798c3abfa00f</value>
+				<value>GUID 5feeb5c6-8469-4b93-b8df-252e403a6108</value>
+				<value>GUID 835a76d7-14a0-457a-92c3-c9e2ac61f4a7</value>
+				<value>GUID 298186b4-c2b7-47ad-8eca-7c8562469bf7</value>
+				<value>GUID fa7772e7-dd86-4b72-a21d-8b248a5c9851</value>
+				<value>GUID c30c1b61-31bc-4098-9f43-9010d8aff278</value>
+				<value>GUID 223820e2-22ad-4a7d-9a44-3bf985139a82</value>
+				<value>GUID 021403f7-8864-4824-b27b-2bbf177d2654</value>
+				<value>GUID e65e1749-7794-45f2-bbb4-52efdd5cfb63</value>
+				<value>GUID 6c33ea2a-4f99-4ee5-83db-617b9ed30f32</value>
+				<value>GUID 869fb8cd-cdad-47ad-8750-9b7b02705d69</value>
+				<value>GUID 9d4073aa-bfc2-4c7d-ba29-6e3113d16408</value>
+				<value>GUID 4417f8cf-b620-45db-8081-7a9ab534848b</value>
+				<value>GUID 37a06ca2-66a5-4e98-98f9-e6b15d906b0f</value>
+				<value>GUID e9074bfd-00a9-4c4f-8856-dc374c385428</value>
+				<value>GUID 2da5b4e0-10a9-48b9-865c-081ebb0d88ea</value>
+				<value>GUID 42c6923f-a8cd-4c89-b914-438443929868</value>
+				<value>GUID 8b88639c-72c4-4c58-982e-801fbe56047f</value>
+				<value>GUID d8855ca0-7eba-47f9-8125-04da514180cd</value>
+				<value>GUID 405a8422-a4db-4768-b876-ebc3883ded83</value>
+				<value>GUID 6181ea01-735f-4a1b-af2d-8088a31cede5</value>
+				<value>GUID a4acf26b-7f8b-4306-ae9e-dc3c714ff467</value>
+				<value>GUID acb60619-ca3c-4bfa-80d1-8bc45fe73731</value>
+				<value>GUID 17ab8058-cb41-407f-8141-e8846e966c8d</value>
+				<value>GUID e863fec8-e524-49b9-a8d9-40b11c741062</value>
+				<value>GUID ce576635-6f4e-40a6-a560-54464afb3483</value>
+				<value>GUID ccf39051-e388-45fa-b918-92a083df6f16</value>
+				<value>GUID d3a1c9cb-f573-4f60-89f2-791e45b5c5de</value>
+				<value>GUID 8def688c-60b7-4cc9-915b-353f715e1479</value>
+				<value>GUID 7688ea16-22ec-4b22-9972-865eb7b8988d</value>
+				<value>GUID 7b696a6c-6522-4fe7-b26d-cf5cf5ec647a</value>
+				<value>GUID 6423a2c9-baac-4d7e-bf4e-739cfe5d5266</value>
+				<value>GUID 5ba2f02f-d05f-4729-8b0f-6a07acb9d7a9</value>
+				<value>GUID 989d4dd2-2a35-4ace-86d7-0b78c6447946</value>
+				<value>GUID 6ff193fe-0f2c-4088-a8ab-d0ac8e251e89</value>
+				<value>GUID 72aff8fc-dcfa-4a5f-87c3-10595bdf9b0f</value>
+				<value>GUID b785bbca-8c19-4844-9a4f-7606699d3ce8</value>
+				<value>GUID e134f1c0-8dce-4c1c-9e94-7b25e1b62a72</value>
+				<value>GUID 826cf545-0a52-41ab-ada4-66d23d1bbefb</value>
+				<value>GUID 68eecaa5-351b-48af-b7ce-45696b6a4140</value>
+				<value>GUID 0f0b21b5-15b7-492a-b3ef-da781fffdc27</value>
+				<value>GUID 33347fd6-11fe-4495-832e-5ccafddbea53</value>
+				<value>GUID 8f459c04-1da8-42b4-95ed-a34e8375e650</value>
+				<value>GUID 16919516-86ba-4b36-8da3-12802de1bf6e</value>
+				<value>GUID d2630002-a386-4210-8507-c4eecd8f87da</value>
+				<value>GUID f4657cce-92a7-4cbb-986e-ef66174dbc03</value>
+				<value>GUID aea4bf5a-654e-4043-bc6e-4bc068d7debb</value>
+				<value>GUID 61ca6fb8-7b30-40ea-b554-11ce098db302</value>
+				<value>GUID a2159d37-72f4-49af-910c-06eb6ee94c38</value>
+				<value>GUID fc024f33-66b7-4efd-a49d-2c7c9a28a110</value>
+				<value>GUID 88ad9cd3-4ad9-4d5b-af10-1b9f9666425a</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID a554b2de-bb5f-4674-a682-47f0a7e240ca</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID cf6a3f85-bc0e-4d25-82da-8d86fa8de3b8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">decrementGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 1a607297-2007-4979-94ec-5b03c1757ee1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">incrementGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 6919f5f6-b813-4050-a9b4-2e8e137bd500</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">chAppliedTorque</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID b76f8b4c-1e82-4eb6-a7a3-f98383784d23</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">gearing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 754015b3-ef38-4cd5-8e73-e763f50191c4</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 754015b3-ef38-4cd5-8e73-e763f50191c4</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">gear</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::17:47:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::17:47:47</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID eb4dc2da-a0ab-4434-b3ce-798c3abfa00f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">chResistance</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 5feeb5c6-8469-4b93-b8df-252e403a6108</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exAugment</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 835a76d7-14a0-457a-92c3-c9e2ac61f4a7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDecrement</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 298186b4-c2b7-47ad-8eca-7c8562469bf7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSendPedalCadenceToApp</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 661146bf-0577-4079-9670-c7b8aa9aab94</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 661146bf-0577-4079-9670-c7b8aa9aab94</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">pCad</_name>
+			<_modifiedTimeWeak type="a">2.20.2020::11:55:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.20.2020::11:55:2</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID fa7772e7-dd86-4b72-a21d-8b248a5c9851</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSendFilteredPowerToApp</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 16f83aad-2e76-4262-ad41-9de66fdc892f</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 16f83aad-2e76-4262-ad41-9de66fdc892f</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">pow</_name>
+			<_modifiedTimeWeak type="a">2.20.2020::11:56:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.20.2020::11:56:49</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID c30c1b61-31bc-4098-9f43-9010d8aff278</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSendSpeedToApp</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID d3f48837-0b66-41ae-8c89-cf63cf2f8211</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID d3f48837-0b66-41ae-8c89-cf63cf2f8211</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">bSpeed</_name>
+			<_modifiedTimeWeak type="a">2.20.2020::11:58:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.20.2020::11:58:34</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 223820e2-22ad-4a7d-9a44-3bf985139a82</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSendAccelerationToApp</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID ebfe1cc8-4051-47c0-a92b-34268f31375e</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID ebfe1cc8-4051-47c0-a92b-34268f31375e</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">bAcceleration</_name>
+			<_modifiedTimeWeak type="a">2.20.2020::11:59:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.20.2020::11:59:37</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 021403f7-8864-4824-b27b-2bbf177d2654</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID e65e1749-7794-45f2-bbb4-52efdd5cfb63</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetIncline</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 6c33ea2a-4f99-4ee5-83db-617b9ed30f32</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSendWattsPerKgToApp</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 27df28c6-e9a3-453e-992d-fee9ac33cef0</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 27df28c6-e9a3-453e-992d-fee9ac33cef0</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">wpk</_name>
+			<_modifiedTimeWeak type="a">2.20.2020::12:43:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.20.2020::12:43:58</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 869fb8cd-cdad-47ad-8750-9b7b02705d69</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evApplyResistance</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 81c744a5-5d46-4f26-80b7-371ebc5aaade</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 81c744a5-5d46-4f26-80b7-371ebc5aaade</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">res</_name>
+			<_modifiedTimeWeak type="a">2.19.2020::19:10:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.19.2020::19:10:29</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::StandardValueTypes</_hsubsystem>
+					<_hname type="a">Real</_hname>
+					<_hid type="a">GUID 61a2a90b-9e09-4003-95a6-d522b44eadbe</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 9d4073aa-bfc2-4c7d-ba29-6e3113d16408</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exStartPedaling</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 4417f8cf-b620-45db-8081-7a9ab534848b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exStopPedaling</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 37a06ca2-66a5-4e98-98f9-e6b15d906b0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evConfigureGearing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID e9074bfd-00a9-4c4f-8856-dc374c385428</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDoneConfiguring</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 2da5b4e0-10a9-48b9-865c-081ebb0d88ea</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evBeginRiding</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 42c6923f-a8cd-4c89-b914-438443929868</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDoneRiding</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 8b88639c-72c4-4c58-982e-801fbe56047f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetNumberOfChainRings</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID dd0f82a1-5b1f-41a7-90d1-72f952d127e9</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID dd0f82a1-5b1f-41a7-90d1-72f952d127e9</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">n</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:38</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID d8855ca0-7eba-47f9-8125-04da514180cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetNumberOfCassetteRings</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 86421f59-f6e1-4c59-b4a6-2ce557989168</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 86421f59-f6e1-4c59-b4a6-2ce557989168</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">n</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:26:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:26:31</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 405a8422-a4db-4768-b876-ebc3883ded83</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetCassetteRingTeeth</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 7f0e4c35-e52c-4bec-9cf2-c4938e32557f</value>
+				<value>GUID e9ede245-17c6-45db-8619-b40c8577ee80</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 7f0e4c35-e52c-4bec-9cf2-c4938e32557f</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">cr</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:2</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID e9ede245-17c6-45db-8619-b40c8577ee80</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">teeth</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:13</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 6181ea01-735f-4a1b-af2d-8088a31cede5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evAugmentFrontGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID a4acf26b-7f8b-4306-ae9e-dc3c714ff467</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDecrementFrontGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID acb60619-ca3c-4bfa-80d1-8bc45fe73731</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evAugmentRearGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 17ab8058-cb41-407f-8141-e8846e966c8d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDecrementRearGear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID e863fec8-e524-49b9-a8d9-40b11c741062</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetChainRingTeeth</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID e39a9f75-5af5-4d46-bdcb-706a2400da4d</value>
+				<value>GUID b7f2b2bc-3508-4d1f-8d8c-49ab4e085b12</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID e39a9f75-5af5-4d46-bdcb-706a2400da4d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">cr</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:49</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID b7f2b2bc-3508-4d1f-8d8c-49ab4e085b12</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">teeth</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:53</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID ce576635-6f4e-40a6-a560-54464afb3483</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evShowGearing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID ccf39051-e388-45fa-b918-92a083df6f16</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evCurrentGearing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID b5ff9e2f-b271-456b-9aa8-10e9936fd2d1</value>
+				<value>GUID 94cccef9-679b-4936-96e8-f28142b6fc95</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID b5ff9e2f-b271-456b-9aa8-10e9936fd2d1</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">front</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::21:0:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::21:0:22</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID 94cccef9-679b-4936-96e8-f28142b6fc95</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">rear</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::21:0:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::21:0:31</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID d3a1c9cb-f573-4f60-89f2-791e45b5c5de</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exConfigure</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 8def688c-60b7-4cc9-915b-353f715e1479</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDoneConfiguring</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 7688ea16-22ec-4b22-9972-865eb7b8988d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetNChainRings</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 7b696a6c-6522-4fe7-b26d-cf5cf5ec647a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetChainRing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 6423a2c9-baac-4d7e-bf4e-739cfe5d5266</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetNCassetteRings</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 5ba2f02f-d05f-4729-8b0f-6a07acb9d7a9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exSetCassetteRing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 989d4dd2-2a35-4ace-86d7-0b78c6447946</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exBeginRiding</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 6ff193fe-0f2c-4088-a8ab-d0ac8e251e89</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDoneRiding</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 72aff8fc-dcfa-4a5f-87c3-10595bdf9b0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exAugFront</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID b785bbca-8c19-4844-9a4f-7606699d3ce8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDecFront</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID e134f1c0-8dce-4c1c-9e94-7b25e1b62a72</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exAugRear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 826cf545-0a52-41ab-ada4-66d23d1bbefb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDecRear</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 68eecaa5-351b-48af-b7ce-45696b6a4140</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exShowGearing</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 0f0b21b5-15b7-492a-b3ef-da781fffdc27</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evInitialSettings</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 0a89fd05-9658-4280-8bf7-7313afb254db</value>
+				<value>GUID 3adc646f-c08c-4658-97fc-b1e4100d3a03</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 0a89fd05-9658-4280-8bf7-7313afb254db</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">chainRings</_name>
+			<_modifiedTimeWeak type="a">3.2.2020::14:2:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2020::14:2:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID 3adc646f-c08c-4658-97fc-b1e4100d3a03</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">cassetteRings</_name>
+			<_modifiedTimeWeak type="a">3.2.2020::14:2:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.2.2020::14:2:12</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 33347fd6-11fe-4495-832e-5ccafddbea53</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqGet_App_Ride_Interaction_Type</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID d52d3384-43cc-4b69-84c0-086b075fc63d</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID d52d3384-43cc-4b69-84c0-086b075fc63d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">interaction</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\DataSchemaPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::DataSchemaPkg</_hsubsystem>
+					<_hname type="a">APP_INTERACTION_TYPE</_hname>
+					<_hid type="a">GUID 403f5f4c-4b03-47ef-8c58-56735245917a</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 8f459c04-1da8-42b4-95ed-a34e8375e650</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqStart_Ride</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID 16919516-86ba-4b36-8da3-12802de1bf6e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqMeasure_Pedal_Position</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 59a134f7-33c5-477f-b441-aa0ccdb98cdd</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 59a134f7-33c5-477f-b441-aa0ccdb98cdd</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">rad</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:35</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\DataSchemaPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::DataSchemaPkg</_hsubsystem>
+					<_hname type="a">Radian</_hname>
+					<_hid type="a">GUID 57649f49-2064-4fdd-925e-75840c1452a5</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID d2630002-a386-4210-8507-c4eecd8f87da</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqMeasure_Applied_Power</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 570b118e-6a79-4750-b54b-a2cc274c0bd3</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 570b118e-6a79-4750-b54b-a2cc274c0bd3</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">pow</_name>
+			<_modifiedTimeWeak type="a">4.26.2020::22:14:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.26.2020::22:14:11</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::SIDefinitions::DerivedSIUnits</_hsubsystem>
+					<_hname type="a">Newton</_hname>
+					<_hid type="a">GUID 91e8f96a-5b8b-47c9-b9d6-9f6f763a4140</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID f4657cce-92a7-4cbb-986e-ef66174dbc03</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqUploadRide</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID aea4bf5a-654e-4043-bc6e-4bc068d7debb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">reqSelect_Ride</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 454cbe4d-a2b9-41dc-9e4b-3224d8125f2d</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 454cbe4d-a2b9-41dc-9e4b-3224d8125f2d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">id</_name>
+			<_modifiedTimeWeak type="a">4.26.2020::22:21:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.26.2020::22:21:53</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 61ca6fb8-7b30-40ea-b554-11ce098db302</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSend_Ride_Interval_Data</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 6ea05e72-9104-4cb0-a0c7-51919e898193</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 6ea05e72-9104-4cb0-a0c7-51919e898193</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">rd</_name>
+			<_modifiedTimeWeak type="a">9.8.2020::12:15:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:15:34</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\DataSchemaPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::DataSchemaPkg</_hsubsystem>
+					<_hname type="a">RidePerforanceData</_hname>
+					<_hid type="a">GUID 08fc35ea-4a07-4869-ba83-39d05e4c4d57</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID a2159d37-72f4-49af-910c-06eb6ee94c38</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evClose_Session</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+		</IEvent>
+		<IEvent type="e">
+			<_id type="a">GUID fc024f33-66b7-4efd-a49d-2c7c9a28a110</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSend_Performance_Data</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:41</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 7d203eb3-5119-4084-9060-9266a2eb702b</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 7d203eb3-5119-4084-9060-9266a2eb702b</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">pd</_name>
+			<_modifiedTimeWeak type="a">9.8.2020::12:14:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:14:17</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\DataSchemaPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">InterfacesPkg::DataSchemaPkg</_hsubsystem>
+					<_hname type="a">RidePerforanceData</_hname>
+					<_hid type="a">GUID 08fc35ea-4a07-4869-ba83-39d05e4c4d57</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 88ad9cd3-4ad9-4d5b-af10-1b9f9666425a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evRideList</_name>
+			<OwnedDependencies type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</OwnedDependencies>
+			<_modifiedTimeWeak type="a">9.8.2020::12:38:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.8.2020::12:38:42</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 20faae99-207b-4dd7-b104-d2b9cdc55124</value>
+			</AggregatesList>
+		</IEvent>
+		<IArgument type="e">
+			<_id type="a">GUID 20faae99-207b-4dd7-b104-d2b9cdc55124</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">argument_0</_name>
+			<_modifiedTimeWeak type="a">4.26.2020::22:25:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.26.2020::22:25:18</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

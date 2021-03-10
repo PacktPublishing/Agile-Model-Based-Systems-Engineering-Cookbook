@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID b181043e-e088-4f99-8e88-e0a767662291</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Relation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Generate</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">WebComponents</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Event</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">WebManaged</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">ActorPkg</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:0:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:0:37</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">4.6.2020::17:0:37</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:44:59</strongCGTime>
+			<_defaultComposite type="s">GUID 289b7dc7-def7-4b89-b7db-d0077790b37c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 289b7dc7-def7-4b89-b7db-d0077790b37c</value>
+				<value>GUID cbab1778-b912-495d-84c2-baf6525e0620</value>
+				<value>GUID 4f67aae1-79a4-466c-8718-bda48f541cb0</value>
+				<value>GUID b019b681-4cfb-40f8-b2e3-ed18b46fae1e</value>
+				<value>GUID 856e3442-3eb7-4437-8644-a73357dffab2</value>
+				<value>GUID d953efdd-1db9-4f35-b0f4-737050b1c982</value>
+				<value>GUID 5b757702-d272-4d5a-9daa-250dd5254ced</value>
+				<value>GUID eeabe045-4ead-4a43-8734-2121756c6237</value>
+				<value>GUID b2b454d1-249b-4eba-9de9-e5d14d57c5a6</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 289b7dc7-def7-4b89-b7db-d0077790b37c</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IActor type="e">
+			<_id type="a">GUID cbab1778-b912-495d-84c2-baf6525e0620</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ConfigurationApp</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:49:4</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.27.2019::13:49:4</_modifiedTime>
+			<weakCGTime type="a">12.27.2019::13:49:4</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:45:55</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 87d74d09-7ef7-4fa8-97b7-8e09313b823e</value>
+				<value>GUID 4cc856c9-bdbc-429a-8ac2-cf318a9c6fb2</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 87d74d09-7ef7-4fa8-97b7-8e09313b823e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsConfigure Bike</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:1</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Configure Bike</_hname>
+					<_hid type="a">GUID 75ca0d9f-ec46-4aad-a44f-6a9420ab81ba</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Configure Bike</_hclass>
+					<_hname type="a">itsConfigurationApp</_hname>
+					<_hid type="a">GUID fc25eead-02b4-4f82-b7d5-5b55e41f4be5</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4cc856c9-bdbc-429a-8ac2-cf318a9c6fb2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUpdate Firmware</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Update Firmware</_hname>
+					<_hid type="a">GUID f53aedcd-7bab-4ecf-8cdd-9879262a4b8d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Update Firmware</_hclass>
+					<_hname type="a">itsConfigurationApp</_hname>
+					<_hid type="a">GUID 169197a2-83f1-4d8b-aef7-25baef4f40ab</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID 4f67aae1-79a4-466c-8718-bda48f541cb0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TrainingApp</_name>
+			<_modifiedTimeWeak type="a">2.22.2020::15:17:41</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">2.22.2020::15:17:41</_modifiedTime>
+			<weakCGTime type="a">2.22.2020::15:17:41</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:46:7</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 020c3cce-1ad9-4c98-8faf-cdb39fee604f</value>
+				<value>GUID 301c1ab6-4c50-43c8-98cf-33e528783baf</value>
+				<value>GUID 3daadf34-20d8-4834-aa9e-7dc923559ffe</value>
+				<value>GUID ca46a8b1-e65a-4b08-9f4f-00a155041cbf</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 020c3cce-1ad9-4c98-8faf-cdb39fee604f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMeasure Performance Metrics</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:10</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">Measure Performance Metrics</_hname>
+					<_hid type="a">GUID 5ab7348c-3663-46ac-b3f3-e26d33206638</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hclass type="a">Measure Performance Metrics</_hclass>
+					<_hname type="a">itsTrainingApp</_hname>
+					<_hid type="a">GUID 72ac240f-e377-44d5-9661-d8276fc2b423</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 301c1ab6-4c50-43c8-98cf-33e528783baf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsControl Resistance</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:12</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+					<_hname type="a">Control Resistance</_hname>
+					<_hid type="a">GUID 0a318396-0b66-447f-a620-e4a33797d4a6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+					<_hclass type="a">Control Resistance</_hclass>
+					<_hname type="a">itsTrainingApp</_hname>
+					<_hid type="a">GUID 6968cf28-dd4d-407d-845b-4173c9c839fb</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3daadf34-20d8-4834-aa9e-7dc923559ffe</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdjust Incline</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Adjust Incline</_hname>
+					<_hid type="a">GUID 9249f620-5eec-4ddb-b3ad-bb58a2df76d3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Adjust Incline</_hclass>
+					<_hname type="a">itsTrainingApp</_hname>
+					<_hid type="a">GUID 8c3da25e-8442-4c27-8425-7918b8fe7f35</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID ca46a8b1-e65a-4b08-9f4f-00a155041cbf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmulate Front and Rear Gearing</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:17:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">Emulate Front and Rear Gearing</_hname>
+					<_hid type="a">GUID 637b46d8-aa4b-481b-bd18-afce0d048191</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hclass type="a">Emulate Front and Rear Gearing</_hclass>
+					<_hname type="a">itsTrainingApp</_hname>
+					<_hid type="a">GUID c60f392d-3a05-4fef-87aa-a068e3cbea76</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID b019b681-4cfb-40f8-b2e3-ed18b46fae1e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Sufferfest</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:47:29</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.27.2019::13:47:29</_modifiedTime>
+			<weakCGTime type="a">12.27.2019::13:47:29</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:46:15</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 78a796c0-cba2-4cbb-804a-03333cc122f8</value>
+			</AggregatesList>
+		</IActor>
+		<IGeneralization type="e">
+			<_id type="a">GUID 78a796c0-cba2-4cbb-804a-03333cc122f8</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 4f67aae1-79a4-466c-8718-bda48f541cb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IActor type="e">
+			<_id type="a">GUID 856e3442-3eb7-4437-8644-a73357dffab2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Zwift</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:47:33</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.27.2019::13:47:33</_modifiedTime>
+			<weakCGTime type="a">12.27.2019::13:47:33</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:46:24</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 685b0916-c138-4399-8a03-c748e320228f</value>
+			</AggregatesList>
+		</IActor>
+		<IGeneralization type="e">
+			<_id type="a">GUID 685b0916-c138-4399-8a03-c748e320228f</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 4f67aae1-79a4-466c-8718-bda48f541cb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IActor type="e">
+			<_id type="a">GUID d953efdd-1db9-4f35-b0f4-737050b1c982</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TrainerRoad</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:47:35</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">12.27.2019::13:47:35</_modifiedTime>
+			<weakCGTime type="a">12.27.2019::13:47:35</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:46:32</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 758f6ccb-f042-42ac-bdeb-11ceaae10092</value>
+			</AggregatesList>
+		</IActor>
+		<IGeneralization type="e">
+			<_id type="a">GUID 758f6ccb-f042-42ac-bdeb-11ceaae10092</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hid type="a">GUID 4f67aae1-79a4-466c-8718-bda48f541cb0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_inheritanceType type="a">iPublic</_inheritanceType>
+			<_isVirtual type="a">0</_isVirtual>
+		</IGeneralization>
+		<IActor type="e">
+			<_id type="a">GUID 5b757702-d272-4d5a-9daa-250dd5254ced</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Rider</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::20:26:36</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">UCD_Chapter2</_hname>
+					<_hid type="a">GUID f0545f9d-679f-433d-9635-defb4962dd44</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">3.8.2020::20:26:36</_modifiedTime>
+			<weakCGTime type="a">3.8.2020::20:26:36</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:46:41</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 15e6ec2c-c9d9-4bf1-b2ce-8440358f931a</value>
+				<value>GUID e172810d-71e3-4e23-9b7b-bc8c58536e52</value>
+				<value>GUID 9967c3f1-0866-4206-a496-18ace19e0bf9</value>
+				<value>GUID d718aa9f-af34-4f8c-b0c8-fd6e83304ad4</value>
+				<value>GUID 310aaa4a-80c7-4473-9e54-a2d94d564f41</value>
+				<value>GUID 88b6eaec-c760-4343-8643-9efe4bc0229d</value>
+				<value>GUID 1eae69b9-500f-4857-9b56-0d3ee235784c</value>
+				<value>GUID be5339df-93a4-4c99-b0ab-6f07d3463e8a</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 15e6ec2c-c9d9-4bf1-b2ce-8440358f931a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsManually Adjust Bike Fit</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Manually Adjust Bike Fit</_hname>
+					<_hid type="a">GUID 18cd8baf-e79e-471e-8609-0bbf7848d3fb</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Manually Adjust Bike Fit</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 423f9273-185e-4d19-8d80-7846e95c0e89</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e172810d-71e3-4e23-9b7b-bc8c58536e52</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsChange Gearing</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:23</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Change Gearing</_hname>
+					<_hid type="a">GUID ec4dfdce-8494-4993-8830-68549206c025</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Change Gearing</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 21089e6d-e19b-4546-bb24-9304d4ac656c</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 9967c3f1-0866-4206-a496-18ace19e0bf9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMeasure Performance Metrics</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:26</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hname type="a">Measure Performance Metrics</_hname>
+					<_hid type="a">GUID 5ab7348c-3663-46ac-b3f3-e26d33206638</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+					<_hclass type="a">Measure Performance Metrics</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID bdb74b24-0da7-4e26-93ae-9c367ff0652b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d718aa9f-af34-4f8c-b0c8-fd6e83304ad4</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsControl Resistance</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:35</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+					<_hname type="a">Control Resistance</_hname>
+					<_hid type="a">GUID 0a318396-0b66-447f-a620-e4a33797d4a6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+					<_hclass type="a">Control Resistance</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 0807d2e6-a4e0-4f47-8842-3accb0d59bcd</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 310aaa4a-80c7-4473-9e54-a2d94d564f41</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdjust Incline</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:49:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Adjust Incline</_hname>
+					<_hid type="a">GUID 9249f620-5eec-4ddb-b3ad-bb58a2df76d3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hclass type="a">Adjust Incline</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID be8636ce-42c8-436c-9e6f-761a11e4fdf2</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 88b6eaec-c760-4343-8643-9efe4bc0229d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmulate Basic Gearing</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::14:56:56</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+					<_hname type="a">Emulate Basic Gearing</_hname>
+					<_hid type="a">GUID b03d84d9-692e-4061-97e5-d5d6a5045217</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+					<_hclass type="a">Emulate Basic Gearing</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 2ce889ce-5b8f-4ee7-b699-1fb2ae657c52</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1eae69b9-500f-4857-9b56-0d3ee235784c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmulate Front and Rear Gearing</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:17:54</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">Emulate Front and Rear Gearing</_hname>
+					<_hid type="a">GUID 637b46d8-aa4b-481b-bd18-afce0d048191</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hclass type="a">Emulate Front and Rear Gearing</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 67240bde-c944-4ce8-86cb-37c003445baf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID be5339df-93a4-4c99-b0ab-6f07d3463e8a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmulate DI Shifting</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::20:26:36</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\EmulateDIShiftingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateDIShiftingPkg</_hsubsystem>
+					<_hname type="a">Emulate DI Shifting</_hname>
+					<_hid type="a">GUID 480d2349-8abf-4f5b-bee2-6d093dd6737c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EmulateDIShiftingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateDIShiftingPkg</_hsubsystem>
+					<_hclass type="a">Emulate DI Shifting</_hclass>
+					<_hname type="a">itsRider</_hname>
+					<_hid type="a">GUID 91de9617-6400-4c5e-8487-c68008581d89</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IActor type="e">
+			<_id type="a">GUID eeabe045-4ead-4a43-8734-2121756c6237</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerSource</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:0:52</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::UseCaseDiagramsPkg</_hsubsystem>
+					<_hname type="a">Control Resistance Use Case</_hname>
+					<_hid type="a">GUID 776700a8-de40-4a90-8c82-1ef3ac458b1a</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">4.6.2020::17:0:52</_modifiedTime>
+			<weakCGTime type="a">4.6.2020::17:0:52</weakCGTime>
+			<strongCGTime type="a">4.6.2020::17:0:42</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 6f952ec3-348a-4421-9747-ec7b0422600c</value>
+			</AggregatesList>
+		</IActor>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6f952ec3-348a-4421-9747-ec7b0422600c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsControl Resistance</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:1:0</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+					<_hname type="a">Control Resistance</_hname>
+					<_hid type="a">GUID 0a318396-0b66-447f-a620-e4a33797d4a6</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<ITableInstance type="e">
+			<_id type="a">GUID b2b454d1-249b-4eba-9de9-e5d14d57c5a6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Chapter2 Actors</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:44:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:44:59</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE::Layouts</_hsubsystem>
+					<_hname type="a">Actor Layout</_hname>
+					<_hid type="a">GUID 31d94477-479b-42a4-9883-364a8680fe64</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID b181043e-e088-4f99-8e88-e0a767662291</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

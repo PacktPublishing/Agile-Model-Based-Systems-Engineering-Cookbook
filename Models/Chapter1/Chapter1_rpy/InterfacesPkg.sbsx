@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 9483a5cb-7c90-4843-a7eb-8a6dd8713a31</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">InterfacesPkg</_name>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<weakCGTime type="a">11.15.2019::12:23:46</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 1d381309-04b6-4d67-a477-be346a260847</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 587cd566-72d8-4f9d-9417-bc79672f0d84</value>
+				<value>GUID 1d381309-04b6-4d67-a477-be346a260847</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ITag type="e">
+			<_id type="a">GUID 587cd566-72d8-4f9d-9417-bc79672f0d84</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">includeInSharedModel</_name>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID a9f8298a-9ae9-4b3a-848e-49d60acd7270</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID a9f8298a-9ae9-4b3a-848e-49d60acd7270</_id>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 1d381309-04b6-4d67-a477-be346a260847</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

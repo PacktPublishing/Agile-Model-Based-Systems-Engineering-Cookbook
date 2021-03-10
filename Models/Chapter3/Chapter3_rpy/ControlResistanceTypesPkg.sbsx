@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID d6bafd75-375f-4f40-8479-1b1c5cf5c427</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ControlResistanceTypesPkg</_name>
+			<_modifiedTimeWeak type="a">2.19.2020::20:10:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.19.2020::20:10:47</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.19.2020::20:10:47</weakCGTime>
+			<strongCGTime type="a">2.14.2020::14:29:54</strongCGTime>
+			<_defaultComposite type="s">GUID 21941915-d178-445a-924e-4e60188b2eb7</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 21941915-d178-445a-924e-4e60188b2eb7</value>
+				<value>GUID eb729294-6373-4f0b-8da4-ccccbf5abedc</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 21941915-d178-445a-924e-4e60188b2eb7</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IType type="e">
+			<_id type="a">GUID eb729294-6373-4f0b-8da4-ccccbf5abedc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PI</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.19.2020::18:40:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.19.2020::18:40:18</_modifiedTime>
+			<_declaration type="a">#define %25s 3.141559265</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

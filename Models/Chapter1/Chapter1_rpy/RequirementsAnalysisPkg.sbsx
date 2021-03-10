@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID e9232bc5-565c-468b-963c-ffd96dd85326</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RequirementsAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<weakCGTime type="a">11.15.2019::12:23:46</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID a9fbbdb7-afe9-4d8f-a841-316c90bd61f6</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID e0b17e54-0d20-4d12-861e-54a37950de1e</value>
+				<value>GUID 13c5b4dc-9080-4e9d-9417-50f9e6333a39</value>
+				<value>GUID a9fbbdb7-afe9-4d8f-a841-316c90bd61f6</value>
+				<value>GUID 6f4cbcc0-9f65-4758-a4ab-ab2fa6877e38</value>
+				<value>GUID 45c3c22b-87f9-4f72-b864-44fcab5a8fd3</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">RequirementsPkg</fileName>
+			<_id type="a">GUID e0b17e54-0d20-4d12-861e-54a37950de1e</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">UseCaseDiagramsPkg</fileName>
+			<_id type="a">GUID 13c5b4dc-9080-4e9d-9417-50f9e6333a39</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID a9fbbdb7-afe9-4d8f-a841-316c90bd61f6</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID 6f4cbcc0-9f65-4758-a4ab-ab2fa6877e38</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Chapter1Requirements</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg</_hsubsystem>
+							<_hname type="a">RequirementsPkg</_hname>
+							<_hid type="a">GUID e0b17e54-0d20-4d12-861e-54a37950de1e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		<IMatrixInstance type="e">
+			<_id type="a">GUID 45c3c22b-87f9-4f72-b864-44fcab5a8fd3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Chapter1UseCaseReqsMatrix</_name>
+			<_modifiedTimeWeak type="a">11.15.2019::12:23:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.15.2019::12:23:46</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMatrixLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE::Layouts</_hsubsystem>
+					<_hname type="a">Use Case Trace Matrix Layout</_hname>
+					<_hid type="a">GUID d790271d-be1a-45cc-bb7e-3459d726a768</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<FromScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProject</_hm2Class>
+							<_hname type="a">Chapter1</_hname>
+							<_hid type="a">GUID 29a42c71-405e-4431-9463-f3aa000b7249</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</FromScopeHandles>
+			<ToScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg</_hsubsystem>
+							<_hname type="a">RequirementsPkg</_hname>
+							<_hid type="a">GUID e0b17e54-0d20-4d12-861e-54a37950de1e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ToScopeHandles>
+		</IMatrixInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

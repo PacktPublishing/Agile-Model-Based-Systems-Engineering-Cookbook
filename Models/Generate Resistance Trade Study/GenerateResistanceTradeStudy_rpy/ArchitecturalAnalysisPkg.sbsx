@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 5c4361d4-227e-436c-ad41-3e98d715ae73</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ArchitecturalAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">9.11.2020::16:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.11.2020::17:54:23</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<weakCGTime type="a">9.11.2020::16:54:57</weakCGTime>
+			<strongCGTime type="a">7.5.2018::16:28:31</strongCGTime>
+			<_defaultComposite type="s">GUID 9b1d2999-8312-4638-a7fd-da9e5946bd53</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">5.4.2020::18:43:51</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d551e8fa-67b1-40ed-baba-134ae5319763</value>
+				<value>GUID 2d16fd4b-4017-4b51-a08c-797eb257e1cd</value>
+				<value>GUID 747ab378-942e-4903-baf2-f303482945de</value>
+				<value>GUID 9b1d2999-8312-4638-a7fd-da9e5946bd53</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">GenerateResistanceTradeStudyPkg</fileName>
+			<_id type="a">GUID d551e8fa-67b1-40ed-baba-134ae5319763</_id>
+		</ISubsystem>
+		<IStereotype type="e">
+			<_id type="a">GUID 2d16fd4b-4017-4b51-a08c-797eb257e1cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Criterion</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::12:53:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::12:53:3</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+					<value>Attribute</value>
+				</IRPYRawContainer>
+			</_m2Classes>
+			<AggregatesList type="e">
+				<value>GUID 5eb9dea1-03a0-4066-b70c-afb07b69662c</value>
+				<value>GUID 0ec5ec52-2253-4f92-8447-49606a6abc90</value>
+				<value>GUID 1c46fde0-6d55-4f05-ad63-1bceb67095d0</value>
+			</AggregatesList>
+		</IStereotype>
+		<ITag type="e">
+			<_id type="a">GUID 5eb9dea1-03a0-4066-b70c-afb07b69662c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">worst_value</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::12:52:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::12:52:36</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpReal</_hname>
+					<_hid type="a">GUID 34e00222-aae8-4bb2-b23a-cd349dbe0c8e</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+		</ITag>
+		<ITag type="e">
+			<_id type="a">GUID 0ec5ec52-2253-4f92-8447-49606a6abc90</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">best_value</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::12:53:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::12:53:3</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpReal</_hname>
+					<_hid type="a">GUID 34e00222-aae8-4bb2-b23a-cd349dbe0c8e</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+		</ITag>
+		<ITag type="e">
+			<_id type="a">GUID 1c46fde0-6d55-4f05-ad63-1bceb67095d0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">weight</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::12:45:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::12:45:13</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpReal</_hname>
+					<_hid type="a">GUID 34e00222-aae8-4bb2-b23a-cd349dbe0c8e</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+		</ITag>
+		<ISubsystem type="e">
+			<fileName type="a">GenerateResistanceTradeStudyPkg_SIMPLIFIED</fileName>
+			<_id type="a">GUID 747ab378-942e-4903-baf2-f303482945de</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 9b1d2999-8312-4638-a7fd-da9e5946bd53</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">7.5.2018::16:28:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.20.2017::19:10:46</_modifiedTime>
+			<weakCGTime type="a">7.5.2018::16:28:31</weakCGTime>
+			<strongCGTime type="a">7.5.2018::16:28:31</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

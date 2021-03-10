@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IProject type="e">
+			<_id type="a">GUID 24e0eab5-c798-4080-9708-aa81c8c56d00</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Browser</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Settings</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ShowOrder</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">General</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Model</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">PathInProjectList</_Name>
+													<_Value type="a">Relative</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Absolute, Relative</_ExtraTypeInfo>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ReferenceUnitPath</_Name>
+													<_Value type="a">Relative</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Absolute, Relative</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">MainComputingPlatformPkgModel</_name>
+			<_modifiedTimeWeak type="a">9.21.2020::15:32:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.21.2020::19:2:19</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_UserColors type="w">
+				<IRPYRawContainer type="e">
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+				</IRPYRawContainer>
+			</_UserColors>
+			<_defaultSubsystem type="r">
+				<ISubsystemHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hname type="a">MainComputingPlatformPkg</_hname>
+					<_hid type="a">GUID 70a4fd24-8eb9-4c89-bfb7-42eac2c016d6</_hid>
+				</ISubsystemHandle>
+			</_defaultSubsystem>
+			<_component type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hname type="a">DefaultComponent</_hname>
+					<_hid type="a">GUID 040f3c5c-96f0-4ef0-bd84-5b2086224edb</_hid>
+				</IHandle>
+			</_component>
+			<Multiplicities type="c">
+				<IRPYRawContainer type="e">
+					<IMultiplicityItem type="e">
+						<_name type="a">1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">0,1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">1..*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+				</IRPYRawContainer>
+			</Multiplicities>
+			<_isImportedFromDM type="a">0</_isImportedFromDM>
+			<Diagrams type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Diagrams>
+			<mapOslcAddedCollections type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapOslcAddedCollections>
+			<mapAssociationsToRemove type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapAssociationsToRemove>
+			<AggregatesList type="e">
+				<value>GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</value>
+				<value>GUID ae18b78e-1652-4a4d-a673-6c815aac7b64</value>
+				<value>GUID 70a4fd24-8eb9-4c89-bfb7-42eac2c016d6</value>
+				<value>GUID b3d6b326-bb31-435b-bf08-64f2f5aa50e5</value>
+				<value>GUID d29554fb-714e-473c-98d8-24bf031011d1</value>
+				<value>GUID 4d6ac43b-41c2-4a6f-b2b7-b316b1678e4f</value>
+				<value>GUID 040f3c5c-96f0-4ef0-bd84-5b2086224edb</value>
+			</AggregatesList>
+		</IProject>
+		<ISubsystem type="e">
+			<fileName type="a">RequirementsPkg</fileName>
+			<_persistAs type="a">..\..\..\Chapter4_rpy</_persistAs>
+			<_id type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">PhysicalInterfaces</fileName>
+			<_persistAs type="a">..\..\SharedModel\SharedModel_rpy</_persistAs>
+			<_id type="a">GUID ae18b78e-1652-4a4d-a673-6c815aac7b64</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MainComputingPlatformPkg</fileName>
+			<_id type="a">GUID 70a4fd24-8eb9-4c89-bfb7-42eac2c016d6</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SubsystemSpecPkg</fileName>
+			<_id type="a">GUID b3d6b326-bb31-435b-bf08-64f2f5aa50e5</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">DeploymentPkg</fileName>
+			<_id type="a">GUID d29554fb-714e-473c-98d8-24bf031011d1</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SWPkg</fileName>
+			<_id type="a">GUID 4d6ac43b-41c2-4a6f-b2b7-b316b1678e4f</_id>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">DefaultComponent</fileName>
+			<_id type="a">GUID 040f3c5c-96f0-4ef0-bd84-5b2086224edb</_id>
+		</IComponent>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

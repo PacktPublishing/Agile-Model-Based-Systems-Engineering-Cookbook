@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RequirementsPkg</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:55:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::20:39:26</_modifiedTime>
+			<_lastID type="a">6</_lastID>
+			<weakCGTime type="a">12.27.2019::19:55:14</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:45:0</strongCGTime>
+			<_defaultComposite type="s">GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b5c978ae-a359-4e2f-9e82-51e64b304882</value>
+				<value>GUID 5be8bb6a-04c2-4f99-bf6f-031075cce754</value>
+				<value>GUID 898141b9-6d34-4d2b-ae5c-9dcc48d5d7ec</value>
+				<value>GUID 5fea5391-2fb7-438e-a7bf-e0a3551b3aa8</value>
+				<value>GUID 01846732-88f7-4355-8360-4f9c84839126</value>
+				<value>GUID 582c972d-7d4f-4eb9-b15f-7881e1d9d5f0</value>
+				<value>GUID 2c17148a-32af-495e-a4be-3b96b283eb9d</value>
+				<value>GUID 1bf0314f-34b4-49f1-8a6c-f5e27e46a2ab</value>
+				<value>GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_0</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:48:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:48:7</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall respond to applied pedal torque with resistance calculated from the base level of resistance, current gearing and applied torque to simulate pedal resistance during road riding. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5be8bb6a-04c2-4f99-bf6f-031075cce754</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_1</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:48:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:48:33</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall send the current gearing to the training app when the current gearing changes changes. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 898141b9-6d34-4d2b-ae5c-9dcc48d5d7ec</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_2</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:48:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:48:50</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall respond to a rider-initiated increase in gear by applying the new level of gearing provided that it does not exceed the maximum gearing of the gearing configuration. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5fea5391-2fb7-438e-a7bf-e0a3551b3aa8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_3</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:49:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:49:9</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\li720\sa160\sl252\slmult1\f0\fs22 The system shall respond to a ride-initiated decrease in gear by applying the new level of gearing provided that it does not exceed the minimum gearing of the gearing configuration. \par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 01846732-88f7-4355-8360-4f9c84839126</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_4</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:54:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:54:53</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\sa160\sl252\slmult1\f0\fs22 The system shall display the current selected gear.  \f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 582c972d-7d4f-4eb9-b15f-7881e1d9d5f0</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_5</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::19:55:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::19:55:14</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\sa160\sl252\slmult1\f0\fs22 The system shall default to the minimum gear during initialization.\f1\fs20\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<ITag type="e">
+			<_id type="a">GUID 2c17148a-32af-495e-a4be-3b96b283eb9d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">includeInSharedModel</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 17b3bec9-0c69-426d-8b86-e5e6fc96db2f</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 17b3bec9-0c69-426d-8b86-e5e6fc96db2f</_id>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 1bf0314f-34b4-49f1-8a6c-f5e27e46a2ab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">includeInSubsystemModel</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 6acd41d0-3c35-4132-bc86-0c2f2e1a6a07</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 6acd41d0-3c35-4132-bc86-0c2f2e1a6a07</_id>
+			<_modifiedTimeWeak type="a">12.27.2019::13:45:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:45:0</_modifiedTime>
+			<_value type="a">true</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 2fa79aa8-e52f-452c-bd2f-d5914d84a00e</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

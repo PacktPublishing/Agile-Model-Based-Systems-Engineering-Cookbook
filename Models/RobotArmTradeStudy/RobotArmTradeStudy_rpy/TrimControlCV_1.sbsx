@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID f5e18377-2d8f-4dd4-bb3e-e6166f22e978</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">TrimControlCV</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintView</_hname>
+							<_hid type="a">GUID ebbbe90e-2234-48a0-ac69-a4dd36914337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::11:56:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<weakCGTime type="a">5.4.2020::11:56:7</weakCGTime>
+			<strongCGTime type="a">5.3.2020::18:49:58</strongCGTime>
+			<_defaultComposite type="s">GUID 5acab45b-d276-4b21-86b6-9c79593d4c66</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 85b4a3a4-d1ad-40e3-a153-ed964536d740</value>
+				<value>GUID 5acab45b-d276-4b21-86b6-9c79593d4c66</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 85b4a3a4-d1ad-40e3-a153-ed964536d740</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Position Control Trade Study Parametrics</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToParametricDiagram</_hname>
+							<_hid type="a">GUID 9f6062ec-a2c8-4edd-8d4c-a53bafe9e540</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.3.2020::18:49:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\ProduceResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::ProduceResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">Position Control Trade Study Parametrics</_hname>
+					<_hid type="a">GUID 525147c2-0323-47b1-b928-c825cc6d6269</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID f5e18377-2d8f-4dd4-bb3e-e6166f22e978</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 5acab45b-d276-4b21-86b6-9c79593d4c66</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

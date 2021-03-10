@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FunctionalAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">4.6.2020::17:2:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.6.2020::17:2:9</_modifiedTime>
+			<weakCGTime type="a">4.6.2020::17:2:9</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID f2241b2e-2910-46a5-9cea-f1abd2031f5d</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855</value>
+				<value>GUID 362dae40-8692-47ce-86dc-dac1e303a607</value>
+				<value>GUID 86c224ad-8f0b-44bb-b092-0791e5ea42eb</value>
+				<value>GUID e3fa7846-0d89-4928-9aee-37e7894a7f69</value>
+				<value>GUID 7b28e83d-0e1e-4f1a-9882-440d67506173</value>
+				<value>GUID 22d5f13d-7e5d-4198-8170-25de84b90116</value>
+				<value>GUID f2241b2e-2910-46a5-9cea-f1abd2031f5d</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">EmulateBasicGearingPkg</fileName>
+			<_id type="a">GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ControlResistancePkg_ActivityApproach</fileName>
+			<_id type="a">GUID 362dae40-8692-47ce-86dc-dac1e303a607</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">EmulateFrontandRearGearingPkg</fileName>
+			<_id type="a">GUID 86c224ad-8f0b-44bb-b092-0791e5ea42eb</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">EmulateDIShiftingPkg</fileName>
+			<_id type="a">GUID e3fa7846-0d89-4928-9aee-37e7894a7f69</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MeasurePerformanceMetricsPkg</fileName>
+			<_id type="a">GUID 7b28e83d-0e1e-4f1a-9882-440d67506173</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">ControlResistancePkg</fileName>
+			<_id type="a">GUID 22d5f13d-7e5d-4198-8170-25de84b90116</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID f2241b2e-2910-46a5-9cea-f1abd2031f5d</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

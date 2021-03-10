@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID fd954dc3-120c-4e09-9641-96a3a8a60fe7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">OtherReqs</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:16:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:24:19</_modifiedTime>
+			<_lastID type="a">6</_lastID>
+			<weakCGTime type="a">9.17.2020::13:16:39</weakCGTime>
+			<strongCGTime type="a">9.17.2020::13:7:22</strongCGTime>
+			<_defaultComposite type="s">GUID fac0649c-a817-4198-97ab-464e4c7b10e4</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 6936a4eb-59c5-4545-97ea-708e721ff8a1</value>
+				<value>GUID 04c14b34-04e3-4ab0-9c46-4c238c5ceb94</value>
+				<value>GUID 4406cddc-8fdb-4985-a20a-b910ac62c5c2</value>
+				<value>GUID bf8eb002-3847-45c5-8447-5765040e9631</value>
+				<value>GUID a909fadf-afa8-4769-bb5f-02189d415a13</value>
+				<value>GUID 2cffbd3d-293b-49e0-a03b-925b5f4efbf3</value>
+				<value>GUID fac0649c-a817-4198-97ab-464e4c7b10e4</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 6936a4eb-59c5-4545-97ea-708e721ff8a1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq01</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:10:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:10:30</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Electrical Power Delivery subsystem shall accept input power from 100 - 240V at 50-60Hz with a maximum current draw of 2.5 Amps.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 04c14b34-04e3-4ab0-9c46-4c238c5ceb94</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq02</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:11:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:11:38</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Electrical Power Delivery subsystem shall supply digital current to power computing devices. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 4406cddc-8fdb-4985-a20a-b910ac62c5c2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq03</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:12:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:12:10</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Interaction subsystem shall provide a switch to power on and power off the system. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID bf8eb002-3847-45c5-8447-5765040e9631</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq04</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:13:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:13:55</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 Upon receiving a power off messages from the Rider Interaction subsystem, tThe Main Computing Platform shall store system and rider configuration and then send a message to the Electrical Power Delivery subsystem to remove power.  \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID a909fadf-afa8-4769-bb5f-02189d415a13</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq05</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:15:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:15:48</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Electrical Power Delivery subsystem shall supply adequate power to create rider resistance to the Power Train subsystem. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 2cffbd3d-293b-49e0-a03b-925b5f4efbf3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">PowerReq06</_name>
+			<_modifiedTimeWeak type="a">9.17.2020::13:16:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.17.2020::13:16:39</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Electrical Power Delivery subsystem shall provide adequate power for chaning the system inclination to the Mechanical Frame subsystem.\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID fac0649c-a817-4198-97ab-464e4c7b10e4</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

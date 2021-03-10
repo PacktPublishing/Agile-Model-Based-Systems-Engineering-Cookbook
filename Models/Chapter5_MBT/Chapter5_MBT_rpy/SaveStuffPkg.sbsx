@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID fb5e9c1f-30f8-49e7-939d-d6e53c0f8230</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SaveStuffPkg</_name>
+			<_modifiedTimeWeak type="a">11.29.2020::4:29:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.29.2020::4:42:27</_modifiedTime>
+			<weakCGTime type="a">11.29.2020::4:29:28</weakCGTime>
+			<strongCGTime type="a">11.29.2020::4:29:17</strongCGTime>
+			<_defaultComposite type="s">GUID adcb1017-6dab-4cea-9c74-363c96e3a093</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">11.29.2020::4:29:28</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID adcb1017-6dab-4cea-9c74-363c96e3a093</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID adcb1017-6dab-4cea-9c74-363c96e3a093</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">11.29.2020::4:29:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.29.2020::4:29:28</_modifiedTime>
+			<weakCGTime type="a">11.29.2020::4:29:28</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 6cfbad74-388e-4227-a162-7c8a7af3d66b</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 6cfbad74-388e-4227-a162-7c8a7af3d66b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsPegasus_System</_name>
+			<_modifiedTimeWeak type="a">11.28.2020::14:54:59</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.29.2020::4:29:28</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\RiderInteractionDesignPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">DesignSynthesisPkg::RiderInteractionDesignPkg</_hsubsystem>
+					<_hname type="a">Pegasus_System</_hname>
+					<_hid type="a">GUID c499f358-19b4-4503-9e27-3a8cb56bb784</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

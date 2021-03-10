@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IWorkspace type="e">
+			<m_SavedActiveProjectsName type="a">PowerTrainPkgModel</m_SavedActiveProjectsName>
+			<_id type="a">GUID 25f1d115-11c1-4ca4-b7b7-7d659ef8eec5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Projects</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">11.1.2020::20:13:15</_modifiedTime>
+			<AggregatesList type="e">
+				<value>GUID 07f5dd13-ae3b-44d6-916a-02d533e673f8</value>
+				<value>GUID 24e0eab5-c798-4080-9708-aa81c8c56d00</value>
+				<value>GUID 14095489-e6a2-4625-a894-965b25ac2379</value>
+				<value>GUID 88a8bd67-0d03-43b3-aa2f-6dc228afaf1c</value>
+				<value>GUID 18d36a7c-52ba-4987-be53-560b63da9eba</value>
+				<value>GUID 81ceadc5-0121-4afc-8e3d-0a86ec78cdd1</value>
+				<value>GUID 694ee864-008d-4494-81c3-35f284f3233b</value>
+				<value>GUID 9ced03b3-582a-430b-8873-ef2fbe100cef</value>
+			</AggregatesList>
+		</IWorkspace>
+		<IProject type="e">
+			<fileName type="a">SharedModel</fileName>
+			<_persistAs type="a">SubsystemModels\SharedModel</_persistAs>
+			<_id type="a">GUID 07f5dd13-ae3b-44d6-916a-02d533e673f8</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">MainComputingPlatformPkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\MainComputingPlatformPkgModel</_persistAs>
+			<_id type="a">GUID 24e0eab5-c798-4080-9708-aa81c8c56d00</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">A_Pegasus_SE_Model</fileName>
+			<_persistAs type="a">F:\Work\_Documents\MBSE Cookbook\Models\Chapter4\SubsystemModels\A_Pegasus_SE_Model</_persistAs>
+			<_id type="a">GUID 14095489-e6a2-4625-a894-965b25ac2379</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">CommsPkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\CommsPkgModel</_persistAs>
+			<_id type="a">GUID 88a8bd67-0d03-43b3-aa2f-6dc228afaf1c</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">ElectricPowerDeliveryPkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\ElectricPowerDeliveryPkgModel</_persistAs>
+			<_id type="a">GUID 18d36a7c-52ba-4987-be53-560b63da9eba</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">MechanicalFramePkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\MechanicalFramePkgModel</_persistAs>
+			<_id type="a">GUID 81ceadc5-0121-4afc-8e3d-0a86ec78cdd1</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">PowerTrainPkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\PowerTrainPkgModel</_persistAs>
+			<_id type="a">GUID 694ee864-008d-4494-81c3-35f284f3233b</_id>
+		</IProject>
+		<IProject type="e">
+			<fileName type="a">RiderInteractionPkgModel</fileName>
+			<_persistAs type="a">SubsystemModels\RiderInteractionPkgModel</_persistAs>
+			<_id type="a">GUID 9ced03b3-582a-430b-8873-ef2fbe100cef</_id>
+		</IProject>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID eb68f1e9-d4df-47de-be58-97864ce7f6e1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateFrontandRearGearingSafetyPkg</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::16:45:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::17:10:5</_modifiedTime>
+			<weakCGTime type="a">2.21.2020::16:45:37</weakCGTime>
+			<strongCGTime type="a">2.21.2020::16:45:37</strongCGTime>
+			<_defaultComposite type="s">GUID 28c79220-dd56-462c-bc6d-f261cc3b45ec</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 28c79220-dd56-462c-bc6d-f261cc3b45ec</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 28c79220-dd56-462c-bc6d-f261cc3b45ec</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

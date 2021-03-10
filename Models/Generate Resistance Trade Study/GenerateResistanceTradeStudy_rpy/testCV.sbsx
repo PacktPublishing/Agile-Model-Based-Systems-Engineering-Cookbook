@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 115b0d4d-4251-48d8-8b98-f8a1de663ba2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">testCV</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintView</_hname>
+							<_hid type="a">GUID ebbbe90e-2234-48a0-ac69-a4dd36914337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::15:24:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::16:1:24</_modifiedTime>
+			<weakCGTime type="a">5.4.2020::15:24:28</weakCGTime>
+			<strongCGTime type="a">5.4.2020::14:44:6</strongCGTime>
+			<_defaultComposite type="s">GUID d1de46ee-7166-420a-a4a2-05a798928350</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID df00f9c0-35f2-41a7-a3bc-a1da00b708a9</value>
+				<value>GUID ac4b41e5-41bc-4520-bfc1-cfb10f0edcc8</value>
+				<value>GUID ae75c9e0-e74b-4adf-9440-abca972b4b78</value>
+				<value>GUID d1de46ee-7166-420a-a4a2-05a798928350</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID df00f9c0-35f2-41a7-a3bc-a1da00b708a9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Utiltity curve</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToParametricDiagram</_hname>
+							<_hid type="a">GUID 9f6062ec-a2c8-4edd-8d4c-a53bafe9e540</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::14:26:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::14:26:30</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\GenerateResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">Utiltity curve</_hname>
+					<_hid type="a">GUID cbd54fba-5bd9-4c8e-a79c-03282cab1804</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 115b0d4d-4251-48d8-8b98-f8a1de663ba2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ac4b41e5-41bc-4520-bfc1-cfb10f0edcc8</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">testInstanceSpec</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToInstance</_hname>
+							<_hid type="a">GUID b7002f52-6c8b-4f1c-8162-2f48e79e7337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::14:44:6</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::14:44:6</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IInstanceSpecification</_hm2Class>
+					<_hfilename type="a">.\GenerateResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">testInstanceSpec</_hname>
+					<_hid type="a">GUID fd117d2d-35ac-4a5b-9f46-79330ffe8d11</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 115b0d4d-4251-48d8-8b98-f8a1de663ba2</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<ITag type="e">
+			<_id type="a">GUID ae75c9e0-e74b-4adf-9440-abca972b4b78</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Values</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::15:24:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::15:24:28</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+					<_hsubsystem type="a">PCE</_hsubsystem>
+					<_hclass type="a">ConstraintView</_hclass>
+					<_hname type="a">Values</_hname>
+					<_hid type="a">GUID 17d414af-6c6d-4fe8-b9c7-4ef0feabed38</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID bdc33d01-f1c3-4557-acd3-2e4577faa36a</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID bdc33d01-f1c3-4557-acd3-2e4577faa36a</_id>
+			<_modifiedTimeWeak type="a">5.4.2020::15:24:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::15:24:28</_modifiedTime>
+			<_value type="a">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;%0D
+&lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&gt;%0D
+&lt;properties&gt;%0D
+&lt;comment/&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::testBlock_best.inputAccuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::testBlock.inputAccuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;5&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::testBlock_worst.inputAccuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;/properties&gt;</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID d1de46ee-7166-420a-a4a2-05a798928350</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

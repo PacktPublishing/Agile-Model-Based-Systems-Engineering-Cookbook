@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID a43a7c48-7346-494a-8a56-10c13c3823c0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Subsystems</_name>
+			<_modifiedTimeWeak type="a">12.1.2019::23:48:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.1.2019::23:48:12</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.1.2019::23:48:12</weakCGTime>
+			<strongCGTime type="a">12.1.2019::23:48:5</strongCGTime>
+			<_defaultComposite type="s">GUID c1d96b93-3b4c-4c65-b53a-ec700cd14b4b</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 0351ac0f-2a20-44d3-8fa4-db3a651a0e2d</value>
+				<value>GUID c1d96b93-3b4c-4c65-b53a-ec700cd14b4b</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SubsystemPkg</fileName>
+			<_id type="a">GUID 0351ac0f-2a20-44d3-8fa4-db3a651a0e2d</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID c1d96b93-3b4c-4c65-b53a-ec700cd14b4b</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

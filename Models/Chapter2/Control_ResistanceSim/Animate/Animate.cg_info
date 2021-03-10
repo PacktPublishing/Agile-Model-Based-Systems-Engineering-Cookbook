@@ -1,0 +1,506 @@
+I-Logix-RPY-Archive version 8.15.0 * 9841247
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 58;
+	- value = "Control_ResistanceSim/Animate/ControlResistanceActorPkg.cpp" 2.20.2020::13:16:1
+	"Control_ResistanceSim/Animate/ControlResistanceActorPkg.h" 2.20.2020::13:16:0
+	"Control_ResistanceSim/Animate/ControlResistanceExecutionScopePkg.cpp" 2.19.2020::19:53:27
+	"Control_ResistanceSim/Animate/ControlResistanceExecutionScopePkg.h" 2.19.2020::19:53:27
+	"Control_ResistanceSim/Animate/ControlResistanceInterfacesPkg.cpp" 2.20.2020::13:16:1
+	"Control_ResistanceSim/Animate/ControlResistanceInterfacesPkg.h" 2.20.2020::13:16:1
+	"Control_ResistanceSim/Animate/ControlResistancePkg.cpp" 2.19.2020::19:53:27
+	"Control_ResistanceSim/Animate/ControlResistancePkg.h" 2.19.2020::19:53:27
+	"Control_ResistanceSim/Animate/ControlResistanceTypesPkg.cpp" 2.19.2020::19:53:27
+	"Control_ResistanceSim/Animate/ControlResistanceTypesPkg.h" 2.19.2020::20:12:39
+	"Control_ResistanceSim/Animate/ProxyPortInterfaces.cpp" 2.20.2020::13:26:44
+	"Control_ResistanceSim/Animate/ProxyPortInterfaces.h" 2.20.2020::13:26:44
+	"Control_ResistanceSim/Animate/Uc_ControlResistance.cpp" 2.20.2020::13:26:44
+	"Control_ResistanceSim/Animate/Uc_ControlResistance.h" 2.20.2020::13:26:44
+	"Control_ResistanceSim/Animate/aCR_Rider.cpp" 2.19.2020::20:50:40
+	"Control_ResistanceSim/Animate/aCR_Rider.h" 2.19.2020::20:40:16
+	"Control_ResistanceSim/Animate/aCR_TrainingApp.cpp" 2.20.2020::13:23:47
+	"Control_ResistanceSim/Animate/aCR_TrainingApp.h" 2.20.2020::13:16:0
+	"Control_ResistanceSim/Animate/evApplyResistance_ProxyReceptionInterface.h" 2.19.2020::19:53:25
+	"Control_ResistanceSim/Animate/evSendAccelerationToApp_ProxyReceptionInterface.h" 2.19.2020::19:53:25
+	"Control_ResistanceSim/Animate/evSendFilteredPowerToApp_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/evSendPedalCadenceToApp_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/evSendSpeedToApp_ProxyReceptionInterface.h" 2.19.2020::19:53:25
+	"Control_ResistanceSim/Animate/reqOn_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/reqSetGear_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/reqSetIncline_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/reqSetMeasuredPedalForce_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/reqSetPedalPosition_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim/Animate/reqSetPedalSpeed_ProxyReceptionInterface.h" 2.19.2020::19:53:26
+	"Control_ResistanceSim\\Animate\\ControlResistanceActorPkg.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ControlResistanceActorPkg.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\ControlResistanceExecutionScopePkg.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ControlResistanceExecutionScopePkg.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\ControlResistanceInterfacesPkg.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ControlResistanceInterfacesPkg.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\ControlResistancePkg.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ControlResistancePkg.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\ControlResistanceTypesPkg.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ControlResistanceTypesPkg.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\ProxyPortInterfaces.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\ProxyPortInterfaces.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\Uc_ControlResistance.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\Uc_ControlResistance.h" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\aCR_Rider.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\aCR_Rider.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\aCR_TrainingApp.cpp" 2.19.2020::19:52:54
+	"Control_ResistanceSim\\Animate\\aCR_TrainingApp.h" 2.19.2020::19:52:53
+	"Control_ResistanceSim\\Animate\\evApplyResistance_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\evSendAccelerationToApp_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\evSendFilteredPowerToApp_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\evSendPedalCadenceToApp_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\evSendSpeedToApp_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqOn_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqSetGear_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqSetIncline_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqSetMeasuredPedalForce_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqSetPedalPosition_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	"Control_ResistanceSim\\Animate\\reqSetPedalSpeed_ProxyReceptionInterface.h" 2.19.2020::19:52:52
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 7;
+	- value = "GUID 021d20ff-f81e-423a-9110-2c9ed6668c02" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID 362dae40-8692-47ce-86dc-dac1e303a607" "GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d"
+	"GUID 730c0e26-ab6c-4a67-b591-3171649896f6" "GUID 362dae40-8692-47ce-86dc-dac1e303a607"
+	"GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID a0d87645-68b3-4f92-a0c9-442772da6079" "GUID 362dae40-8692-47ce-86dc-dac1e303a607"
+	"GUID b32bb770-2fcf-4c8b-bad3-15d12ffb4ece" "GUID 362dae40-8692-47ce-86dc-dac1e303a607"
+	"GUID d6bafd75-375f-4f40-8479-1b1c5cf5c427" "GUID 362dae40-8692-47ce-86dc-dac1e303a607"
+	
+}
+- size = 74;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg::ControlResistanceActorPkg";
+	- _name = "aCR_TrainingApp";
+	- _id = GUID d0ac5820-7596-4771-a2ae-5b64377444c4;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evSendSpeedToApp_ProxyReceptionInterface";
+	- _id = GUID 8fd14cad-4d98-4f6f-99de-37c241a998bf;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqSetGear_ProxyReceptionInterface";
+	- _id = GUID 27c0872d-f18b-42d8-abaf-c1a0ef835f51;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b3e1b6a0-8e55-4ac1-bd25-2b974ea9ecb8;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 77aa97a9-a10c-4891-9dee-f81cd5643269;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 503a81d9-b0cd-40b9-9593-a173b999135c;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqSetPedalPosition_ProxyReceptionInterface";
+	- _id = GUID f316c2ed-3dfd-4b7f-94ba-39cdc97ce9cd;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f6ba7a87-9516-4e88-860f-c5124464112a;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e00ee6d8-ece2-4f2c-a396-9a873d3c353f;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 29f28bcd-c27d-4cdf-8f4c-82a971665827;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 5214b0be-4da7-484e-b29d-539a1e4dc701;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqSetMeasuredPedalForce_ProxyReceptionInterface";
+	- _id = GUID 1a1d4314-0c37-4218-b163-0886e91eef71;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evSendPedalCadenceToApp_ProxyReceptionInterface";
+	- _id = GUID a1c7dc23-3cd9-4b06-9d7f-15f5a1c98f6f;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evSendFilteredPowerToApp_ProxyReceptionInterface";
+	- _id = GUID 2facc29b-a837-4ff2-8e0b-d6c2629aa32f;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6c01c634-279a-481d-9143-da66a6dab688;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b86f9291-d04e-464d-b423-d6ec7e550fbf;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6e3311ae-4b20-43d0-8150-de3b88a9b43e;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 32db915c-5862-4c16-81eb-2959423f0fe2;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e528aaa4-5c69-46bf-9eba-fdc62cfb3ae6;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID dfcbeafe-fb75-4e78-ba61-64e35155d885;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqSetPedalSpeed_ProxyReceptionInterface";
+	- _id = GUID 5cb83cf9-cffd-420f-b83a-b67ae6519326;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a8bafd4a-670e-457d-8940-476370921fe1;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1e542712-365d-4c8b-92bf-841985e70886;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a7ad26af-cb70-47bf-9088-628c2dd4d9d4;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceExecutionScopePkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg";
+	- _name = "ControlResistanceExecutionScopePkg";
+	- _id = GUID a0d87645-68b3-4f92-a0c9-442772da6079;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 72965dab-5856-45a1-8e87-2c75e7e4a48d;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1c4fcf60-2624-4982-92fa-6fb9e42be0fa;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID ef51880f-5124-43c9-8a0b-d1844daff51c;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1e5a6446-7c74-420b-8825-b57ddf491fb7;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 23be747e-8abd-4d3f-97b7-667613bf58d6;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 44b9fa26-961b-4456-ba84-66f306b0449d;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a04b4a42-1b71-46d5-82d9-338e5a38313c;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b9b027d2-1995-42b0-bdb3-f23de2fbcfa1;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c3f58c5a-e972-4137-85f2-0a004012ef11;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b028c0f9-6b72-4634-8722-ade037a82c70;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e9b9c476-2dc5-4272-a083-050e9fd17466;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 90e43681-b0f8-4e7a-89de-394c51eca5e3;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg";
+	- _name = "ControlResistanceActorPkg";
+	- _id = GUID b32bb770-2fcf-4c8b-bad3-15d12ffb4ece;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 0dfe4d7f-075f-4e34-bee0-38d6a0f1b203;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _name = "ProxyPortInterfaces";
+	- _id = GUID 021d20ff-f81e-423a-9110-2c9ed6668c02;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 5efd19e8-8791-429b-9dc4-aa756e170da1;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 79c54031-c270-4ea3-afca-3b9960b238de;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evApplyResistance_ProxyReceptionInterface";
+	- _id = GUID bb5065f4-4004-4207-828c-212369cdbe46;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e6079a5b-4b88-48d3-aafa-c083a46832f0;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d0884d69-547a-4dfe-8c62-740ffa481130;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e971aede-b93c-47fc-9f14-f16520cd64e7;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqSetIncline_ProxyReceptionInterface";
+	- _id = GUID bee652e8-8940-422b-9a7e-a7a1c6bfccde;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 98b3f282-cece-4af1-b549-751a403d4914;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c7bc5336-3790-436d-9b42-b5001418d91b;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e43918d4-67df-4466-8e82-f8ca6dd98ff6;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID ebf28dcc-4395-47f3-9f7a-b794881353a6;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg::ControlResistanceActorPkg";
+	- _name = "aCR_Rider";
+	- _id = GUID 57be8184-0b29-4fcb-97b6-0f0cfe0a7164;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 74ca8954-7ea7-4209-9c6c-4c873d054f6f;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b46f60c7-66a2-40a8-906b-87f1a57bba82;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "reqOn_ProxyReceptionInterface";
+	- _id = GUID 0f088d43-ea1b-4f53-9b55-9e8cfba62515;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 23524646-8593-4fe1-afd4-cdcd9ab7899f;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 67b829c0-ecc9-4cc9-94eb-3c2cc96f94d7;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 70137f51-15bc-423d-bd34-930c1c37540f;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistancePkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg";
+	- _name = "ControlResistancePkg";
+	- _id = GUID 362dae40-8692-47ce-86dc-dac1e303a607;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistancePkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg";
+	- _name = "Uc_ControlResistance";
+	- _id = GUID f0609866-60cc-4114-9470-d402de3831bf;
+}
+- genTime = 2.20.2020::13:26:44;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d37b84de-c5a0-4986-ac3b-d0f57b0f5257;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID bdf1dbdd-abee-4be4-befc-c9d7d8c9a837;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 7989429e-183f-49f2-a467-e83235639a63;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 014f9250-207e-46b7-9b2c-2999edef375c;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 22d7e1da-5741-4770-87e5-8b36d0093299;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID fd9fd363-93bc-4b4d-8286-9f6c21efe893;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 3aa683dc-1ee2-41fd-962b-45d51d640dac;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 23879990-8c0d-464f-81a7-52b7b943b11e;
+}
+- genTime = 2.20.2020::13:17:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceTypesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg";
+	- _name = "ControlResistanceTypesPkg";
+	- _id = GUID d6bafd75-375f-4f40-8479-1b1c5cf5c427;
+}
+- genTime = 2.19.2020::20:12:39;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID cbc9ec19-3fdc-4ebd-a756-a97cec2c00a1;
+}
+- genTime = 2.20.2020::13:23:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f5070e2b-80ae-4ede-b29b-0a2b539af7c1;
+}
+- genTime = 2.20.2020::13:18:42;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID bded214b-2b35-4337-a32c-49b07792a608;
+}
+- genTime = 2.20.2020::13:21:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ControlResistanceInterfacesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::ControlResistancePkg";
+	- _name = "ControlResistanceInterfacesPkg";
+	- _id = GUID 730c0e26-ab6c-4a67-b591-3171649896f6;
+}
+- genTime = 2.20.2020::13:16:1;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evSendAccelerationToApp_ProxyReceptionInterface";
+	- _id = GUID 26b85146-fa6c-4ef3-9cf7-d73108bccc16;
+}
+- genTime = 2.20.2020::13:26:44;
+

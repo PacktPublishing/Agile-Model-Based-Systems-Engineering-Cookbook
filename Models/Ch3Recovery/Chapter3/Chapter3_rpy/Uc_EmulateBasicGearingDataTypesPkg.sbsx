@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 7e44a0f4-9c91-4f2c-9b4b-1c7e33f270a1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Uc_EmulateBasicGearingDataTypesPkg</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:46:24</_modifiedTime>
+			<weakCGTime type="a">5.15.2020::13:26:34</weakCGTime>
+			<strongCGTime type="a">5.15.2020::13:26:34</strongCGTime>
+			<_defaultComposite type="s">GUID 236f80f9-67e3-4a38-b546-961700a6f171</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 236f80f9-67e3-4a38-b546-961700a6f171</value>
+				<value>GUID 883e7828-e554-45e1-9dab-85f839d89172</value>
+				<value>GUID b28d9ebb-e1bb-4d1f-849b-4250403361fe</value>
+				<value>GUID d6842d0b-ff42-46c8-81de-6d2c88e23816</value>
+				<value>GUID 43b34254-f486-4d7a-9c8b-cf25d3c52d66</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 236f80f9-67e3-4a38-b546-961700a6f171</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IType type="e">
+			<_id type="a">GUID 883e7828-e554-45e1-9dab-85f839d89172</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DEFAULT_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_declaration type="a">#define %25s 30</_declaration>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID ef239faf-29aa-44c4-b172-e4f97424a9b0</value>
+			</AggregatesList>
+		</IType>
+		<IDependency type="e">
+			<_id type="a">GUID ef239faf-29aa-44c4-b172-e4f97424a9b0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">DEFAULT_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingTypesPkg</_hsubsystem>
+					<_hname type="a">DEFAULT_GEARING</_hname>
+					<_hid type="a">GUID e45f25f1-2e6a-464b-bd26-29008bd293ce</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 883e7828-e554-45e1-9dab-85f839d89172</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IType type="e">
+			<_id type="a">GUID b28d9ebb-e1bb-4d1f-849b-4250403361fe</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MIN_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_declaration type="a">#define %25s 30</_declaration>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID 8f376ca8-df8a-44a7-be87-93782a52bad1</value>
+			</AggregatesList>
+		</IType>
+		<IDependency type="e">
+			<_id type="a">GUID 8f376ca8-df8a-44a7-be87-93782a52bad1</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">MIN_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingTypesPkg</_hsubsystem>
+					<_hname type="a">MIN_GEARING</_hname>
+					<_hid type="a">GUID ef9b8aac-6bbd-4b3b-9bd4-a82ed27f26b4</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID b28d9ebb-e1bb-4d1f-849b-4250403361fe</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IType type="e">
+			<_id type="a">GUID d6842d0b-ff42-46c8-81de-6d2c88e23816</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MAX_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_declaration type="a">#define %25s 140</_declaration>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID a42d3c7d-f566-41cd-9f6d-c9be6f4843f7</value>
+			</AggregatesList>
+		</IType>
+		<IDependency type="e">
+			<_id type="a">GUID a42d3c7d-f566-41cd-9f6d-c9be6f4843f7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">MAX_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingTypesPkg</_hsubsystem>
+					<_hname type="a">MAX_GEARING</_hname>
+					<_hid type="a">GUID be6f498e-7519-48b7-877a-b0ef3e55fe9d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID d6842d0b-ff42-46c8-81de-6d2c88e23816</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IType type="e">
+			<_id type="a">GUID 43b34254-f486-4d7a-9c8b-cf25d3c52d66</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">GEAR_INCREMENT</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_declaration type="a">#define %25s 5</_declaration>
+			<_kind type="a">Language</_kind>
+			<AggregatesList type="e">
+				<value>GUID 90e687e9-84eb-4cd0-864b-dc2a72927fb7</value>
+			</AggregatesList>
+		</IType>
+		<IDependency type="e">
+			<_id type="a">GUID 90e687e9-84eb-4cd0-864b-dc2a72927fb7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">GEAR_INCREMENT</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingTypesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingTypesPkg</_hsubsystem>
+					<_hname type="a">GEAR_INCREMENT</_hname>
+					<_hid type="a">GUID 72456177-cb67-4cf6-9e1b-2f42f5071a88</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 43b34254-f486-4d7a-9c8b-cf25d3c52d66</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

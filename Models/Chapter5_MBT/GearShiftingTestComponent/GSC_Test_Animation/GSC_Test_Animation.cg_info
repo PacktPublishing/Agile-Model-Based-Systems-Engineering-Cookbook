@@ -1,0 +1,508 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 33;
+	- value = "GearShiftingTestComponent/GSC_Test_Animation/CommStub.cpp" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/CommStub.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/DIButton.cpp" 11.29.2020::4:26:52
+	"GearShiftingTestComponent/GSC_Test_Animation/DIButton.h" 11.29.2020::4:26:52
+	"GearShiftingTestComponent/GSC_Test_Animation/GearControl.cpp" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/GearControl.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/MainComputingPlatform.cpp" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/MainComputingPlatform.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/Pegasus_System.cpp" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/Pegasus_System.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/Pegasus_Test_Architecture.cpp" 11.29.2020::21:51:22
+	"GearShiftingTestComponent/GSC_Test_Animation/Pegasus_Test_Architecture.h" 11.29.2020::21:51:22
+	"GearShiftingTestComponent/GSC_Test_Animation/ProxyPortInterfaces.cpp" 11.29.2020::4:26:54
+	"GearShiftingTestComponent/GSC_Test_Animation/ProxyPortInterfaces.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderApplication.cpp" 11.29.2020::4:26:54
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderApplication.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderInteraction.cpp" 11.29.2020::4:26:54
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderInteraction.h" 11.29.2020::4:26:53
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderInteractionDesignPkg.cpp" 11.29.2020::4:44:22
+	"GearShiftingTestComponent/GSC_Test_Animation/RiderInteractionDesignPkg.h" 11.29.2020::4:44:22
+	"GearShiftingTestComponent/GSC_Test_Animation/ShiftLever.cpp" 11.29.2020::4:26:52
+	"GearShiftingTestComponent/GSC_Test_Animation/ShiftLever.h" 11.29.2020::4:26:52
+	"GearShiftingTestComponent/GSC_Test_Animation/TestPkg.cpp" 11.29.2020::17:14:15
+	"GearShiftingTestComponent/GSC_Test_Animation/TestPkg.h" 11.29.2020::17:14:15
+	"GearShiftingTestComponent/GSC_Test_Animation/evDIDown_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evDIShifting_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evDIUp_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evDisplayGearing_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evLeftShiftDown_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evLeftShiftUp_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evMechanicalShifting_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evRightShiftDown_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	"GearShiftingTestComponent/GSC_Test_Animation/evRightShiftUp_ProxyReceptionInterface.h" 11.29.2020::4:26:51
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 4;
+	- value = "GUID 3faf53fd-7844-487c-ba33-059e4637c315" "GUID 51c5a335-f700-4a37-8c06-99df06705921"
+	"GUID 48c6765a-67bf-430b-aedf-fea9316fcaad" "GUID 51c5a335-f700-4a37-8c06-99df06705921"
+	"GUID 51c5a335-f700-4a37-8c06-99df06705921" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID 6ce4ddb6-a858-44ab-b3ca-5cefae5d8e53" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	
+}
+- size = 80;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c563750e-c408-4f35-8513-85608ebe47d7;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c9d6572f-ec41-4df1-97c9-97db4096bd88;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 8ab32ca0-9c58-44db-bab1-a9585b469c74;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "GearControl";
+	- _id = GUID 16bdf0ef-d76c-4ec1-8a8c-ee4fe409d281;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID edb3b57e-c622-493d-a0c6-b47e5fc8ddac;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evMechanicalShifting_ProxyReceptionInterface";
+	- _id = GUID b09c268a-5283-45da-9a82-e7bd491b8c31;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 60a1f842-1874-4001-89d9-1ccdd25e790b;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 88a87760-03f3-436a-a77a-b6824225a5b8;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID af43ce17-0bc5-470b-88e0-a032bf5f35c8;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evDIDown_ProxyReceptionInterface";
+	- _id = GUID 9aa8f387-597a-4a95-b36c-b3157902b119;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 44cb9510-7c57-4b5a-814c-a367addcc6b1;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 90f9ae8e-1aaa-4298-a6fd-953edc96dce7;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c509280d-58c5-48e1-bc6e-e1148fb03308;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 465da177-5952-488b-b8e6-8d2913f11757;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 739aca18-a99e-4132-a578-548c33c826b3;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 46e43eee-72a2-43f8-bf50-5f8dae3a9def;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 68ffae1b-8b1b-42ca-8c01-ff4760d946e8;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\TestPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg";
+	- _name = "TestPkg";
+	- _id = GUID 48c6765a-67bf-430b-aedf-fea9316fcaad;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 03b59682-3d65-4c92-a211-d2c6009c1c3d;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 355411a6-00aa-400c-b6bc-c12e5b73d62e;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1ca530f7-2bc1-484f-b1c7-38dcb9eedc32;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 8d6dfdac-0456-4e1c-8e42-b7e2d5424e02;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "RiderInteraction";
+	- _id = GUID 4726b477-2814-4ac7-a8ca-9e684fb65269;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 539b3e30-9474-40b9-b002-a3f586d62fa5;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 4cd307d3-b8f1-4119-9c37-c30e19ce9f3f;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evRightShiftDown_ProxyReceptionInterface";
+	- _id = GUID 7e115a84-0b09-42f9-b258-c14ef7620ebc;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a547000c-937a-4481-a2ca-35891bf01f20;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 81279bbb-476e-46d7-b5fb-3c5ebca73cd5;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID dc09f0f6-1bb4-44c8-b0cb-a414e33f6dd3;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1aeeca27-b14b-4188-996f-af99e8231c03;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evDIShifting_ProxyReceptionInterface";
+	- _id = GUID f9dca781-3bb3-4170-9b86-b92cd69c9032;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "DIButton";
+	- _id = GUID 977e2c99-46fd-4912-bd71-4c5edfcdbbfd;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 2ed0f64d-0132-4669-82d9-a4649763b88e;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f6edb4f4-3d1e-4335-8012-fc0a7ae3badc;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evRightShiftUp_ProxyReceptionInterface";
+	- _id = GUID 15e5cd3a-8690-4c87-8384-28d2dff4377e;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6c58b332-3ea1-4670-a7ce-7e68cd083e89;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6d44a703-0628-4610-95fb-43b799650daa;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6b099b80-f892-4634-bf59-9da1fbbcafd0;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 27fc8be7-25f0-42be-92e6-25140fd009cc;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 818e80f0-9e83-4f0c-8776-40e1b7d40471;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evLeftShiftDown_ProxyReceptionInterface";
+	- _id = GUID d22c36cc-8e3d-4bc3-9006-2be1390aedc7;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 4fba79c7-8024-49a1-880c-fca23b54ce4b;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 45e976be-fca8-4514-bc30-ec009593f20c;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 574a1bbc-ead3-40ca-b5ed-c99ac1f6dc7f;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 8ba27049-baf2-4c49-bf1d-76673880a183;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID c0024a65-2636-421a-af3c-5982bd2b10d7;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e1eec0a4-5352-4598-84f0-5ac4ff7c9cdb;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 57917537-a0f2-4a99-a769-439bb023d46a;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 91855f05-ddc5-468a-a1aa-90cd199e35b0;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 9d6af4a0-7c8f-4c93-8913-09a83d85634d;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "MainComputingPlatform";
+	- _id = GUID 33c56506-595e-4be9-af2b-8c7d256ba300;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _name = "ProxyPortInterfaces";
+	- _id = GUID 6ce4ddb6-a858-44ab-b3ca-5cefae5d8e53;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "ShiftLever";
+	- _id = GUID d1c617bc-dea6-4d70-8d4e-8564c5cae40b;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f7e3c403-31a5-49cc-8176-62427dc74ed1;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 6c94f84f-21cd-4c7e-8b78-a8097c32dc16;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 80f3f946-12d9-42b3-b9ff-046175e37211;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 4f81feea-cab7-4fb9-be59-5fcb02048229;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "RiderApplication";
+	- _id = GUID d81ee176-35da-41b9-99de-25ee471f164e;
+}
+- genTime = 11.29.2020::5:8:14;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 397e099e-f1c0-42f7-977c-9ccaa7bae0d3;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 7f79a55c-a7d0-4782-aebf-cbb28ea0275d;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evDisplayGearing_ProxyReceptionInterface";
+	- _id = GUID 5dbf5d53-ffb1-4230-b2b7-b9bf50ba5f51;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 8bfb6a3b-8475-4b77-9182-ac04dd42f909;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 59f99e1a-bfaa-479e-8742-349094e04b90;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evDIUp_ProxyReceptionInterface";
+	- _id = GUID b0a06d6f-ec5f-4339-9c5d-f5d989743281;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID fb9ac2d0-703b-46b5-9a8d-f4f56fe28c34;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d425350e-2756-4a35-adc7-83f4d2743ba7;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "evLeftShiftUp_ProxyReceptionInterface";
+	- _id = GUID dfa7fcef-fc65-4fb2-a331-01aca4041cee;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID aefc6b6e-4063-45b5-9838-007bc6fbb667;
+}
+- genTime = 11.29.2020::20:41:55;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 23ad03b9-2a78-4999-b3e3-326bbfda7c7c;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg";
+	- _name = "RiderInteractionDesignPkg";
+	- _id = GUID 3faf53fd-7844-487c-ba33-059e4637c315;
+}
+- genTime = 11.29.2020::4:58:37;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 371dad4e-2af7-4b46-9c40-64d76026077e;
+}
+- genTime = 11.29.2020::20:41:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 3fe3f636-5d0f-4d61-b655-33744eca4973;
+}
+- genTime = 11.29.2020::20:40:46;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\RiderInteractionDesignPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::RiderInteractionDesignPkg";
+	- _name = "Pegasus_System";
+	- _id = GUID c499f358-19b4-4503-9e27-3a8cb56bb784;
+}
+- genTime = 11.29.2020::4:26:54;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 5a30523f-8d46-4222-affd-d86ba534450b;
+}
+- genTime = 11.29.2020::21:7:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 9e852595-ff04-4bdd-9ba2-5fd5916c56ea;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID cf8fc43a-ba72-4b7e-9d22-d32516d733c0;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter5_MBT_rpy\\TestPkg.sbsx";
+	- _subsystem = "DesignSynthesisPkg::TestPkg";
+	- _name = "Pegasus_Test_Architecture";
+	- _id = GUID 685f561e-1469-4412-b512-24fa35441fcd;
+}
+- genTime = 11.29.2020::21:51:22;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID b1ff662c-1af6-400d-9fca-276062d4ab44;
+}
+- genTime = 11.29.2020::20:36:9;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f2771c6f-db06-4cca-92a7-07916d23a63c;
+}
+- genTime = 11.29.2020::21:8:51;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 36f717d2-01c2-4874-8b36-7640342e30c3;
+}
+- genTime = 11.29.2020::20:36:9;
+

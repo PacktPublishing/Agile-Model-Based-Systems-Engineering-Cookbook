@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 64e6a972-c5f2-4c0b-b6a9-a3acd1d86469</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Uc_EmulateFrontandRearGearingEventsPkg</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:46:24</_modifiedTime>
+			<weakCGTime type="a">5.15.2020::13:26:34</weakCGTime>
+			<strongCGTime type="a">5.15.2020::13:26:34</strongCGTime>
+			<_defaultComposite type="s">GUID 42a9ef00-6df5-4a1f-9dbc-d6118a9bba29</_defaultComposite>
+			<_eventsBaseID type="a">3001</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 42a9ef00-6df5-4a1f-9dbc-d6118a9bba29</value>
+				<value>GUID 37a06ca2-66a5-4e98-98f9-e6b15d906b0f</value>
+				<value>GUID e9074bfd-00a9-4c4f-8856-dc374c385428</value>
+				<value>GUID 2da5b4e0-10a9-48b9-865c-081ebb0d88ea</value>
+				<value>GUID 42c6923f-a8cd-4c89-b914-438443929868</value>
+				<value>GUID 8b88639c-72c4-4c58-982e-801fbe56047f</value>
+				<value>GUID d8855ca0-7eba-47f9-8125-04da514180cd</value>
+				<value>GUID 405a8422-a4db-4768-b876-ebc3883ded83</value>
+				<value>GUID 6181ea01-735f-4a1b-af2d-8088a31cede5</value>
+				<value>GUID a4acf26b-7f8b-4306-ae9e-dc3c714ff467</value>
+				<value>GUID acb60619-ca3c-4bfa-80d1-8bc45fe73731</value>
+				<value>GUID 17ab8058-cb41-407f-8141-e8846e966c8d</value>
+				<value>GUID e863fec8-e524-49b9-a8d9-40b11c741062</value>
+				<value>GUID ce576635-6f4e-40a6-a560-54464afb3483</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 42a9ef00-6df5-4a1f-9dbc-d6118a9bba29</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID 37a06ca2-66a5-4e98-98f9-e6b15d906b0f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evConfigureGearing</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 6ba11312-9697-4d37-9461-cf30335bf451</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 6ba11312-9697-4d37-9461-cf30335bf451</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evConfigureGearing</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evConfigureGearing()</_hname>
+					<_hid type="a">GUID 01c28119-fdf2-482e-b9de-acfaded85f9a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 37a06ca2-66a5-4e98-98f9-e6b15d906b0f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID e9074bfd-00a9-4c4f-8856-dc374c385428</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDoneConfiguring</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID d962b70b-e991-4623-a962-0f17e5f4b203</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID d962b70b-e991-4623-a962-0f17e5f4b203</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evDoneConfiguring</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evDoneConfiguring()</_hname>
+					<_hid type="a">GUID 380787e9-3de4-4b74-b87f-d3cbfe0b659e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID e9074bfd-00a9-4c4f-8856-dc374c385428</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 2da5b4e0-10a9-48b9-865c-081ebb0d88ea</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evBeginRiding</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID f39d1f2a-563d-4295-a29c-a67271e1bcc2</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID f39d1f2a-563d-4295-a29c-a67271e1bcc2</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evBeginRiding</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evBeginRiding()</_hname>
+					<_hid type="a">GUID 0920f560-45fa-4f34-9379-4e0fad0713a0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 2da5b4e0-10a9-48b9-865c-081ebb0d88ea</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 42c6923f-a8cd-4c89-b914-438443929868</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDoneRiding</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID d83210af-42d1-458a-b317-26ccc8237840</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID d83210af-42d1-458a-b317-26ccc8237840</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evDoneRiding</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evDoneRiding()</_hname>
+					<_hid type="a">GUID 0e9f745d-f818-47f6-8b56-721c5032f121</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 42c6923f-a8cd-4c89-b914-438443929868</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 8b88639c-72c4-4c58-982e-801fbe56047f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetNumberOfChainRings</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID c9f44b0d-5db3-47e1-a4fa-f249833d30ae</value>
+				<value>GUID dd0f82a1-5b1f-41a7-90d1-72f952d127e9</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID c9f44b0d-5db3-47e1-a4fa-f249833d30ae</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evSetNumberOfChainRings</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evSetNumberOfChainRings(unsigned int)</_hname>
+					<_hid type="a">GUID 9fda4744-754f-4df3-92d5-24f322650c2e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 8b88639c-72c4-4c58-982e-801fbe56047f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID dd0f82a1-5b1f-41a7-90d1-72f952d127e9</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">n</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:38</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID d8855ca0-7eba-47f9-8125-04da514180cd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetNumberOfCassetteRings</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID ea90b581-c3d2-488f-bc1e-9881651a74b9</value>
+				<value>GUID 86421f59-f6e1-4c59-b4a6-2ce557989168</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID ea90b581-c3d2-488f-bc1e-9881651a74b9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evSetNumberOfCassetteRings</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evSetNumberOfCassetteRings(unsigned int)</_hname>
+					<_hid type="a">GUID 7b548963-b84c-4fd2-89a6-8cd7c35669f1</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID d8855ca0-7eba-47f9-8125-04da514180cd</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID 86421f59-f6e1-4c59-b4a6-2ce557989168</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">n</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:26:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:26:31</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 405a8422-a4db-4768-b876-ebc3883ded83</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetCassetteRingTeeth</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 5e7be74e-1049-4df5-a15b-c59fd74e8acd</value>
+				<value>GUID 7f0e4c35-e52c-4bec-9cf2-c4938e32557f</value>
+				<value>GUID e9ede245-17c6-45db-8619-b40c8577ee80</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 5e7be74e-1049-4df5-a15b-c59fd74e8acd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evSetCassetteRingTeeth</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evSetCassetteRingTeeth(unsigned int,unsigned int)</_hname>
+					<_hid type="a">GUID 8e601079-ac83-4c64-ac8d-8b79939c2c86</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 405a8422-a4db-4768-b876-ebc3883ded83</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID 7f0e4c35-e52c-4bec-9cf2-c4938e32557f</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">cr</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:2</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID e9ede245-17c6-45db-8619-b40c8577ee80</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">teeth</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:13</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID 6181ea01-735f-4a1b-af2d-8088a31cede5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evAugmentFrontGear</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 5a0061f3-4327-4106-85a2-f4cd6f3e3933</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 5a0061f3-4327-4106-85a2-f4cd6f3e3933</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evAugmentFrontGear</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evAugmentFrontGear()</_hname>
+					<_hid type="a">GUID e110afae-359b-40d4-88a7-21435d247201</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 6181ea01-735f-4a1b-af2d-8088a31cede5</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID a4acf26b-7f8b-4306-ae9e-dc3c714ff467</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDecrementFrontGear</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 62dadaff-1f99-4473-801b-bb8e2a0dab0c</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 62dadaff-1f99-4473-801b-bb8e2a0dab0c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evDecrementFrontGear</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evDecrementFrontGear()</_hname>
+					<_hid type="a">GUID d3293d4b-f773-4c6c-ad6c-a97078723ca3</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID a4acf26b-7f8b-4306-ae9e-dc3c714ff467</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID acb60619-ca3c-4bfa-80d1-8bc45fe73731</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evAugmentRearGear</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID cafdf9a1-3c14-4193-a626-cece0f65c420</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID cafdf9a1-3c14-4193-a626-cece0f65c420</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evAugmentRearGear</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evAugmentRearGear()</_hname>
+					<_hid type="a">GUID 1842da76-cfd2-4631-bdf1-a080d3daf887</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID acb60619-ca3c-4bfa-80d1-8bc45fe73731</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 17ab8058-cb41-407f-8141-e8846e966c8d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evDecrementRearGear</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 51f32a86-b5bf-48b4-8cf1-a5bca2ea1010</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 51f32a86-b5bf-48b4-8cf1-a5bca2ea1010</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evDecrementRearGear</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evDecrementRearGear()</_hname>
+					<_hid type="a">GUID 4a6cf8e0-3bc0-4c49-8482-e657f345d95c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 17ab8058-cb41-407f-8141-e8846e966c8d</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID e863fec8-e524-49b9-a8d9-40b11c741062</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evSetChainRingTeeth</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<_virtual type="a">0</_virtual>
+			<AggregatesList type="e">
+				<value>GUID 52d4ab53-b0c8-4c7f-9d11-b890d33d6de7</value>
+				<value>GUID e39a9f75-5af5-4d46-bdcb-706a2400da4d</value>
+				<value>GUID b7f2b2bc-3508-4d1f-8d8c-49ab4e085b12</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 52d4ab53-b0c8-4c7f-9d11-b890d33d6de7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evSetChainRingTeeth</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evSetChainRingTeeth(unsigned int,unsigned int)</_hname>
+					<_hid type="a">GUID 987d3b05-8d2d-45ae-8d1c-1b847683d5bc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID e863fec8-e524-49b9-a8d9-40b11c741062</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IArgument type="e">
+			<_id type="a">GUID e39a9f75-5af5-4d46-bdcb-706a2400da4d</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">cr</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:49</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IArgument type="e">
+			<_id type="a">GUID b7f2b2bc-3508-4d1f-8d8c-49ab4e085b12</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">teeth</_name>
+			<_modifiedTimeWeak type="a">3.1.2020::20:28:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.1.2020::20:28:53</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">unsigned int</_hname>
+					<_hid type="a">GUID 7688bde5-e3a0-4b4d-bcd7-cbfa35c3b811</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">In</_argumentDirection>
+		</IArgument>
+		<IEvent type="e">
+			<_id type="a">GUID ce576635-6f4e-40a6-a560-54464afb3483</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">evShowGearing</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID b9f3b19b-7f47-4226-959a-88dec084784c</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID b9f3b19b-7f47-4226-959a-88dec084784c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">evShowGearing</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">evShowGearing()</_hname>
+					<_hid type="a">GUID 52382bf4-dc97-40bb-a4d4-866058ceb176</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID ce576635-6f4e-40a6-a560-54464afb3483</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

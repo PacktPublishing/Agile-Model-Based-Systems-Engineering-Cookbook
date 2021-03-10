@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ComputeResistanceReqPkg</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:59:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:59:51</_modifiedTime>
+			<_lastID type="a">26</_lastID>
+			<weakCGTime type="a">2.21.2020::15:59:51</weakCGTime>
+			<strongCGTime type="a">2.14.2020::20:12:51</strongCGTime>
+			<_defaultComposite type="s">GUID 725140bf-5c21-4dd7-948d-ba3b88863f4e</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID efb12dee-0125-49b2-8b5e-a08e4723bca2</value>
+				<value>GUID fca67b71-2ab6-4b9b-a777-d4a34cb4bdd1</value>
+				<value>GUID 58701200-b2f9-40b0-9c22-826742649d20</value>
+				<value>GUID fd705f35-c1cc-49ed-9505-1e92f358373e</value>
+				<value>GUID 58fed3d9-ff8c-43a9-bfc4-3324d10b308f</value>
+				<value>GUID 18ecfc50-e581-4ec8-ba78-623bd136dd34</value>
+				<value>GUID 8451eb49-0a85-4c22-bc4f-d430f2bb8dff</value>
+				<value>GUID eef2df59-a4fe-4dc0-88f4-2f4e8896db73</value>
+				<value>GUID 9555ff22-a585-4125-9cda-b828f8f5a370</value>
+				<value>GUID e39ee686-28f8-40b1-92f9-4114693db51c</value>
+				<value>GUID d3103ec7-b399-4144-aaaa-e5ac978874fc</value>
+				<value>GUID ddb68843-3024-4a6b-8638-66bc7221a14f</value>
+				<value>GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</value>
+				<value>GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</value>
+				<value>GUID d438a741-e759-4b97-be59-8965deb36e03</value>
+				<value>GUID bda732e0-f6ef-4a34-9905-019325b3efee</value>
+				<value>GUID 087ca1a8-7942-4229-89ea-281fec348839</value>
+				<value>GUID e021548e-6526-4906-a2ea-28e688bb57ed</value>
+				<value>GUID 19b33b76-8287-419b-93a3-cad1e92cde9f</value>
+				<value>GUID caeee80c-231c-44c4-b83b-0a7a5a1128c6</value>
+				<value>GUID 725140bf-5c21-4dd7-948d-ba3b88863f4e</value>
+				<value>GUID b6f86715-6b83-485c-aa88-4b56781a10a7</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID efb12dee-0125-49b2-8b5e-a08e4723bca2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_1</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:59:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:59:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall store the rider weight for the computation of pedal resistance. \par%0D
+}%0D
+</_body>
+			<reqID type="a">WeigfhtReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID fca67b71-2ab6-4b9b-a777-d4a34cb4bdd1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_2</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:59:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:59:38</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall store the current gear persistently so that the last gear is retained across power cycles and resets. \par%0D
+}%0D
+</_body>
+			<reqID type="a">GearStorageReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 58701200-b2f9-40b0-9c22-826742649d20</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_3</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:59:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:59:51</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall monitor pedal position and speed. \par%0D
+}%0D
+</_body>
+			<reqID type="a">MonitorPedalSpeedReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID fd705f35-c1cc-49ed-9505-1e92f358373e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_4</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:59:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:59:31</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall compute pedal cadence. \par%0D
+}%0D
+</_body>
+			<reqID type="a">PedalCadenceReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 58fed3d9-ff8c-43a9-bfc4-3324d10b308f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:50</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall send pedal cadence to the associated training app, when connected. \par%0D
+}%0D
+</_body>
+			<reqID type="a">SendCadenceReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 18ecfc50-e581-4ec8-ba78-623bd136dd34</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_6</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall measure force applied by the rider to the pedals. \par%0D
+}%0D
+</_body>
+			<reqID type="a">MeasureForceReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8451eb49-0a85-4c22-bc4f-d430f2bb8dff</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_7</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall provide time-filtering of power, supporting 0, 1-second, 3-second, and 5-second power averaging, settable by the rider. \par%0D
+}%0D
+</_body>
+			<reqID type="a">FilterPowerReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID eef2df59-a4fe-4dc0-88f4-2f4e8896db73</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_8</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall send filtered power to the training app, if connected. \par%0D
+}%0D
+</_body>
+			<reqID type="a">SendPowerReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 9555ff22-a585-4125-9cda-b828f8f5a370</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_9</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept simulated incline from the connected training app throughout a training session. \par%0D
+}%0D
+</_body>
+			<reqID type="a">AcceptInclnieReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e39ee686-28f8-40b1-92f9-4114693db51c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_10</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall store gear ratio from the gear setting. \par%0D
+}%0D
+</_body>
+			<reqID type="a">StoreGearRealtimeReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d3103ec7-b399-4144-aaaa-e5ac978874fc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_11</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall accept road incline from the connected training app. \par%0D
+}%0D
+</_body>
+			<reqID type="a">Accept(nclneReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ddb68843-3024-4a6b-8638-66bc7221a14f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_12</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall compute simulated drag based on computed rider inertia and simulated road incline. \par%0D
+}%0D
+</_body>
+			<reqID type="a">ComputeDragReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall compute simulated road speed based on computed inertia, current simulated speed and acceleration, and rider-applied force to the pedal. \par%0D
+}%0D
+</_body>
+			<reqID type="a">ComputeSpeedReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_14</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall compute and apply resistance to pedal movement based on simulated inertia, speed, acceleration and rider power input.\par%0D
+}%0D
+</_body>
+			<reqID type="a">ApplyResistanceReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d438a741-e759-4b97-be59-8965deb36e03</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_15</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall send computed speed and acceleration to the connected training app, if any. \par%0D
+}%0D
+</_body>
+			<reqID type="a">SendSpeedReq</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID bda732e0-f6ef-4a34-9905-019325b3efee</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_21</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\f0\fs22 The system shall update the training app with simulated bike speed at least 1.0 seconds\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">Training_Aoo_Speed_Update</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 087ca1a8-7942-4229-89ea-281fec348839</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_22</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\f0\fs22 The system shall update the training app with rider filtered power output at least 0.5 seconds\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">Training_App_power_update</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e021548e-6526-4906-a2ea-28e688bb57ed</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_23</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\f0\fs22 The system shall update the training app with pedal cadence at least 1.0 seconds.\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">Training_App_Cadence_Update</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 19b33b76-8287-419b-93a3-cad1e92cde9f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_24</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\fi-360\li720\sa160\sl252\slmult1\f0\fs22 The system shall update the physics model frequently enough to provide the rider a smooth and road-line experience with respect to resistance.\par%0D
+\pard\ltrpar\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">Physics_model_update</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID caeee80c-231c-44c4-b83b-0a7a5a1128c6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CR_requirement_25</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::15:58:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::15:58:13</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\f0\fs22 The system shall send current watts per kilogram to the training app for the current power output at least every 1.0 seconds.\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">Watts_Per_Kg_Update</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 725140bf-5c21-4dd7-948d-ba3b88863f4e</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID b6f86715-6b83-485c-aa88-4b56781a10a7</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">ComputeResReqsTableView</_name>
+			<_modifiedTimeWeak type="a">2.14.2020::20:14:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.14.2020::20:14:29</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

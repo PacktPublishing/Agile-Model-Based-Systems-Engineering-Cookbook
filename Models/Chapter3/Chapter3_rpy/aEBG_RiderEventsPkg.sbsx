@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 533cfa4b-e705-4ac4-b0fe-1fc142fc1c2d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">aEBG_RiderEventsPkg</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:46:24</_modifiedTime>
+			<weakCGTime type="a">5.15.2020::13:26:34</weakCGTime>
+			<strongCGTime type="a">5.15.2020::13:26:34</strongCGTime>
+			<_defaultComposite type="s">GUID 8322e8bd-0691-472c-b0b1-a21d4de71356</_defaultComposite>
+			<_eventsBaseID type="a">15601</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 8322e8bd-0691-472c-b0b1-a21d4de71356</value>
+				<value>GUID eb4dc2da-a0ab-4434-b3ce-798c3abfa00f</value>
+				<value>GUID 5feeb5c6-8469-4b93-b8df-252e403a6108</value>
+				<value>GUID 835a76d7-14a0-457a-92c3-c9e2ac61f4a7</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 8322e8bd-0691-472c-b0b1-a21d4de71356</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IEvent type="e">
+			<_id type="a">GUID eb4dc2da-a0ab-4434-b3ce-798c3abfa00f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">chResistance</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 460753e8-c9c4-403e-a7a1-30e471962658</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 460753e8-c9c4-403e-a7a1-30e471962658</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">chResistance</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hname type="a">chResistance()</_hname>
+					<_hid type="a">GUID 294bb6eb-fe0b-43fc-afb8-329f9ea5af87</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID eb4dc2da-a0ab-4434-b3ce-798c3abfa00f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 5feeb5c6-8469-4b93-b8df-252e403a6108</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exAugment</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 0a8b4310-94cb-439a-bd74-5812c70bbd09</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 0a8b4310-94cb-439a-bd74-5812c70bbd09</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">exAugment</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hname type="a">exAugment()</_hname>
+					<_hid type="a">GUID d680b54a-435a-4f26-afa7-d89e10e97d01</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 5feeb5c6-8469-4b93-b8df-252e403a6108</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IEvent type="e">
+			<_id type="a">GUID 835a76d7-14a0-457a-92c3-c9e2ac61f4a7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">exDecrement</_name>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<AggregatesList type="e">
+				<value>GUID 3501fd0e-213f-4d14-97ff-0af325cfedd9</value>
+			</AggregatesList>
+		</IEvent>
+		<IDependency type="e">
+			<_id type="a">GUID 3501fd0e-213f-4d14-97ff-0af325cfedd9</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">exDecrement</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">trace</_hname>
+							<_hid type="a">GUID 7e9556c7-1be8-4203-bd66-32f38bdcc996</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.15.2020::13:26:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.15.2020::13:26:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg</_hsubsystem>
+					<_hname type="a">exDecrement()</_hname>
+					<_hid type="a">GUID 81d7a01a-2fad-4c41-9ab5-bb14a569148c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IEvent</_hm2Class>
+					<_hid type="a">GUID 835a76d7-14a0-457a-92c3-c9e2ac61f4a7</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

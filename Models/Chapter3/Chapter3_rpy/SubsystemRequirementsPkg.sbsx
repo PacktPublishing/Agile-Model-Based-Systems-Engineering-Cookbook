@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID d355ee3f-1989-4b94-9475-aec0cd3a6b85</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SubsystemRequirementsPkg</_name>
+			<_modifiedTimeWeak type="a">9.4.2020::15:34:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:27:4</_modifiedTime>
+			<weakCGTime type="a">9.4.2020::15:34:19</weakCGTime>
+			<strongCGTime type="a">9.4.2020::15:34:19</strongCGTime>
+			<_defaultComposite type="s">GUID 85c451b8-98ce-4ed3-b8eb-2b0ee0edf899</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID abf79ece-3a85-42c4-8b1b-82e3ea0e0671</value>
+				<value>GUID 7d15736f-47c6-430e-a636-5c1d1d8b2dd1</value>
+				<value>GUID 37d2aece-daec-49be-a0a4-0b83c38be6af</value>
+				<value>GUID 013e12fa-fa97-4cbc-b57e-4671858d50de</value>
+				<value>GUID a069a602-3048-47bf-a3e7-4cfabf682aae</value>
+				<value>GUID ece4aee8-40de-4bf0-9d79-e98f8ca3860c</value>
+				<value>GUID aba6b78b-d833-4e0a-9451-5ff2c9cd8002</value>
+				<value>GUID 46684b91-e5d1-4efe-b889-7cdf5c4bc901</value>
+				<value>GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</value>
+				<value>GUID c8fb3332-6023-4264-9410-57a77583e4fe</value>
+				<value>GUID 66bac957-6add-4491-9509-cc16aa30b06e</value>
+				<value>GUID dc2619e8-fb2f-4d3a-85a2-8506d4366fb6</value>
+				<value>GUID eda42d4d-d57d-41df-9749-64c5f99a64f2</value>
+				<value>GUID 19e86cc1-eed2-4216-b62f-e17bb0f48f94</value>
+				<value>GUID 156f999e-9d75-4d76-bc8d-7cb03d26bfcf</value>
+				<value>GUID a73495ae-195a-4350-b7f0-d98d965739d0</value>
+				<value>GUID 40b592fe-f74e-4695-bc93-50f40381956c</value>
+				<value>GUID 9fc0349d-d3a9-4817-ab80-46573243ef24</value>
+				<value>GUID f97f3add-0fab-4924-af7e-c031ee8dae05</value>
+				<value>GUID 48397076-e344-4c06-bc39-50d312442101</value>
+				<value>GUID cbed8e25-8f2c-4585-8836-cb16d9887f17</value>
+				<value>GUID 66a78109-c223-435b-bcaf-341935c7e0bb</value>
+				<value>GUID 3310c901-1b60-48fd-89d3-f811194c1034</value>
+				<value>GUID 5e6b7515-c353-43a5-89dc-f9629ae1101f</value>
+				<value>GUID 83af28e3-ceec-4bf2-9745-dc81617cab12</value>
+				<value>GUID 447e222c-e1fe-434e-a319-691afe19c370</value>
+				<value>GUID 041fcfff-0b4b-4a6f-ba7a-d2188ce5a754</value>
+				<value>GUID 5a317e6e-5ace-4bbc-978d-cac615adbf88</value>
+				<value>GUID 6e3ba772-b4b4-4dad-b8fd-fbdcf6ad2e22</value>
+				<value>GUID 5f4d576c-accd-4e92-8e78-ddbb5117de3e</value>
+				<value>GUID a255a5a9-d608-48fb-bb2a-16dc2d208194</value>
+				<value>GUID 85c451b8-98ce-4ed3-b8eb-2b0ee0edf899</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID abf79ece-3a85-42c4-8b1b-82e3ea0e0671</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_01</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Application subsystem shall accept the Rider Weight from the Configuration app. \par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID cc595a6e-2455-4cd3-a494-a5af8d8da0bd</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID cc595a6e-2455-4cd3-a494-a5af8d8da0bd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:27</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_1</_hname>
+					<_hid type="a">GUID efb12dee-0125-49b2-8b5e-a08e4723bca2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID abf79ece-3a85-42c4-8b1b-82e3ea0e0671</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 7d15736f-47c6-430e-a636-5c1d1d8b2dd1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_02</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Application shall use Ride Weight in computation of commanded pedal Resistance\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 028765f5-ca72-4d8c-ad4f-3806637c3943</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 028765f5-ca72-4d8c-ad4f-3806637c3943</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:28</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_1</_hname>
+					<_hid type="a">GUID efb12dee-0125-49b2-8b5e-a08e4723bca2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 7d15736f-47c6-430e-a636-5c1d1d8b2dd1</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 37d2aece-daec-49be-a0a4-0b83c38be6af</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_03</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Data Management Subsystem shall store Rider Configuration data including age, sex, weight, and height. </_body>
+			<AggregatesList type="e">
+				<value>GUID 33d62475-0c1c-4ce6-a247-33c34889307b</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 33d62475-0c1c-4ce6-a247-33c34889307b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:31</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:31</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_1</_hname>
+					<_hid type="a">GUID efb12dee-0125-49b2-8b5e-a08e4723bca2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 37d2aece-daec-49be-a0a4-0b83c38be6af</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 013e12fa-fa97-4cbc-b57e-4671858d50de</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_04</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Pedal Assembly subsystem shall provide pedal cadence to the Rider Application subsystem. \par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID db742b9b-14ba-4da8-8971-5b7b1e8d885c</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID db742b9b-14ba-4da8-8971-5b7b1e8d885c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_4</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:47</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_4</_hname>
+					<_hid type="a">GUID fd705f35-c1cc-49ed-9505-1e92f358373e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 013e12fa-fa97-4cbc-b57e-4671858d50de</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_05</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Pedal Assembly subsystem shall provide rider power at the point of the pedal at least every 100 ms to the Rider Application Subsystem\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 706b8f25-ac88-426e-bbcb-f40a3994d850</value>
+				<value>GUID 41be9296-1efc-4072-a820-ef34184ab34d</value>
+				<value>GUID 47c334ad-5b16-4913-8f96-22c6f6eace26</value>
+				<value>GUID 7ed9e440-f032-4ccf-a339-fd361ee4fb0a</value>
+				<value>GUID 2b7031da-b3fa-4a40-a69b-36727b09349d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 706b8f25-ac88-426e-bbcb-f40a3994d850</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_7</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:49</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_7</_hname>
+					<_hid type="a">GUID 8451eb49-0a85-4c22-bc4f-d430f2bb8dff</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 41be9296-1efc-4072-a820-ef34184ab34d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_13</_hname>
+					<_hid type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 47c334ad-5b16-4913-8f96-22c6f6eace26</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_14</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:29</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_14</_hname>
+					<_hid type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 7ed9e440-f032-4ccf-a339-fd361ee4fb0a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_14_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_14</_hname>
+					<_hid type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 2b7031da-b3fa-4a40-a69b-36727b09349d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:19</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_0</_hname>
+					<_hid type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a069a602-3048-47bf-a3e7-4cfabf682aae</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID ece4aee8-40de-4bf0-9d79-e98f8ca3860c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_06</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Application subsystem shall accept time-filter settings from the Trainer App from the set of 0 (instantaneous power), 1-second, 3-second, and 5-second).</_body>
+			<AggregatesList type="e">
+				<value>GUID 3dc8e3ae-5ea1-4599-accf-8c6a99b87f47</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 3dc8e3ae-5ea1-4599-accf-8c6a99b87f47</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_7</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:53</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_7</_hname>
+					<_hid type="a">GUID 8451eb49-0a85-4c22-bc4f-d430f2bb8dff</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID ece4aee8-40de-4bf0-9d79-e98f8ca3860c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID aba6b78b-d833-4e0a-9451-5ff2c9cd8002</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_07</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Application subsystem shall compute time-filtered power at least every 300 ms\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 4b59aa95-fd3d-4b2c-9d78-3348dd774ccd</value>
+				<value>GUID c2daad6b-e619-4d0f-b1fe-0846bc5a5d3d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 4b59aa95-fd3d-4b2c-9d78-3348dd774ccd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_7</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::11:59:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::11:59:51</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_7</_hname>
+					<_hid type="a">GUID 8451eb49-0a85-4c22-bc4f-d430f2bb8dff</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID aba6b78b-d833-4e0a-9451-5ff2c9cd8002</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID c2daad6b-e619-4d0f-b1fe-0846bc5a5d3d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:21</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_0</_hname>
+					<_hid type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID aba6b78b-d833-4e0a-9451-5ff2c9cd8002</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 46684b91-e5d1-4efe-b889-7cdf5c4bc901</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_08</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Application subsystem shall send the time-filtered power to the Training App via the Comms subsystem at least every 300ms.</_body>
+			<AggregatesList type="e">
+				<value>GUID 4eee458a-f0b6-45e7-a2a6-d4b5c40eec09</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 4eee458a-f0b6-45e7-a2a6-d4b5c40eec09</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_8</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:38</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_8</_hname>
+					<_hid type="a">GUID eef2df59-a4fe-4dc0-88f4-2f4e8896db73</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 46684b91-e5d1-4efe-b889-7cdf5c4bc901</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_09</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Comms subssytem shall transmit ride data to the Training App at the direction of the Rider Application subsystem within 20ms of recept of the message.\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 68ab6fe1-7592-4f00-8865-ff14c21d29b0</value>
+				<value>GUID d0239d42-4649-48b2-8b8d-149e6ae1c55a</value>
+				<value>GUID ac384fbd-e8a7-4344-aa2c-099838395253</value>
+				<value>GUID 4aa3eb30-646b-452b-989e-3721d36ea49d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 68ab6fe1-7592-4f00-8865-ff14c21d29b0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_8</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:36</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:36</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_8</_hname>
+					<_hid type="a">GUID eef2df59-a4fe-4dc0-88f4-2f4e8896db73</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID d0239d42-4649-48b2-8b8d-149e6ae1c55a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_13</_hname>
+					<_hid type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID ac384fbd-e8a7-4344-aa2c-099838395253</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_15</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:3</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_15</_hname>
+					<_hid type="a">GUID d438a741-e759-4b97-be59-8965deb36e03</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 4aa3eb30-646b-452b-989e-3721d36ea49d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_21</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:32</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_21</_hname>
+					<_hid type="a">GUID bda732e0-f6ef-4a34-9905-019325b3efee</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 1c6ffff8-6fe2-4859-b023-8dfd39c86c86</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID c8fb3332-6023-4264-9410-57a77583e4fe</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_10</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Application Subsystem shall send simulated road speed to the Training App via the Comms subsystem at least every 1000 ms.\par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID 56a3bd35-654b-4f8b-b9b7-1a5edbc95510</value>
+				<value>GUID 9ecb2757-b96d-43ab-8868-73e71a758a30</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 56a3bd35-654b-4f8b-b9b7-1a5edbc95510</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_21</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:34</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_21</_hname>
+					<_hid type="a">GUID bda732e0-f6ef-4a34-9905-019325b3efee</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c8fb3332-6023-4264-9410-57a77583e4fe</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 9ecb2757-b96d-43ab-8868-73e71a758a30</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_15</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:3:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_15</_hname>
+					<_hid type="a">GUID d438a741-e759-4b97-be59-8965deb36e03</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID c8fb3332-6023-4264-9410-57a77583e4fe</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 66bac957-6add-4491-9509-cc16aa30b06e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_11</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Application Subsystem shall verify the validaity of the gearing configuration received via the Comms subsystem from the Configuraiton App. \par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID b95b4cf1-038f-4185-86f5-8d9838b6846d</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID b95b4cf1-038f-4185-86f5-8d9838b6846d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_10</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:1:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:1:37</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_10</_hname>
+					<_hid type="a">GUID e39ee686-28f8-40b1-92f9-4114693db51c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 66bac957-6add-4491-9509-cc16aa30b06e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID dc2619e8-fb2f-4d3a-85a2-8506d4366fb6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_12</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Data Management subsystem shall be able to store gearing configuration\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID eda42d4d-d57d-41df-9749-64c5f99a64f2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_13</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_body type="a">The System Configuration shall store the gearing configuration via the Data Management System</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 19e86cc1-eed2-4216-b62f-e17bb0f48f94</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_14</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Application susbsytem shall compute resistance commanded to the Motor Assembly subsystem. </_body>
+			<AggregatesList type="e">
+				<value>GUID 50451554-9f21-462c-874d-cfe55d14afef</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 50451554-9f21-462c-874d-cfe55d14afef</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:23</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_0</_hname>
+					<_hid type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 19e86cc1-eed2-4216-b62f-e17bb0f48f94</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 156f999e-9d75-4d76-bc8d-7cb03d26bfcf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_15</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Applicatiion system shall store current gear</_body>
+			<AggregatesList type="e">
+				<value>GUID ccff79ec-7a72-40ba-a124-0c684cd641d3</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID ccff79ec-7a72-40ba-a124-0c684cd641d3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_2</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:30</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_2</_hname>
+					<_hid type="a">GUID fca67b71-2ab6-4b9b-a777-d4a34cb4bdd1</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 156f999e-9d75-4d76-bc8d-7cb03d26bfcf</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a73495ae-195a-4350-b7f0-d98d965739d0</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_16</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Data Management subsystem shall store all its data persistently so that it is retained acoss power resets. </_body>
+			<AggregatesList type="e">
+				<value>GUID 16bdff51-5e76-4f55-99d6-2253b6c6570f</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 16bdff51-5e76-4f55-99d6-2253b6c6570f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_2</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:32</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_2</_hname>
+					<_hid type="a">GUID fca67b71-2ab6-4b9b-a777-d4a34cb4bdd1</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a73495ae-195a-4350-b7f0-d98d965739d0</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 40b592fe-f74e-4695-bc93-50f40381956c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_17</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">The Comms subsystem shall accept messages from the Trainer App</_body>
+			<AggregatesList type="e">
+				<value>GUID e11ea526-2c01-42bd-ab63-3e1ab83e4697</value>
+				<value>GUID 715dda3c-b69b-4a26-b477-233be1b1b300</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID e11ea526-2c01-42bd-ab63-3e1ab83e4697</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_9</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:37</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_9</_hname>
+					<_hid type="a">GUID 9555ff22-a585-4125-9cda-b828f8f5a370</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 40b592fe-f74e-4695-bc93-50f40381956c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 715dda3c-b69b-4a26-b477-233be1b1b300</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_11</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:41</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_11</_hname>
+					<_hid type="a">GUID d3103ec7-b399-4144-aaaa-e5ac978874fc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 40b592fe-f74e-4695-bc93-50f40381956c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 9fc0349d-d3a9-4817-ab80-46573243ef24</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_18</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_body type="a">The Comms subsystem shall accept messages from the Configuration App. </_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID f97f3add-0fab-4924-af7e-c031ee8dae05</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_19</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">The Comms subsystem shall accept set Incline from the Training App and send it to the Rider Application subsystem. </_body>
+			<AggregatesList type="e">
+				<value>GUID eb9fd14a-718f-4dbe-bd8c-c1255d67befd</value>
+				<value>GUID e2caed4b-8874-4a16-ad67-bb8da78272d3</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID eb9fd14a-718f-4dbe-bd8c-c1255d67befd</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_9</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:39</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_9</_hname>
+					<_hid type="a">GUID 9555ff22-a585-4125-9cda-b828f8f5a370</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID f97f3add-0fab-4924-af7e-c031ee8dae05</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID e2caed4b-8874-4a16-ad67-bb8da78272d3</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_11</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:42</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_11</_hname>
+					<_hid type="a">GUID d3103ec7-b399-4144-aaaa-e5ac978874fc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID f97f3add-0fab-4924-af7e-c031ee8dae05</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 48397076-e344-4c06-bc39-50d312442101</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_20</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_body type="a">The Rider Application subssytem shall cpmpute rioad speed </_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID cbed8e25-8f2c-4585-8836-cb16d9887f17</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_21</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Incline Control subsystem will send commanded Incline. </_body>
+			<AggregatesList type="e">
+				<value>GUID 52494215-19a8-49fc-b1f6-9e7ed4fe38ab</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 52494215-19a8-49fc-b1f6-9e7ed4fe38ab</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_13</_hname>
+					<_hid type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID cbed8e25-8f2c-4585-8836-cb16d9887f17</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 66a78109-c223-435b-bcaf-341935c7e0bb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_22</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The Rider Interaction substance shall be able to set inlcude from -20 to +20 %25 grade in 1 %25 grade increments. \par%0D
+}%0D
+</_body>
+			<AggregatesList type="e">
+				<value>GUID bda77699-1690-4f02-8f96-6d4b014c9dc2</value>
+				<value>GUID 457ad5b3-523c-4bc6-a469-a153d09b27c5</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID bda77699-1690-4f02-8f96-6d4b014c9dc2</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_13</_hname>
+					<_hid type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 66a78109-c223-435b-bcaf-341935c7e0bb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 457ad5b3-523c-4bc6-a469-a153d09b27c5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_14</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_14</_hname>
+					<_hid type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 66a78109-c223-435b-bcaf-341935c7e0bb</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 3310c901-1b60-48fd-89d3-f811194c1034</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_23</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Incline Control subsystem will set the system inclination as commanded within the range of -20 to +20 %25 incline with a precision of +/- 1%25 incline. </_body>
+			<AggregatesList type="e">
+				<value>GUID ee4993f3-373a-452e-a974-6a14a20de159</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID ee4993f3-373a-452e-a974-6a14a20de159</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_13</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:0:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:0:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_13</_hname>
+					<_hid type="a">GUID 3ebb1c23-6718-46b4-9848-78817c89baa2</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 3310c901-1b60-48fd-89d3-f811194c1034</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 5e6b7515-c353-43a5-89dc-f9629ae1101f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_24</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Motor Assembly shall create resistance under command of the Rider Appklication subsystem in the ranfge ogf 0 to 2000W. </_body>
+			<AggregatesList type="e">
+				<value>GUID f2860352-44f2-4ba4-8143-ef17cae2aa8f</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID f2860352-44f2-4ba4-8143-ef17cae2aa8f</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_14</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_14</_hname>
+					<_hid type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 5e6b7515-c353-43a5-89dc-f9629ae1101f</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 83af28e3-ceec-4bf2-9745-dc81617cab12</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_25</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Application shall cmpute simulated acceleration</_body>
+			<AggregatesList type="e">
+				<value>GUID 4fa352df-e801-478c-b183-774aab650c30</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 4fa352df-e801-478c-b183-774aab650c30</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_15</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_15</_hname>
+					<_hid type="a">GUID d438a741-e759-4b97-be59-8965deb36e03</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 83af28e3-ceec-4bf2-9745-dc81617cab12</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 447e222c-e1fe-434e-a319-691afe19c370</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_26</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Drive Train shall transmit power from the motor to the pedal assembly</_body>
+			<AggregatesList type="e">
+				<value>GUID c3c8f0f2-4712-43f6-8daf-a1eb1a863d9b</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID c3c8f0f2-4712-43f6-8daf-a1eb1a863d9b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_14</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:2:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:2:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_14</_hname>
+					<_hid type="a">GUID dd64b0ed-ceb9-4f87-8b42-5aa22f64182b</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 447e222c-e1fe-434e-a319-691afe19c370</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 041fcfff-0b4b-4a6f-ba7a-d2188ce5a754</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_27</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Motor Assembly susystem shall change to commanded power output in &lt; 100ms</_body>
+			<AggregatesList type="e">
+				<value>GUID 63c2f849-6b30-48eb-bf18-dcf746375272</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 63c2f849-6b30-48eb-bf18-dcf746375272</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_24</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:8:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:8:15</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_24</_hname>
+					<_hid type="a">GUID 19b33b76-8287-419b-93a3-cad1e92cde9f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 041fcfff-0b4b-4a6f-ba7a-d2188ce5a754</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 5a317e6e-5ace-4bbc-978d-cac615adbf88</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_28</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider Application susbystem shall compute and command the motor to set power output at least every 100ms during a ride</_body>
+			<AggregatesList type="e">
+				<value>GUID 2c93736b-b356-4029-95ca-1407e5d16443</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 2c93736b-b356-4029-95ca-1407e5d16443</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_24</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:8:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:8:13</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_24</_hname>
+					<_hid type="a">GUID 19b33b76-8287-419b-93a3-cad1e92cde9f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 5a317e6e-5ace-4bbc-978d-cac615adbf88</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 6e3ba772-b4b4-4dad-b8fd-fbdcf6ad2e22</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_30</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Mechanical Frame shall be able to accept 2000W of rider power for an extended period without Rider noticable frame deformation</_body>
+			<AggregatesList type="e">
+				<value>GUID 942e75ee-5a4c-4363-81cf-fbd0cb6d6009</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 942e75ee-5a4c-4363-81cf-fbd0cb6d6009</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_24</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:8:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:8:17</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_24</_hname>
+					<_hid type="a">GUID 19b33b76-8287-419b-93a3-cad1e92cde9f</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 6e3ba772-b4b4-4dad-b8fd-fbdcf6ad2e22</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID 5f4d576c-accd-4e92-8e78-ddbb5117de3e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_31</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider shall be able to select from the available front gearing. </_body>
+			<AggregatesList type="e">
+				<value>GUID 3f5d7fcf-bfa0-4864-9b1a-ee18b84fef9c</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID 3f5d7fcf-bfa0-4864-9b1a-ee18b84fef9c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:27</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_0</_hname>
+					<_hid type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID 5f4d576c-accd-4e92-8e78-ddbb5117de3e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IRequirement type="e">
+			<_id type="a">GUID a255a5a9-d608-48fb-bb2a-16dc2d208194</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CRD_32</_name>
+			<_modifiedTimeWeak type="a">6.9.2020::12:16:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:16:57</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_body type="a">The Rider shall be able to select from the available rear gearing. </_body>
+			<AggregatesList type="e">
+				<value>GUID e4a0d81c-4f7e-4399-93b1-434bd56303ae</value>
+			</AggregatesList>
+		</IRequirement>
+		<IDependency type="e">
+			<_id type="a">GUID e4a0d81c-4f7e-4399-93b1-434bd56303ae</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">CR_requirement_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">deriveReqt</_hname>
+							<_hid type="a">GUID bd4e59da-660e-4d0f-b509-206b2bd9daaf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">6.9.2020::12:4:25</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2020::12:4:25</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg::ComputeResistanceReqPkg</_hsubsystem>
+					<_hname type="a">CR_requirement_0</_hname>
+					<_hid type="a">GUID b5c978ae-a359-4e2f-9e82-51e64b304882</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IRequirement</_hm2Class>
+					<_hid type="a">GUID a255a5a9-d608-48fb-bb2a-16dc2d208194</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 85c451b8-98ce-4ed3-b8eb-2b0ee0edf899</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">9.4.2020::15:34:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">9.4.2020::15:34:19</weakCGTime>
+			<strongCGTime type="a">9.4.2020::15:34:19</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

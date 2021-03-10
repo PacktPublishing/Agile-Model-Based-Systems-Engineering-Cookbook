@@ -1,0 +1,33 @@
+<title>Report1588532212950.html</title><h1>Description</h1><p><h1>Parametric Diagrams</h1><h2>Position Control Trade Study Parametrics</h2><p><br><img src="file:/F:/Work/_Documents/MBSE Cookbook/Models/RobotArmTradeStudy/RobotArmTradeStudy_rpy/Picture1588532213282.jpg"><table border=1><td>Name<td>Type<td>Original Value<td>Value<td>Min.<td>Max.<td>Command
+<tr><td>Position Control Trade Study Parametrics<td>Parametric Diagram<td><td><td><td><td>
+</tr><tr><td>PositionControl_TradeStudy<td>PositionControl_TradeStudy<td><td><td><td><td>
+</tr><tr><td>Accuracy<td>mm<td>1<td>1<td><td><td>Fix
+</tr><tr><td>Reliability<td>MTBF_hours<td>3200<td>3200<td><td><td>Fix
+</tr><tr><td>Weight<td>Kilogram<td>24<td>24<td><td><td>Fix
+</tr><tr><td>PartsCost<td>US_dollars<td>550<td>550<td><td><td>Fix
+</tr><tr><td>MaintenanceCost<td>US_dollars<td>2700<td>2700<td><td><td>Fix
+</tr><tr><td>positionControlMOEs<td>positionControlMOEs<td><td><td><td><td>
+</tr><tr><td>accuracy<td>Real<td><td>1<td><td><td>
+</tr><tr><td>reliability<td>Real<td><td>3200<td><td><td>
+</tr><tr><td>weight<td>Real<td><td>24<td><td><td>
+</tr><tr><td>partsCost<td>Real<td><td>550<td><td><td>
+</tr><tr><td>maintenanceCost<td>Real<td><td>2700<td><td><td>
+</tr><tr><td>accuracyMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>weightMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>reliabilityMOE<td>Real<td><td>0<td><td><td>
+</tr><tr><td>partsCostMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>maintenanceCostMOE<td>Real<td><td>0<td><td><td>
+</tr><tr><td>accuracyConstraint<td>Constraint<td>accuracyMOE = -5*accuracy/2 + 25/2<td>accuracyMOE = -5*accuracy/2 + 25/2<td><td><td>
+</tr><tr><td>weightConstraint<td>Constraint<td>weightMOE=-5*weight/24 + 15<td>weightMOE=-5*weight/24 + 15<td><td><td>
+</tr><tr><td>reliabilityConstraint<td>Constraint<td>reliabilityMOE= reliability/80 - 40<td>reliabilityMOE= reliability/80 - 40<td><td><td>
+</tr><tr><td>partsCostConstraint<td>Constraint<td>partsCostMOE= -partsCost/25 + 32<td>partsCostMOE= -partsCost/25 + 32<td><td><td>
+</tr><tr><td>maintenanceCostConstraint<td>Constraint<td>maintenanceCostMOE= -maintenanceCost/70 + 270/7<td>maintenanceCostMOE= -maintenanceCost/70 + 270/7<td><td><td>
+</tr><tr><td>itsWeightedObjectiveFunction<td>WeightedObjectiveFunction<td><td><td><td><td>
+</tr><tr><td>accuracyMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>reliabilityMOE<td>Real<td><td>0<td><td><td>
+</tr><tr><td>weightMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>partsCostMOE<td>Real<td><td>10<td><td><td>
+</tr><tr><td>maintenanceCostMOE<td>Real<td><td>0<td><td><td>
+</tr><tr><td>ObjectiveFunction<td>Real<td><td>6<td><td><td>
+</tr><tr><td>ObjectiveFunctionConstraint<td>Constraint<td>ObjectiveFunction=accuracyMOE*0.30 + weightMOE*0.20 + reliabilityMOE*0.25 + partsCostMOE*0.10 + maintenanceCostMOE*0.15<td>ObjectiveFunction=accuracyMOE*0.30 + weightMOE*0.20 + reliabilityMOE*0.25 + partsCostMOE*0.10 + maintenanceCostMOE*0.15<td><td><td>
+</tr></table>

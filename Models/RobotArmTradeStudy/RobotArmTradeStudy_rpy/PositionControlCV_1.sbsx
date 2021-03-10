@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID cca31c1a-936c-4ac5-aaf9-1f200aa64ce6</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">PositionControlCV</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintView</_hname>
+							<_hid type="a">GUID ebbbe90e-2234-48a0-ac69-a4dd36914337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::11:56:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<weakCGTime type="a">5.4.2020::11:56:7</weakCGTime>
+			<strongCGTime type="a">5.3.2020::20:0:30</strongCGTime>
+			<_defaultComposite type="s">GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 1cf4cf8a-3e51-4443-8eb4-028ef952977f</value>
+				<value>GUID dff2caba-b3fb-498c-a0ba-273c782c8158</value>
+				<value>GUID e344dfce-ccfe-4b79-a8ac-f78ba356f083</value>
+				<value>GUID 3f4b1a84-5739-4568-8319-348a76bbd6ad</value>
+				<value>GUID 36d6d946-895c-460a-b096-091148d1545e</value>
+				<value>GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 1cf4cf8a-3e51-4443-8eb4-028ef952977f</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Position Control Trade Study Parametrics</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToParametricDiagram</_hname>
+							<_hid type="a">GUID 9f6062ec-a2c8-4edd-8d4c-a53bafe9e540</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.3.2020::19:19:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\ProduceResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::ProduceResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">Position Control Trade Study Parametrics</_hname>
+					<_hid type="a">GUID 525147c2-0323-47b1-b928-c825cc6d6269</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID cca31c1a-936c-4ac5-aaf9-1f200aa64ce6</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID dff2caba-b3fb-498c-a0ba-273c782c8158</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">electricPositionControl</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToInstance</_hname>
+							<_hid type="a">GUID b7002f52-6c8b-4f1c-8162-2f48e79e7337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.3.2020::20:0:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IInstanceSpecification</_hm2Class>
+					<_hfilename type="a">.\ProduceResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::ProduceResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">electricPositionControl</_hname>
+					<_hid type="a">GUID 28308566-3a09-4c9a-917b-471770393446</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID cca31c1a-936c-4ac5-aaf9-1f200aa64ce6</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IMHyperLink type="e">
+			<_id type="a">GUID e344dfce-ccfe-4b79-a8ac-f78ba356f083</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintEvaluationReport</_hname>
+							<_hid type="a">GUID 44e8d354-b9bb-494c-aeff-e7d33a498d3d</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::11:56:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">file:/F:/Work/_Documents/MBSE Cookbook/Models/RobotArmTradeStudy/RobotArmTradeStudy_rpy/Report1588532212950.html</_linkDispName>
+			<_linkType type="a">NAME</_linkType>
+			<_linkTarget type="a">file:/F:/Work/_Documents/MBSE Cookbook/Models/RobotArmTradeStudy/RobotArmTradeStudy_rpy/Report1588532212950.html</_linkTarget>
+			<isConfigurationFileHyperLink type="a">0</isConfigurationFileHyperLink>
+			<AggregatesList type="e">
+				<value>GUID 17e7495c-d618-4c4e-ac8c-fa931bdd914a</value>
+				<value>GUID 3269a593-6958-4328-9bf2-c081202e31ae</value>
+			</AggregatesList>
+		</IMHyperLink>
+		<IEmbededFile type="e">
+			<_id type="a">GUID 17e7495c-d618-4c4e-ac8c-fa931bdd914a</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Report1588532212950_copy.html</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::11:56:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_MayNeedToRelocate type="a">0</_MayNeedToRelocate>
+			<_LastKnownFullPath type="a">F:\Work\_Documents\MBSE Cookbook\Models\RobotArmTradeStudy\RobotArmTradeStudy_rpy\Report1588532212950_copy.html</_LastKnownFullPath>
+		</IEmbededFile>
+		<IEmbededFile type="e">
+			<_id type="a">GUID 3269a593-6958-4328-9bf2-c081202e31ae</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Picture1588532213282_copy.jpg</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::11:56:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_MayNeedToRelocate type="a">0</_MayNeedToRelocate>
+			<_LastKnownFullPath type="a">F:\Work\_Documents\MBSE Cookbook\Models\RobotArmTradeStudy\RobotArmTradeStudy_rpy\Picture1588532213282_copy.jpg</_LastKnownFullPath>
+		</IEmbededFile>
+		<ITag type="e">
+			<_id type="a">GUID 3f4b1a84-5739-4568-8319-348a76bbd6ad</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">PlotSettings</_name>
+			<_modifiedTimeWeak type="a">5.3.2020::19:19:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+					<_hsubsystem type="a">PCE</_hsubsystem>
+					<_hclass type="a">ConstraintView</_hclass>
+					<_hname type="a">PlotSettings</_hname>
+					<_hid type="a">GUID 9d13c319-87f5-4a74-9f6a-7b3eb89742a0</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 4b94d530-dd9d-405d-9db3-5d8652d26328</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 4b94d530-dd9d-405d-9db3-5d8652d26328</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">5.3.2020::19:6:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.3.2020::19:6:21</_modifiedTime>
+			<_value type="a">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;%0D
+&lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&gt;%0D
+&lt;properties&gt;%0D
+&lt;comment/&gt;%0D
+&lt;entry key=&quot;My New Graph&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.PartsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max1&quot;&amp;gt;1.0&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min1&quot;&amp;gt;0.0&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Weight&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.maintenanceCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.weight&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.ObjectiveFunction&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.var2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.var1&quot;&amp;gt;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Accuracy&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.weightMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.nticks2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.nticks1&quot;&amp;gt;30&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.partsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.font2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.font1&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.weightMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.maintenanceCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.label2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.label1&quot;&amp;gt;Accuracy&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.maintenanceCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.MaintenanceCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;/properties&gt;</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 36d6d946-895c-460a-b096-091148d1545e</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Values</_name>
+			<_modifiedTimeWeak type="a">5.3.2020::20:5:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::11:56:7</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+					<_hsubsystem type="a">PCE</_hsubsystem>
+					<_hclass type="a">ConstraintView</_hclass>
+					<_hname type="a">Values</_hname>
+					<_hid type="a">GUID 17d414af-6c6d-4fe8-b9c7-4ef0feabed38</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID d74f6392-161b-4d97-85e0-5bcba5aaad66</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID d74f6392-161b-4d97-85e0-5bcba5aaad66</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">5.3.2020::20:5:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.3.2020::20:5:10</_modifiedTime>
+			<_value type="a">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;%0D
+&lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&gt;%0D
+&lt;properties&gt;%0D
+&lt;comment/&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Weight&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Accuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;1&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Reliability&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.MaintenanceCost&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.PartsCost&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;/properties&gt;</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">5.3.2020::19:19:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">5.3.2020::19:19:38</weakCGTime>
+			<strongCGTime type="a">5.3.2020::19:19:38</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

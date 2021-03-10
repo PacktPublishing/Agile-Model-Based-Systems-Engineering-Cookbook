@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 20097c37-0ca9-4ece-870c-d9b20db8177f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">RiderInteractionDecompositionPkg</_name>
+			<_modifiedTimeWeak type="a">7.15.2020::13:44:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.15.2020::13:44:14</_modifiedTime>
+			<weakCGTime type="a">7.15.2020::13:44:14</weakCGTime>
+			<strongCGTime type="a">7.15.2020::13:44:14</strongCGTime>
+			<_defaultComposite type="s">GUID 7b5b9134-c714-4c3e-ab42-203ac9a764e7</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID f3097a9c-1137-47ee-8f7a-a6a1a6dabc67</value>
+				<value>GUID 6a412e63-0953-4ee0-824f-fe99e030b8ee</value>
+				<value>GUID 7b5b9134-c714-4c3e-ab42-203ac9a764e7</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">GearContolPkg</fileName>
+			<_id type="a">GUID f3097a9c-1137-47ee-8f7a-a6a1a6dabc67</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">InclineControlPkg</fileName>
+			<_id type="a">GUID 6a412e63-0953-4ee0-824f-fe99e030b8ee</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 7b5b9134-c714-4c3e-ab42-203ac9a764e7</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

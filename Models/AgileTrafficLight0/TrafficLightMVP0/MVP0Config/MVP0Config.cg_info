@@ -1,0 +1,42 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 6;
+	- value = "TrafficLightMVP0/MVP0Config/MVP0Pkg.cpp" 12.9.2020::1:56:25
+	"TrafficLightMVP0/MVP0Config/MVP0Pkg.h" 12.9.2020::1:56:25
+	"TrafficLightMVP0/MVP0Config/TrafficLane.cpp" 12.9.2020::1:56:25
+	"TrafficLightMVP0/MVP0Config/TrafficLane.h" 12.9.2020::1:56:25
+	"TrafficLightMVP0/MVP0Config/TrafficLightSystem.cpp" 12.9.2020::1:56:24
+	"TrafficLightMVP0/MVP0Config/TrafficLightSystem.h" 12.9.2020::1:56:24
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 1;
+	- value = "GUID 2de258ab-4806-4cdd-ba50-3833bd2159b9" "GUID 5c423eb5-3b42-42d0-862b-50c8223efbef"
+	
+}
+- size = 3;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\AgileTrafficLight_rpy\\MVP0Pkg.sbsx";
+	- _subsystem = "MVP0Pkg";
+	- _name = "TrafficLane";
+	- _id = GUID 29d8c5d3-aeb1-44d0-b37d-80b18466b85d;
+}
+- genTime = 12.9.2020::1:56:25;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\AgileTrafficLight_rpy\\MVP0Pkg.sbsx";
+	- _name = "MVP0Pkg";
+	- _id = GUID 2de258ab-4806-4cdd-ba50-3833bd2159b9;
+}
+- genTime = 12.9.2020::1:56:25;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\AgileTrafficLight_rpy\\MVP0Pkg.sbsx";
+	- _subsystem = "MVP0Pkg";
+	- _name = "TrafficLightSystem";
+	- _id = GUID d919706d-fd06-4b53-b003-eeb7b88f3dc2;
+}
+- genTime = 12.9.2020::1:56:25;
+

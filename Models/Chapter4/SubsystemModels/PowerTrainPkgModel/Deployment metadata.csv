@@ -1,0 +1,76 @@
+Interface,Feature,Feature Type,Tag,Value
+iEE_ME_Resistance,drive_train_connection,FlowProperty,direction,Bidirectional
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_5,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_0,"SW Read: 0=data may be written to send buffer; 1=Buffer is in use. SW Write:=-no effect, 1=Signal for electronics to send message"
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_12,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_9,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,Usage,Controls/indicates status of CAN message flow 
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_8,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_15,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_4,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_11,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_10,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_1,"SW Read 0=No new message, 1=New message in CAN Receive Buffer. SW Write: 0 = value saved to display on next read (otherwise ignored by electronics)"
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_2,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_13,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_6,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_14,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_3,unused
+iSW_EE_Comm,CAN_control_register,FlowProperty,Start_Address,A000: A0020
+iSW_EE_Comm,CAN_control_register,FlowProperty,direction,Bidirectional
+iSW_EE_Comm,CAN_control_register,FlowProperty,bit_7,unused
+iSW_EE_Comm,CANSendBuffer,FlowProperty,direction,Out
+iSW_EE_Comm,CANSendBuffer,FlowProperty,Start_Address,A000: 1200
+iSW_EE_Comm,CANSendBuffer,FlowProperty,Usage,SW writes the CAN message to be sent and then notifies the electronics to send the message via the CAN Control Register. Electronics notifies the software when the send is complete. 
+iSW_EE_Comm,CANSendBuffer,FlowProperty,Format,Defined by the CAN Bus standard
+iSW_EE_Comm,swCANMsgSent,Reception,Interrupt_number,2
+iSW_EE_Comm,swCANMsgSent,Reception,Usage,Electronics generates interrupt #2 to indicate that the commanded CAN message has been sent
+iSW_EE_Comm,CANReceiveBuffer,FlowProperty,direction,In
+iSW_EE_Comm,CANReceiveBuffer,FlowProperty,Starting_Byte_Number,0
+iSW_EE_Comm,CANReceiveBuffer,FlowProperty,Start_Address,A000: 0100
+iSW_EE_Comm,CANReceiveBuffer,FlowProperty,Usage,electronics writes the values to the buffer and notifies the SW when the complete message is stored
+iSW_EE_Comm,CANReceiveBuffer,FlowProperty,Format,Defined by the CAN Bus Standard
+iSW_EE_Comm,swCANMsgReceived,Reception,Interrupt_number,3
+iSW_EE_Comm,swCANMsgReceived,Reception,Usage,Electronics generates this interrupt to indicate that a message has been received and is available in the CAN Receive Buffer. 
+iSW_EE_Control,power,FlowProperty,direction,In
+iSW_EE_Control,power,FlowProperty,Usage,SW RO (Read Only) Read the value of the power apply at the pedal by the rider
+iSW_EE_Control,power,FlowProperty,Units,"0=no resistance, 0xFFFF = max power (0.046W per step)"
+iSW_EE_Control,control_register,FlowProperty,bit_10,unused
+iSW_EE_Control,control_register,FlowProperty,bit_9,unused
+iSW_EE_Control,control_register,FlowProperty,bit_5,unused
+iSW_EE_Control,control_register,FlowProperty,bit_12,unused
+iSW_EE_Control,control_register,FlowProperty,bit_11,unused
+iSW_EE_Control,control_register,FlowProperty,bit_1,"SW RO (Read Only). 0=No Error in resistance, 1=Error"
+iSW_EE_Control,control_register,FlowProperty,bit_6,unused
+iSW_EE_Control,control_register,FlowProperty,bit_14,unused
+iSW_EE_Control,control_register,FlowProperty,bit_2,"SW RO (Read Only). 0=no pedal position error, 1=pedal position error"
+iSW_EE_Control,control_register,FlowProperty,Usage,Bit 0 enables/disables power measurement and delivery. Other bits provide error indicators. 
+iSW_EE_Control,control_register,FlowProperty,direction,Bidirectional
+iSW_EE_Control,control_register,FlowProperty,bit_7,unused
+iSW_EE_Control,control_register,FlowProperty,bit_3,"SW RO (Read Only). 0=no rider power measurement error, 1=rider power measurement error"
+iSW_EE_Control,control_register,FlowProperty,bit_15,unused
+iSW_EE_Control,control_register,FlowProperty,bit_13,unused
+iSW_EE_Control,control_register,FlowProperty,Timing_Constraints,none
+iSW_EE_Control,control_register,FlowProperty,bit_4,unused
+iSW_EE_Control,control_register,FlowProperty,Number_Of_Bits,4
+iSW_EE_Control,control_register,FlowProperty,bit_8,unused
+iSW_EE_Control,control_register,FlowProperty,bit_0,"SW WO (Write Only). 0=Do not provide resistance, 1=Provide pesistance"
+iSW_EE_Control,control_register,FlowProperty,Start_Address,0xA000 0001
+iSW_EE_Control,pedal_position,FlowProperty,direction,In
+iSW_EE_Control,pedal_position,FlowProperty,Usage,SW RO (Read Only) Read the value to get the pedal position
+iSW_EE_Control,pedal_position,FlowProperty,Numer_Of_Bytes,1
+iSW_EE_Control,pedal_position,FlowProperty,Units,Each value corresponds to 1/256 of a circle
+iSW_EE_Control,pedal_position,FlowProperty,Starting_Byte_Number,0
+iSW_EE_Control,pedal_position,FlowProperty,Start_Address,A000: 0002
+iSW_EE_Control,pedal_speed,FlowProperty,Usage,SW RO (Read Only) Read this value to get the current velocity of the pedals
+iSW_EE_Control,pedal_speed,FlowProperty,Units,"0=stopped, 1=1,608 radians/min (256 revs/min)"
+iSW_EE_Control,pedal_speed,FlowProperty,Numer_Of_Bytes,1
+iSW_EE_Control,pedal_speed,FlowProperty,direction,In
+iSW_EE_Control,pedal_speed,FlowProperty,Start_Address,A000 0004
+iSW_EE_Control,resistance,FlowProperty,direction,Out
+iSW_EE_Control,resistance,FlowProperty,Starting_Byte_Number,0
+iSW_EE_Control,resistance,FlowProperty,Start_Address,A000: 0006
+iSW_EE_Control,resistance,FlowProperty,Numer_Of_Bytes,2
+iSW_EE_Control,resistance,FlowProperty,Usage,SW WO(Write Only) Specify the resistance to be applied to the rider at the pedal
+iSW_EE_Control,resistance,FlowProperty,Units,"0=no resistance, 0xFFFF = max resistance (18.3N per step)"
+iSW_EE_Control,resistance,FlowProperty,Format,16-bit value

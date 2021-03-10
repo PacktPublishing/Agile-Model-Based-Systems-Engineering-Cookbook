@@ -1,0 +1,28 @@
+"Requirement Name",Specification,"Derive Requirement in req"
+SWReq_10,"The software shall convey commanded resistance to the electronics within 50ms of receipt from the Rider Application subsystem. ",CRD_24
+SWReq_09,"The software shall reject commanded resistance resulting in power outputs that fall outside the range of 0 - 2000W and return an error message to the Rider Application subsystem.",CRD_24
+SWReq_08,"The software shall receive resistance commands from the Rider Application subsystem and convey them to the electronics within 10ms. ",CRD_24
+SWReq_07,"The software shall convery pedal position and pedal cadence at least every 50 ms to the Rider Interaction subsystem. ",CRD_04
+SWReq_06,"The software shall compute pedal cadence and pedal speed from pedal position changes at least every 20ms. ",CR_requirement_3
+SWReq_05,"The software shall read measured pedal position from the electronics at least every 10ms. ",CR_requirement_3
+SWReq_04,"The software shall command the electroncis to set power output within 50ms of receiving a command to do so from the Rider Application subsystem. ","CRD_28,
+CRD_27"
+SWReq_03,"The software shall command the electronics to set the pedal resistance. ",CRD_14
+SWReq_02,"The software shall accept commands from the Rider Application to set the commanded pedal resistance. ",CRD_14
+SWReq_01,"The software will send measured rider power at least every 100ms to the Rider Application Subsystem. 
+","CRD_05,
+CR_requirement_6"
+MEReq_02,"The mechanical drive train shall deliver resistance to the pedal with power loss of < 0.2W. ",CRD_24
+MEReq_01,"The mechanical drive train shall transmit the motor resistance to the pedal without rider-perceivable loss. ",CRD_26
+EEReq_10,"The electronics shall update the resistance at the pedal to commanded value within 10ms. ",CRD_24
+EEReq_09,"The electronics shall produce resistance resulting in the command power with an accuracy of +/- 1 Watt. ",CRD_24
+EEReq_08,"The electronics shall accept commands from the software to set the resistance to the rider resulting in power to the pedals in the range of 0 to 2000W. ",CRD_24
+EEReq_07,"The electronics shall provide measured pedal position to the software at least every 10ms. ",CR_requirement_3
+EEReq_06,"The electronics shall measure pedal position at least every 10ms.",CR_requirement_3
+EEReq_05,"The mortor shall produce resistance to be applied to the pedal",CRD_26
+EEReq_04,"The electronics shall measure pedal position within 1 degree of accuracy",CR_requirement_3
+EEReq_03,"The electronics shall change the power output to its software-commanded value within 50ms. ","CRD_28,
+CRD_27"
+EEReq_02,"The electronics shall accept command from the software to set the resistance to the motor. ",CRD_14
+EEReq_01,"The electronics will measure rider power at the pedal and present the value to the software at least every 50ms.","CRD_05,
+CR_requirement_6"

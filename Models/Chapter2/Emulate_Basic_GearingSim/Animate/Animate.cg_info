@@ -1,0 +1,298 @@
+I-Logix-RPY-Archive version 8.15.0 * 9841247
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 23;
+	- value = "Emulate_Basic_GearingSim/Animate/EmulateBasicGearingActorPkg.cpp" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingActorPkg.h" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingExecutionScopePkg.cpp" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingExecutionScopePkg.h" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingInterfacesPkg.cpp" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingInterfacesPkg.h" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingPkg.cpp" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingPkg.h" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingTypesPkg.cpp" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/EmulateBasicGearingTypesPkg.h" 12.27.2019::18:42:59
+	"Emulate_Basic_GearingSim/Animate/ProxyPortInterfaces.cpp" 12.27.2019::19:28:29
+	"Emulate_Basic_GearingSim/Animate/ProxyPortInterfaces.h" 12.27.2019::19:28:29
+	"Emulate_Basic_GearingSim/Animate/Real_appliedTorque_ProxyFlowPropertyInterface.h" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/Real_resistance_ProxyFlowPropertyInterface.h" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/Uc_EmulateBasicGearing.cpp" 12.27.2019::19:31:50
+	"Emulate_Basic_GearingSim/Animate/Uc_EmulateBasicGearing.h" 12.27.2019::18:46:24
+	"Emulate_Basic_GearingSim/Animate/aEBG_Rider.cpp" 12.27.2019::19:16:17
+	"Emulate_Basic_GearingSim/Animate/aEBG_Rider.h" 12.27.2019::18:57:39
+	"Emulate_Basic_GearingSim/Animate/aEBG_TrainingApp.cpp" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/aEBG_TrainingApp.h" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/decrementGear_ProxyReceptionInterface.h" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/gearing_ProxyReceptionInterface.h" 12.27.2019::18:42:58
+	"Emulate_Basic_GearingSim/Animate/incrementGear_ProxyReceptionInterface.h" 12.27.2019::18:42:58
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 7;
+	- value = "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855" "GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d"
+	"GUID 44c62b0a-f81e-4e83-8cfa-97cf5302490c" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID 77f0dbe2-9dfa-4b41-a310-320097059622" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d" "GUID b6f5976a-47cb-48fd-b9c3-7f48d2baf0ed"
+	"GUID bf97bc45-0b0f-4a05-9ce6-afb2865a305a" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID cb7d823d-d34b-46af-8d16-a6acf7319117" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	"GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584" "GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855"
+	
+}
+- size = 43;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1cfe8f2f-fbdd-4324-bd93-f387c84cb9ea;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 74f1bc67-a50e-4009-ac6a-f9db1bc05be2;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingTypesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingTypesPkg";
+	- _id = GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584;
+}
+- genTime = 12.27.2019::18:42:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "decrementGear_ProxyReceptionInterface";
+	- _id = GUID 367e07da-f3f8-457a-aba8-0537f79107fc;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 36980af7-36b2-4921-acd4-9feae4015502;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 7bdef656-98dc-4809-b68a-e366bf060063;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 75db06db-104b-47fc-9146-68e9de116b4f;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 5439b6f1-0ee1-4960-aa64-1900c39f8cac;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a6a28c48-f4aa-4566-a054-cb6b83e52c69;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingExecutionScopePkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingExecutionScopePkg";
+	- _id = GUID cb7d823d-d34b-46af-8d16-a6acf7319117;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 2048adde-9355-43d8-a672-3a54d9d8f791;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 544f3c9d-169e-41d9-acfb-cd3c7a2314f7;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d994b143-cce0-4b47-9f8e-35288a948aa7;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID de6d5089-00de-4734-b41e-7c6eaefebd6e;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "gearing_ProxyReceptionInterface";
+	- _id = GUID 7a24434f-0173-4c73-a4bf-05e7ae1d5c26;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "Real_appliedTorque_ProxyFlowPropertyInterface";
+	- _id = GUID 80f941c5-47ef-45ca-ab58-7c1599a6247a;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d62784b9-4ce6-4812-87f4-3378ff23fb80;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "incrementGear_ProxyReceptionInterface";
+	- _id = GUID ec9c2f6d-2d85-4625-b4fa-63816a6809c6;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID d5cbe6a8-b263-4729-a6fc-7a04f951ea8b;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingInterfacesPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingInterfacesPkg";
+	- _id = GUID bf97bc45-0b0f-4a05-9ce6-afb2865a305a;
+}
+- genTime = 12.27.2019::18:42:59;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 9c583877-a3f5-4bef-a4bc-1cdb3efe7498;
+}
+- genTime = 12.27.2019::19:21:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID f6888f1a-4e82-468e-8af7-cde51c8c9471;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID e6f667ca-f116-4b83-82d2-9f176d4b8ac3;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _subsystem = "ProxyPortInterfaces";
+	- _name = "Real_resistance_ProxyFlowPropertyInterface";
+	- _id = GUID 5cabc329-1da6-4dbb-8133-f547d2b85033;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg";
+	- _name = "aEBG_TrainingApp";
+	- _id = GUID 76f2f130-928a-4579-9b45-53792fe132f1;
+}
+- genTime = 12.27.2019::18:42:59;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg";
+	- _name = "EmulateBasicGearingPkg";
+	- _id = GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID fda13b59-f255-4ced-ae8e-2a0bf81fcfc1;
+}
+- genTime = 12.27.2019::19:21:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 9a43bb53-cb92-4485-bdc0-99b27ddcc9fc;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\ProxyPortInterfaces.sbsx";
+	- _name = "ProxyPortInterfaces";
+	- _id = GUID 44c62b0a-f81e-4e83-8cfa-97cf5302490c;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg::EmulateBasicGearingActorPkg";
+	- _name = "aEBG_Rider";
+	- _id = GUID 6d485360-e18b-410f-b0f1-42db71e12696;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingActorPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "EmulateBasicGearingActorPkg";
+	- _id = GUID 77f0dbe2-9dfa-4b41-a310-320097059622;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 0273d79a-c77c-4f3a-b594-7ddbf388652d;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Chapter2_rpy\\EmulateBasicGearingPkg.sbsx";
+	- _subsystem = "FunctionalAnalysisPkg::EmulateBasicGearingPkg";
+	- _name = "Uc_EmulateBasicGearing";
+	- _id = GUID e0d62fb0-a3cf-4429-beb4-355bf3c3eec8;
+}
+- genTime = 12.27.2019::19:31:50;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 78706313-689b-4161-9aaa-a09b0b523089;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 40f16165-c616-4241-bbb7-cb2c3d912f26;
+}
+- genTime = 12.27.2019::19:21:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 61f92388-1cac-4250-91fc-3e1a5d76081c;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 24809ae5-fa99-4879-bdbf-3cfae1360737;
+}
+- genTime = 12.27.2019::19:19:49;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1575944a-dbf1-4b3e-8cd1-e106f0be3079;
+}
+- genTime = 12.27.2019::19:26:21;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 131c66a2-0a19-4f03-b21e-79e48427d7a3;
+}
+- genTime = 12.27.2019::19:16:17;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID eac6ae58-808e-474e-9b24-3e4f172fdfe4;
+}
+- genTime = 12.27.2019::19:21:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID ff78090c-c7b8-451c-9020-21759bdb52dd;
+}
+- genTime = 12.27.2019::19:21:48;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID a0ab6028-0d4d-4a04-a77f-204976568236;
+}
+- genTime = 12.27.2019::19:28:29;
+- hElement = { IHandle 
+	- _m2Class = "*";
+	- _id = GUID 1ee70786-e2e5-44bc-9cee-4fec66b287af;
+}
+- genTime = 12.27.2019::19:21:48;
+

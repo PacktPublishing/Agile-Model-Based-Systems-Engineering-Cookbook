@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 021ea322-5f54-4d22-944c-76ce6b76f00a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FunctionalAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::13:40:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:13</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::13:40:13</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID a6c0fd9a-8a60-4a37-9889-155aca55b402</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 84fa10ee-0728-4ca4-a21f-c8f3688cb872</value>
+				<value>GUID a6c0fd9a-8a60-4a37-9889-155aca55b402</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MixGasesPkg</fileName>
+			<_id type="a">GUID 84fa10ee-0728-4ca4-a21f-c8f3688cb872</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID a6c0fd9a-8a60-4a37-9889-155aca55b402</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

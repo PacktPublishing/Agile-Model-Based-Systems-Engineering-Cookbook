@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 2aca4edb-fe86-4bdb-8690-cad2184107d4</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">WebComponents</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Event</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">WebManaged</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">MixGasesActorPkg</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<weakCGTime type="a">3.10.2020::14:22:52</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:14</strongCGTime>
+			<_defaultComposite type="s">GUID 94b02fde-5b67-4522-b162-900aab4f891a</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 94b02fde-5b67-4522-b162-900aab4f891a</value>
+				<value>GUID 5f466384-4cdd-4b25-b3fe-12b83e3fa29e</value>
+				<value>GUID 4ae2d076-d801-419b-9bba-15672e5addf5</value>
+				<value>GUID f9a0306f-8da5-49a2-a0d5-12b3a00a9f53</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 94b02fde-5b67-4522-b162-900aab4f891a</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 5f466384-4cdd-4b25-b3fe-12b83e3fa29e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">aMG_Ventilator</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">ActorBlock</_hname>
+							<_hid type="a">GUID 60e48a47-06d8-4c64-8fb2-6e4dd019e8aa</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:48</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.10.2020::14:22:48</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:14</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID a95a69fd-5dec-47d4-978a-6686a41ba6b6</value>
+				<value>GUID 32bfccec-9c7c-4108-83fe-906b69e7de3d</value>
+				<value>GUID 6f71120c-f9eb-4dc9-be98-b6b1b5b2c9b1</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID a95a69fd-5dec-47d4-978a-6686a41ba6b6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Ventilator</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">represents</_hname>
+							<_hid type="a">GUID baea55a7-4483-48a2-a310-add96a1c7042</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::13:40:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:14</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ActorPkg</_hsubsystem>
+					<_hname type="a">Ventilator</_hname>
+					<_hid type="a">GUID 2a21fb10-7502-45bc-b023-73d3cb6d1899</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 5f466384-4cdd-4b25-b3fe-12b83e3fa29e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 32bfccec-9c7c-4108-83fe-906b69e7de3d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pUc_MixGases</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:48</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MixGasesInterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg::MixGasesInterfacesPkg</_hsubsystem>
+					<_hname type="a">iUc_MixGases_aMG_Ventilator</_hname>
+					<_hid type="a">GUID 574ed2fc-d3fd-42b0-be5e-bd07b42327b9</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<AggregatesList type="e">
+				<value>GUID 815b3a92-8571-4156-9503-6b1d2b840fbc</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID 815b3a92-8571-4156-9503-6b1d2b840fbc</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:48</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID fcb4883a-2c32-492f-a2fc-9ce99a0a7562</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID fcb4883a-2c32-492f-a2fc-9ce99a0a7562</_id>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:48</_modifiedTime>
+			<_value type="a">Uc_MixGases</_value>
+		</ILiteralSpecification>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6f71120c-f9eb-4dc9-be98-b6b1b5b2c9b1</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMix Gases</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:14</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hname type="a">Mix Gases</_hname>
+					<_hid type="a">GUID 45d75755-1c29-47f1-8ebd-4e6e1507443f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hclass type="a">Mix Gases</_hclass>
+					<_hname type="a">itsAMG_Ventilator</_hname>
+					<_hid type="a">GUID dc043882-c024-4c9f-b189-ad191b74c3e8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID 4ae2d076-d801-419b-9bba-15672e5addf5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">aMG_Patient</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">ActorBlock</_hname>
+							<_hid type="a">GUID 60e48a47-06d8-4c64-8fb2-6e4dd019e8aa</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:50</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.10.2020::14:22:50</weakCGTime>
+			<strongCGTime type="a">3.10.2020::13:40:16</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 796b9e71-fc99-40da-8bf2-af147e688c3a</value>
+				<value>GUID cf34e3fb-c7a5-49d1-84a0-7dd9de5641aa</value>
+				<value>GUID 80d76a96-ee99-408b-99fb-4004802155d4</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID 796b9e71-fc99-40da-8bf2-af147e688c3a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Patient</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">represents</_hname>
+							<_hid type="a">GUID baea55a7-4483-48a2-a310-add96a1c7042</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::13:40:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:16</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ActorPkg</_hsubsystem>
+					<_hname type="a">Patient</_hname>
+					<_hid type="a">GUID a013b553-5afb-4904-b469-3fb36ead437a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 4ae2d076-d801-419b-9bba-15672e5addf5</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID cf34e3fb-c7a5-49d1-84a0-7dd9de5641aa</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pUc_MixGases</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:50</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MixGasesInterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg::MixGasesInterfacesPkg</_hsubsystem>
+					<_hname type="a">iUc_MixGases_aMG_Patient</_hname>
+					<_hid type="a">GUID 03e4bb8a-c421-4e0c-85e0-b546213db782</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<AggregatesList type="e">
+				<value>GUID 826f9135-6219-4c41-ae8f-31293425b24f</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID 826f9135-6219-4c41-ae8f-31293425b24f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:50</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 2b45b503-74a0-4515-b670-68d59272b119</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 2b45b503-74a0-4515-b670-68d59272b119</_id>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:50</_modifiedTime>
+			<_value type="a">Uc_MixGases</_value>
+		</ILiteralSpecification>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 80d76a96-ee99-408b-99fb-4004802155d4</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMix Gases</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::13:40:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hname type="a">Mix Gases</_hname>
+					<_hid type="a">GUID 45d75755-1c29-47f1-8ebd-4e6e1507443f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hclass type="a">Mix Gases</_hclass>
+					<_hname type="a">itsAMG_Patient</_hname>
+					<_hid type="a">GUID 23e87371-7a33-44e8-83e0-468a68574f77</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IClass type="e">
+			<_id type="a">GUID f9a0306f-8da5-49a2-a0d5-12b3a00a9f53</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">aMG_GasSupply</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">ActorBlock</_hname>
+							<_hid type="a">GUID 60e48a47-06d8-4c64-8fb2-6e4dd019e8aa</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">3.10.2020::14:22:52</weakCGTime>
+			<strongCGTime type="a">3.10.2020::14:22:52</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 58828722-5d0f-4008-91e7-38283ca73ea6</value>
+				<value>GUID 05243772-862d-47a2-a6ba-0bdc815dc767</value>
+				<value>GUID 8a624000-a95a-49e9-95a7-654e0877776c</value>
+			</AggregatesList>
+		</IClass>
+		<IDependency type="e">
+			<_id type="a">GUID 58828722-5d0f-4008-91e7-38283ca73ea6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Gas Supply</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hsubsystem type="a">HarmonySE</_hsubsystem>
+							<_hname type="a">represents</_hname>
+							<_hid type="a">GUID baea55a7-4483-48a2-a310-add96a1c7042</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\ActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ActorPkg</_hsubsystem>
+					<_hname type="a">Gas Supply</_hname>
+					<_hid type="a">GUID 03428b8f-f403-44c3-85df-3e9f0d9b3f53</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID f9a0306f-8da5-49a2-a0d5-12b3a00a9f53</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IPort type="e">
+			<_id type="a">GUID 05243772-862d-47a2-a6ba-0bdc815dc767</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">pUc_MixGases</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::PortsAndFlows</_hsubsystem>
+							<_hname type="a">proxyPort</_hname>
+							<_hid type="a">GUID b04e5e63-f5d7-4e3d-8000-2e07f5be4e8a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MixGasesInterfacesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg::MixGasesInterfacesPkg</_hsubsystem>
+					<_hname type="a">iUc_MixGases_aMG_GasSupply</_hname>
+					<_hid type="a">GUID e68c514e-5739-4359-8d32-de649e719dd7</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_reversed type="a">1</_reversed>
+			<AggregatesList type="e">
+				<value>GUID 9732e0bc-d366-4dfc-abfd-7a2a3401be06</value>
+			</AggregatesList>
+		</IPort>
+		<ITag type="e">
+			<_id type="a">GUID 9732e0bc-d366-4dfc-abfd-7a2a3401be06</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Destination</_name>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+					<_hsubsystem type="a">HarmonySE</_hsubsystem>
+					<_hname type="a">Destination</_hname>
+					<_hid type="a">GUID 2fa9f54f-f2a7-4a1c-8178-1a93bfb676c5</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 1727b40c-1452-4e2b-9f74-414696e48e1c</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 1727b40c-1452-4e2b-9f74-414696e48e1c</_id>
+			<_modifiedTimeWeak type="a">3.10.2020::14:22:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_value type="a">Uc_MixGases</_value>
+		</ILiteralSpecification>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8a624000-a95a-49e9-95a7-654e0877776c</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMix Gases</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.10.2020::14:22:52</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hname type="a">Mix Gases</_hname>
+					<_hid type="a">GUID 45d75755-1c29-47f1-8ebd-4e6e1507443f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MixGasesPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::MixGasesPkg</_hsubsystem>
+					<_hclass type="a">Mix Gases</_hclass>
+					<_hname type="a">itsAMG_GasSupply</_hname>
+					<_hid type="a">GUID d7ceba14-969a-4ca7-8516-e97469af61e0</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID cca31c1a-936c-4ac5-aaf9-1f200aa64ce6</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">GenerateResistanceCV</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ConstraintView</_hname>
+							<_hid type="a">GUID ebbbe90e-2234-48a0-ac69-a4dd36914337</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::18:47:13</_modifiedTimeWeak>
+			<HyperLinks type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</HyperLinks>
+			<_modifiedTime type="a">5.4.2020::20:15:43</_modifiedTime>
+			<weakCGTime type="a">5.4.2020::18:47:13</weakCGTime>
+			<strongCGTime type="a">5.4.2020::16:10:43</strongCGTime>
+			<_defaultComposite type="s">GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID ec1f387d-bc5e-4c5f-b97d-31d4c3940b9d</value>
+				<value>GUID 3f4b1a84-5739-4568-8319-348a76bbd6ad</value>
+				<value>GUID 36d6d946-895c-460a-b096-091148d1545e</value>
+				<value>GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID ec1f387d-bc5e-4c5f-b97d-31d4c3940b9d</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Generate Resistance Trade Study Parametrics linear curves</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hsubsystem type="a">PCE</_hsubsystem>
+							<_hname type="a">ReferenceToParametricDiagram</_hname>
+							<_hid type="a">GUID 9f6062ec-a2c8-4edd-8d4c-a53bafe9e540</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">5.4.2020::16:10:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::16:10:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\GenerateResistanceTradeStudyPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg</_hsubsystem>
+					<_hname type="a">Generate Resistance Trade Study Parametrics linear curves</_hname>
+					<_hid type="a">GUID 1512a8c3-3f5d-4e34-9d1b-66b38d1c43e0</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID cca31c1a-936c-4ac5-aaf9-1f200aa64ce6</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<ITag type="e">
+			<_id type="a">GUID 3f4b1a84-5739-4568-8319-348a76bbd6ad</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">PlotSettings</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::15:28:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::15:28:44</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+					<_hsubsystem type="a">PCE</_hsubsystem>
+					<_hclass type="a">ConstraintView</_hclass>
+					<_hname type="a">PlotSettings</_hname>
+					<_hid type="a">GUID 9d13c319-87f5-4a74-9f6a-7b3eb89742a0</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 40708462-7a8c-42f5-855d-b15b3b93b364</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 40708462-7a8c-42f5-855d-b15b3b93b364</_id>
+			<_modifiedTimeWeak type="a">5.4.2020::15:28:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::15:28:44</_modifiedTime>
+			<_value type="a">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;%0D
+&lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&gt;%0D
+&lt;properties&gt;%0D
+&lt;comment/&gt;%0D
+&lt;entry key=&quot;My New Graph&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.maintenanceCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.label2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.weightMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.label1&quot;&amp;gt;Accuracy&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.maintenanceCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.MaintenanceCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.weightMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.nticks2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.nticks1&quot;&amp;gt;30&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.mass&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max1&quot;&amp;gt;22&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.font2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.font1&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.partsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.ObjectiveFunction&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.massMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.riderFeelMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Weight&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.ObjectiveFunction&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.accuracyMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.maintenanceCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min1&quot;&amp;gt;1&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.weight&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::positionControlMOEs.reliability&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.riderFeelMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.riderFeel&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.partsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.PartsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt;x&amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.PartsCost&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg.itsWeightedObjectiveFunction.reliabilityMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Mass&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.RiderFeel&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg::PositionControl_TradeStudy.Accuracy&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.var2&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.var1&quot;&amp;gt;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Accuracy&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::productResistanceMOEs.massMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;ArchitecturalAnalysisPkg::RobotArmlTradeStudyPkg.itsWeightedObjectiveFunction.partsCostMOE&quot;&amp;gt;&amp;amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;properties&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;comment/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.color&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.label&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineWidth&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.lineType&quot;/&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;entry key=&quot;.checked&quot;&amp;amp;gt; &amp;amp;lt;/entry&amp;amp;gt;&amp;amp;#13;&amp;#13;%0D
+&amp;amp;lt;/properties&amp;amp;gt;&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;/properties&gt;</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 36d6d946-895c-460a-b096-091148d1545e</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Values</_name>
+			<_modifiedTimeWeak type="a">5.4.2020::18:47:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::18:47:13</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+					<_hsubsystem type="a">PCE</_hsubsystem>
+					<_hclass type="a">ConstraintView</_hclass>
+					<_hname type="a">Values</_hname>
+					<_hid type="a">GUID 17d414af-6c6d-4fe8-b9c7-4ef0feabed38</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID a1d2187f-502c-4f93-9773-217c8be05d13</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID a1d2187f-502c-4f93-9773-217c8be05d13</_id>
+			<_modifiedTimeWeak type="a">5.4.2020::18:47:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.4.2020::18:47:13</_modifiedTime>
+			<_value type="a">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;%0D
+&lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&gt;%0D
+&lt;properties&gt;%0D
+&lt;comment/&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Best.RiderFeel&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Worst.PartsCost&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Worst.Mass&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Accuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;10&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Mass&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;13&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.RiderFeel&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;15&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Best.PartsCost&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Best.Accuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Best.Mass&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Worst.RiderFeel&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.Reliability&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;6000&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Best.Reliability&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Worst.Accuracy&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GenerateResistance_TradeStudy.PartsCost&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;&amp;gt;375&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;entry key=&quot;AArchitecturalAnalysisPkg::GenerateResistanceTradeStudyPkg::GR_Worst.Reliability&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&amp;gt;&amp;#13;%0D
+&amp;lt;!DOCTYPE properties SYSTEM &quot;http://java.sun.com/dtd/properties.dtd&quot;&amp;gt;&amp;#13;%0D
+&amp;lt;properties&amp;gt;&amp;#13;%0D
+&amp;lt;comment/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.command&quot;&amp;gt;FIX&amp;lt;/entry&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.max&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.value&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;entry key=&quot;.min&quot;/&amp;gt;&amp;#13;%0D
+&amp;lt;/properties&amp;gt;&lt;/entry&gt;%0D
+&lt;/properties&gt;</_value>
+		</ILiteralSpecification>
+		<IClass type="e">
+			<_id type="a">GUID 0d9514b9-e5b0-4335-908a-0d559afc9962</_id>
+			<_myState type="a">40960</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">5.3.2020::19:19:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">5.3.2020::19:19:38</weakCGTime>
+			<strongCGTime type="a">5.3.2020::19:19:38</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

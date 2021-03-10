@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 9bf187bb-4a65-4ebc-8f7d-2f9d4a45aa64</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:44:14</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 433acb9e-9917-47c4-be86-ec301b7bb3bf</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hname type="a">SysML</_hname>
+							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
+							<_hname type="a">HarmonySE</_hname>
+							<_hid type="a">GUID 29d4fccc-40d9-4cb3-af8a-d7464f198819</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">C:\Users\Bruce\IBM\Rational\Rhapsody\8.4\Share\Profiles\Dependability\DependabilityProfile.sbs</_hfilename>
+							<_hname type="a">DependabilityProfile</_hname>
+							<_hid type="a">GUID d41b2037-6015-4c47-a0cf-35a2ac706009</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\PCE\PCE.sbs</_hfilename>
+							<_hname type="a">PCE</_hname>
+							<_hid type="a">GUID 88b3d5cc-acec-4202-b625-2e332540e30f</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\CommonPkg.sbsx</_hfilename>
+							<_hname type="a">CommonPkg</_hname>
+							<_hid type="a">GUID 8ebb5da3-e2eb-4857-85b4-6a9a3d546341</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ActorPkg.sbsx</_hfilename>
+							<_hname type="a">ActorPkg</_hname>
+							<_hid type="a">GUID b181043e-e088-4f99-8e88-e0a767662291</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\RequirementsAnalysisPkg.sbsx</_hfilename>
+							<_hname type="a">RequirementsAnalysisPkg</_hname>
+							<_hid type="a">GUID 15825663-d78e-45ea-b05b-15c80e247a01</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\RequirementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg</_hsubsystem>
+							<_hname type="a">RequirementsPkg</_hname>
+							<_hid type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ComputeResistanceReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">ComputeResistanceReqPkg</_hname>
+							<_hid type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontAndRearGearingReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontAndRearGearingReqPkg</_hname>
+							<_hid type="a">GUID b111e958-5496-4261-bece-7686817651d5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateDIShiftingReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">EmulateDIShiftingReqPkg</_hname>
+							<_hid type="a">GUID 75f3e5b3-a632-4236-8708-ada6253cb224</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SubsystemRequirementsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg::RequirementsPkg</_hsubsystem>
+							<_hname type="a">SubsystemRequirementsPkg</_hname>
+							<_hid type="a">GUID d355ee3f-1989-4b94-9475-aec0cd3a6b85</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\UseCaseDiagramsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsAnalysisPkg</_hsubsystem>
+							<_hname type="a">UseCaseDiagramsPkg</_hname>
+							<_hid type="a">GUID 75191e82-e9bb-49a1-884e-f61f4d807323</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FunctionalAnalysisPkg.sbsx</_hfilename>
+							<_hname type="a">FunctionalAnalysisPkg</_hname>
+							<_hid type="a">GUID 8edce745-f064-455a-bc3f-8a4cfcafd11d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingPkg</_hname>
+							<_hid type="a">GUID 16dba1d8-6c9e-49b9-ba0d-6ef91f015855</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingBBScenariosPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingBBScenariosPkg</_hname>
+							<_hid type="a">GUID c3beeb1a-f571-47ae-b224-435d46921248</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingSafetyPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingSafetyPkg</_hname>
+							<_hid type="a">GUID 8eab537e-1613-4d55-aff9-50f6cc00059e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingExecutionScopePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingExecutionScopePkg</_hname>
+							<_hid type="a">GUID cb7d823d-d34b-46af-8d16-a6acf7319117</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingTypesPkg</_hname>
+							<_hid type="a">GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingInterfacesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingInterfacesPkg</_hname>
+							<_hid type="a">GUID bf97bc45-0b0f-4a05-9ce6-afb2865a305a</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateBasicGearingActorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateBasicGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateBasicGearingActorPkg</_hname>
+							<_hid type="a">GUID 77f0dbe2-9dfa-4b41-a310-320097059622</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistancePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg</_hsubsystem>
+							<_hname type="a">ControlResistancePkg</_hname>
+							<_hid type="a">GUID 362dae40-8692-47ce-86dc-dac1e303a607</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceBBScenariosPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceBBScenariosPkg</_hname>
+							<_hid type="a">GUID 0863f659-076e-4e80-8e1e-ceb0d8e66c44</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceSafetyPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceSafetyPkg</_hname>
+							<_hid type="a">GUID 319e18de-3289-4b99-9d9a-349b7f7e5c3c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceExecutionScopePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceExecutionScopePkg</_hname>
+							<_hid type="a">GUID a0d87645-68b3-4f92-a0c9-442772da6079</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceTypesPkg</_hname>
+							<_hid type="a">GUID d6bafd75-375f-4f40-8479-1b1c5cf5c427</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceInterfacesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceInterfacesPkg</_hname>
+							<_hid type="a">GUID 730c0e26-ab6c-4a67-b591-3171649896f6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ControlResistanceActorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::ControlResistancePkg</_hsubsystem>
+							<_hname type="a">ControlResistanceActorPkg</_hname>
+							<_hid type="a">GUID b32bb770-2fcf-4c8b-bad3-15d12ffb4ece</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingPkg</_hname>
+							<_hid type="a">GUID 86c224ad-8f0b-44bb-b092-0791e5ea42eb</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingBBScenariosPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingBBScenariosPkg</_hname>
+							<_hid type="a">GUID a5c2b715-6f5a-4906-9ad3-98609c0bd79d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingSafetyPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingSafetyPkg</_hname>
+							<_hid type="a">GUID eb68f1e9-d4df-47de-be58-97864ce7f6e1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingExecutionScopePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingExecutionScopePkg</_hname>
+							<_hid type="a">GUID bcdf883d-3c4f-4861-a96e-13733de324b3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingTypesPkg</_hname>
+							<_hid type="a">GUID 241d2623-d979-4229-8dec-a59e87599d24</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingInterfacesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingInterfacesPkg</_hname>
+							<_hid type="a">GUID b648d4f2-aa04-41a4-9819-b1b97abf8e0b</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontandRearGearingActorPkg</_hname>
+							<_hid type="a">GUID 99eb20e2-e1e3-4e34-9a4d-80f27a851646</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsPkg</_hname>
+							<_hid type="a">GUID 7b28e83d-0e1e-4f1a-9882-440d67506173</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsBBScenariosPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsBBScenariosPkg</_hname>
+							<_hid type="a">GUID a280d883-b41b-4e60-88fb-a7f747c19a93</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsSafetyPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsSafetyPkg</_hname>
+							<_hid type="a">GUID 5bfa5efd-9802-4121-9ea5-3805af6b45ec</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsExecutionScopePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsExecutionScopePkg</_hname>
+							<_hid type="a">GUID 6dd01c3e-c07a-43b4-951d-223aa2f327b1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsTypesPkg</_hname>
+							<_hid type="a">GUID 6095e0ca-a5cf-492b-b2ff-82c0ec1fdd7e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsInterfacesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsInterfacesPkg</_hname>
+							<_hid type="a">GUID 94b911f8-c3f7-490d-83fe-cfe19670409c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsActorPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsActorPkg</_hname>
+							<_hid type="a">GUID 55fee82b-57f9-4546-b5ba-1e756a22e431</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MeasurePerformanceMetricsSecurityPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">FunctionalAnalysisPkg::MeasurePerformanceMetricsPkg</_hsubsystem>
+							<_hname type="a">MeasurePerformanceMetricsSecurityPkg</_hname>
+							<_hid type="a">GUID 74b6dd36-b8ed-4924-bac7-5dc76d0c0faa</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\DesignSynthesisPkg.sbsx</_hfilename>
+							<_hname type="a">DesignSynthesisPkg</_hname>
+							<_hid type="a">GUID 51c5a335-f700-4a37-8c06-99df06705921</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ArchitecturalDesignPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">ArchitecturalDesignPkg</_hname>
+							<_hid type="a">GUID a34c1248-ba32-4609-bc01-4563a624e9a3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SensorAccessCollaboration.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">SensorAccessCollaboration</_hname>
+							<_hid type="a">GUID 384abcdd-a0e4-49f6-99cd-c4993caad06c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PatternsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">PatternsPkg</_hname>
+							<_hid type="a">GUID 76c4e311-aeba-49e0-b7eb-7c0482dc535d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\ArchitecturalAnalysisPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignSynthesisPkg</_hsubsystem>
+							<_hname type="a">ArchitecturalAnalysisPkg</_hname>
+							<_hid type="a">GUID 0c619c80-3f63-45ef-9f2b-9abe04c6243d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MotorTradeStufyPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignSynthesisPkg::ArchitecturalAnalysisPkg</_hsubsystem>
+							<_hname type="a">MotorTradeStufyPkg</_hname>
+							<_hid type="a">GUID 8a1e5d82-9641-4910-b4b6-dcb6eca383e7</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\InterfacesPkg.sbsx</_hfilename>
+							<_hname type="a">InterfacesPkg</_hname>
+							<_hid type="a">GUID fb31435a-dbdb-4cb4-9ebd-bd23b4579c87</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\MergedInterfacesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+							<_hname type="a">MergedInterfacesPkg</_hname>
+							<_hid type="a">GUID 5d436ab4-81ab-42a9-9734-9b0b20c08b38</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Uc_EmulateBasicGearingDataTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">Uc_EmulateBasicGearingDataTypesPkg</_hname>
+							<_hid type="a">GUID 7e44a0f4-9c91-4f2c-9b4b-1c7e33f270a1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Uc_EmulateBasicGearingEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">Uc_EmulateBasicGearingEventsPkg</_hname>
+							<_hid type="a">GUID c33deeff-2484-4b1f-9ba5-e4cb73f938a6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aEBG_TrainingAppEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aEBG_TrainingAppEventsPkg</_hname>
+							<_hid type="a">GUID e045074b-768d-430e-97e7-33b9ba43e1c1</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aEBG_RiderEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aEBG_RiderEventsPkg</_hname>
+							<_hid type="a">GUID 533cfa4b-e705-4ac4-b0fe-1fc142fc1c2d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aCR_TrainingAppEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aCR_TrainingAppEventsPkg</_hname>
+							<_hid type="a">GUID aeb30719-11f7-4970-baf7-f5a356f32990</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aCR_RiderEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aCR_RiderEventsPkg</_hname>
+							<_hid type="a">GUID 916403e9-461b-4aea-a855-476bcb3b9e8f</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Uc_EmulateFrontandRearGearingEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">Uc_EmulateFrontandRearGearingEventsPkg</_hname>
+							<_hid type="a">GUID 64e6a972-c5f2-4c0b-b6a9-a3acd1d86469</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aEFRG_TrainingAppEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aEFRG_TrainingAppEventsPkg</_hname>
+							<_hid type="a">GUID eede0180-333b-448d-a1f9-e756f02ce44d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aEFRG_RiderEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aEFRG_RiderEventsPkg</_hname>
+							<_hid type="a">GUID 6cf59c0a-89f1-4977-9c93-0672dd31a79b</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Uc_MeasurePerformanceMetricsDataTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">Uc_MeasurePerformanceMetricsDataTypesPkg</_hname>
+							<_hid type="a">GUID 7cad325c-4172-43ad-9094-4f0435c62a59</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Uc_MeasurePerformanceMetricsEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">Uc_MeasurePerformanceMetricsEventsPkg</_hname>
+							<_hid type="a">GUID 60b154b6-f9ea-4071-9f0d-1b849404da8d</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\aMPM_TrainingAppEventsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg::MergedInterfacesPkg</_hsubsystem>
+							<_hname type="a">aMPM_TrainingAppEventsPkg</_hname>
+							<_hid type="a">GUID b7e28910-725d-45e7-a800-71ad869462ca</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\DesignPatternsPkg.sbsx</_hfilename>
+							<_hname type="a">DesignPatternsPkg</_hname>
+							<_hid type="a">GUID cf928539-a1fe-46df-b569-5d3286f52f70</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\FiveLayerArchitecturePatternPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">DesignPatternsPkg</_hsubsystem>
+							<_hname type="a">FiveLayerArchitecturePatternPkg</_hname>
+							<_hid type="a">GUID 21148157-4db1-4bdf-9d66-ba6a7e9824ad</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID dfeb193c-02d0-4edf-a0fc-a421d2cc130f</value>
+				<value>GUID 433acb9e-9917-47c4-be86-ec301b7bb3bf</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID dfeb193c-02d0-4edf-a0fc-a421d2cc130f</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::13:44:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:44:14</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 433acb9e-9917-47c4-be86-ec301b7bb3bf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:44:14</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">None</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 588dafa1-e829-412a-8d3d-7d231588218a</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 588dafa1-e829-412a-8d3d-7d231588218a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::13:44:14</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

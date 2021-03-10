@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 3c3fbb95-017c-4c09-8517-039b33464a70</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">9.27.2020::19:3:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.27.2020::20:6:46</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID c7093c3d-b0d0-4168-aa62-63209d5501ef</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hname type="a">SysML</_hname>
+							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\BruceSettings\BruceSettings.sbsx</_hfilename>
+							<_hname type="a">BruceSettings</_hname>
+							<_hid type="a">GUID cf372292-a5d7-4681-b1ac-817a421492d3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\ArchitecturalDesignPkg.sbsx</_hfilename>
+							<_hname type="a">ArchitecturalDesignPkg</_hname>
+							<_hid type="a">GUID a34c1248-ba32-4609-bc01-4563a624e9a3</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\WBScenarios.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">WBScenarios</_hname>
+							<_hid type="a">GUID 37493c61-1342-47b7-8539-63cdc0296544</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\CommsPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">CommsPkg</_hname>
+							<_hid type="a">GUID 857fd49f-f541-4d8b-816f-632cb6b41831</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\ElectricPowerDeliveryPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">ElectricPowerDeliveryPkg</_hname>
+							<_hid type="a">GUID 5b67be49-897c-4b3e-b114-09348ccdcfbf</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\MainComputingPlatformPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">MainComputingPlatformPkg</_hname>
+							<_hid type="a">GUID 70a4fd24-8eb9-4c89-bfb7-42eac2c016d6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\MechanicalFramePkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">MechanicalFramePkg</_hname>
+							<_hid type="a">GUID 596bcb3e-189e-4ff3-8699-b5b95511a9a5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\PowerTrainPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">PowerTrainPkg</_hname>
+							<_hid type="a">GUID c7cb07d2-608a-461a-869e-0c8e114bad46</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\RiderInteractionPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">ArchitecturalDesignPkg</_hsubsystem>
+							<_hname type="a">RiderInteractionPkg</_hname>
+							<_hid type="a">GUID aa442fcd-0c6e-49b2-b333-e93f044fe2ef</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\CommonPkg.sbsx</_hfilename>
+							<_hname type="a">CommonPkg</_hname>
+							<_hid type="a">GUID 8ebb5da3-e2eb-4857-85b4-6a9a3d546341</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\RequirementsPkg.sbsx</_hfilename>
+							<_hname type="a">RequirementsPkg</_hname>
+							<_hid type="a">GUID 008bdd3c-a42c-449b-89b2-47375ee452cd</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\ComputeResistanceReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
+							<_hname type="a">ComputeResistanceReqPkg</_hname>
+							<_hid type="a">GUID 99acc52c-9046-4843-94b8-bbbd2788e33e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\EmulateFrontAndRearGearingReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
+							<_hname type="a">EmulateFrontAndRearGearingReqPkg</_hname>
+							<_hid type="a">GUID b111e958-5496-4261-bece-7686817651d5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\EmulateDIShiftingReqPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
+							<_hname type="a">EmulateDIShiftingReqPkg</_hname>
+							<_hid type="a">GUID 75f3e5b3-a632-4236-8708-ada6253cb224</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\OtherReqs.sbsx</_hfilename>
+							<_hsubsystem type="a">RequirementsPkg</_hsubsystem>
+							<_hname type="a">OtherReqs</_hname>
+							<_hid type="a">GUID fd954dc3-120c-4e09-9641-96a3a8a60fe7</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\InterfacesPkg.sbsx</_hfilename>
+							<_hname type="a">InterfacesPkg</_hname>
+							<_hid type="a">GUID fb31435a-dbdb-4cb4-9ebd-bd23b4579c87</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\..\..\..\Chapter4_rpy\LogicalDataSchemaPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">InterfacesPkg</_hsubsystem>
+							<_hname type="a">LogicalDataSchemaPkg</_hname>
+							<_hid type="a">GUID 8cf53553-e973-467b-874b-eda1d727e816</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PhysicalInterfaces.sbsx</_hfilename>
+							<_hname type="a">PhysicalInterfaces</_hname>
+							<_hid type="a">GUID ae18b78e-1652-4a4d-a673-6c815aac7b64</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\CommonStereotypes.sbsx</_hfilename>
+							<_hsubsystem type="a">PhysicalInterfaces</_hsubsystem>
+							<_hname type="a">CommonStereotypes</_hname>
+							<_hid type="a">GUID aa12ef75-af22-49d3-bba8-a6423f2ae2ad</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\PhysicalDataSchema.sbsx</_hfilename>
+							<_hsubsystem type="a">PhysicalInterfaces</_hsubsystem>
+							<_hname type="a">PhysicalDataSchema</_hname>
+							<_hid type="a">GUID 297a9903-596a-426f-80ef-6bbcfc3f674c</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\BaseTypesPkg.sbsx</_hfilename>
+							<_hsubsystem type="a">PhysicalInterfaces::PhysicalDataSchema</_hsubsystem>
+							<_hname type="a">BaseTypesPkg</_hname>
+							<_hid type="a">GUID 415e7fbc-1670-4275-be9d-caf193c91db0</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">9.27.2020::19:3:41</weakCGTime>
+			<strongCGTime type="a">9.27.2020::19:3:41</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID fab0c071-e44c-4e62-98de-06d734978271</value>
+				<value>GUID c7093c3d-b0d0-4168-aa62-63209d5501ef</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID fab0c071-e44c-4e62-98de-06d734978271</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">9.27.2020::18:57:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.27.2020::18:57:57</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID c7093c3d-b0d0-4168-aa62-63209d5501ef</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Configuration</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultImplementationDirectory</_Name>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">DefaultSpecificationDirectory</_Name>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_ReverseEngineering</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">ImplementationTrait</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ImportAsExternal</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">InterfaceOnly</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">MapToPackage</_Name>
+													<_Value type="a">Directory</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">User,Directory</_ExtraTypeInfo>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">RootDirectory</_Name>
+													<_Value type="a">F:\cygwin\lib\clang\3.8.1</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Parser</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AdditionalKeywords</_Name>
+													<_Value type="a">far,near</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Defined</_Name>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">ForceExpansionMacros</_Name>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Undefined</_Name>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_Roundtrip</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">General</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">RoundtripScheme</_Name>
+													<_Value type="a">Respect</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Respect,Advanced,Basic</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">ReverseEngineering</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Main</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AddCodeCentricSettings</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Files</_Name>
+													<_Value type="a">F:\cygwin\lib\clang\3.8.1\include\stdint.h</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">RESelectedFileRoot</_Name>
+													<_Value type="a">F:\cygwin\lib\clang\3.8.1\include\</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">RESelectedInputSource</_Name>
+													<_Value type="a">F:\cygwin\lib\clang\3.8.1\include\</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Update</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">CreateObjectModelDiagrams</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Policy</_Name>
+													<_Value type="a">Overwrite</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Overwrite,Merge</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">9.27.2020::18:57:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.27.2020::18:57:57</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">None</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">9.27.2020::18:57:57</weakCGTime>
+			<strongCGTime type="a">9.27.2020::18:57:56</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 0e8712d9-a63c-40ee-9798-e6bac81587ae</value>
+				<value>GUID 7001e288-7cb8-49e0-a7eb-dac933e3a42f</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IEmbededFile type="e">
+			<_id type="a">GUID 0e8712d9-a63c-40ee-9798-e6bac81587ae</_id>
+			<_name type="a">CollectedMacros_0.h</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.27.2020::20:6:46</_modifiedTime>
+			<_MayNeedToRelocate type="a">0</_MayNeedToRelocate>
+			<_LastKnownFullPath type="a">F:\Work\_Documents\MBSE Cookbook\Models\Chapter4\SubsystemModels\SharedModel\SharedModel_rpy\CollectedMacros_0.h</_LastKnownFullPath>
+		</IEmbededFile>
+		<IFolder type="e">
+			<_id type="a">GUID 7001e288-7cb8-49e0-a7eb-dac933e3a42f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.18.2020::13:36:25</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

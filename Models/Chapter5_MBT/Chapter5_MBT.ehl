@@ -1,0 +1,6 @@
+[Op Calls]
+[Events]
+itsPegasus_Test_Architecture->GEN(exContinue())`Pegasus_Test_Architecture
+itsPegasus_Test_Architecture->GEN(exStart())`Pegasus_Test_Architecture
+itsPegasus_Test_Architecture->GEN(exTest1())`Pegasus_Test_Architecture
+[Breakpoints]

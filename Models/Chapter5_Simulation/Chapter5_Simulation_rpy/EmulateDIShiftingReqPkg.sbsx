@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 75f3e5b3-a632-4236-8708-ada6253cb224</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateDIShiftingReqPkg</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::22:9:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::22:9:32</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">3.8.2020::22:9:32</weakCGTime>
+			<strongCGTime type="a">3.8.2020::21:44:12</strongCGTime>
+			<_defaultComposite type="s">GUID 96e2ce92-2436-4cd9-9029-6567d2514937</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 3f324c39-8840-4e08-a5b4-c4b235731cb7</value>
+				<value>GUID 8c3ae4e0-18c4-49be-a5d1-b47478a0ea2a</value>
+				<value>GUID 90dad17d-f0eb-409a-b3c7-1b6b1745390b</value>
+				<value>GUID d6550491-a698-4d07-a236-aa3cdf40dc13</value>
+				<value>GUID 16212b1c-e2ad-4fb7-ac67-f3e6c81cf237</value>
+				<value>GUID 6ab1938e-d967-4c7c-8467-b78f8051ee24</value>
+				<value>GUID 5bca98d0-0f8a-4dcb-baa0-6a01e771fbdf</value>
+				<value>GUID 093968df-06ab-4e99-b5f1-5f076aad4dd9</value>
+				<value>GUID 6e42af0d-2268-4989-a3c2-89f83b8213bd</value>
+				<value>GUID cd8e70f1-a8ac-4292-ad5f-dfef4a3f0f14</value>
+				<value>GUID 0e9b402f-6d0c-478f-b092-185b5cebd058</value>
+				<value>GUID b149f44d-bc94-46b7-8b1a-ae7e149689ee</value>
+				<value>GUID afdc1437-9b83-4c4f-bff8-f2f5c3983e35</value>
+				<value>GUID 7382be46-acf9-4aaf-b4d9-8f797a3fcd95</value>
+				<value>GUID 96e2ce92-2436-4cd9-9029-6567d2514937</value>
+				<value>GUID 02ee9354-2750-4492-ab07-64b50de8f577</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 3f324c39-8840-4e08-a5b4-c4b235731cb7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg01</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:49:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:49:48</_modifiedTime>
+			<_body type="a">In DI Shifting mode, if the UP button is pressed and the system is already in the highest possible gear, then the system shall audibly beep and keep the current gearing. </_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8c3ae4e0-18c4-49be-a5d1-b47478a0ea2a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg02</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:44:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:44:24</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall provide shifting with a DI Shifting mode that enables the DI shifting buttons and disables the shifting levers. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 90dad17d-f0eb-409a-b3c7-1b6b1745390b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg03</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:49:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:49:39</_modifiedTime>
+			<_body type="a">In DI Shifting mode, the UP button shall shift into the next highest possible gearing from the selected gear set, as measured in gear inches. %0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID d6550491-a698-4d07-a236-aa3cdf40dc13</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg04</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:48:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:48:46</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 In DI Shifting mode, the UP button shall shift into the next highest possible gearing from the selected gear set, as measured in gear inches. \par%0D
+\par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 16212b1c-e2ad-4fb7-ac67-f3e6c81cf237</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg05</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:49:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:49:28</_modifiedTime>
+			<_body type="a">In DI Shifting mode, if the DOWN  button is pressed and the system is already in the lowest possible gear, then the system shall audibly beep and keep the current gearing. </_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 6ab1938e-d967-4c7c-8467-b78f8051ee24</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg06</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:44:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:44:27</_modifiedTime>
+			<_body type="a">In DI Shifting mode, when an upshift requires changing the chain ring, the system shall progress to the next largest gearing, as measured by gear inches. </_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 5bca98d0-0f8a-4dcb-baa0-6a01e771fbdf</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReg07</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:44:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:44:28</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 In DI Shifting mode, when a downshift requires changing the chain ring, the system shall progress to the next smallest gearing, as measured by gear inches. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 093968df-06ab-4e99-b5f1-5f076aad4dd9</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIQoSReq01</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:47:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:47:46</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 In DI Mode, shifts shall be executed in less than 400 ms or 1/4 pedal stroke, whichever is longer in time. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 6e42af0d-2268-4989-a3c2-89f83b8213bd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIQosReq02</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:48:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:48:30</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The DI shifting button shall perform reliably for at least 100,000 presses. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID cd8e70f1-a8ac-4292-ad5f-dfef4a3f0f14</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIQoSReq03</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::21:56:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:56:13</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 In DI Shifting mode, gear shifts may be taken regardless of current power load being applied to the gears, from 0W to the maximum load allowed. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0e9b402f-6d0c-478f-b092-185b5cebd058</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReq10</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::22:6:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::22:6:45</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall enter DI Shifting Mode by selecting that option in the Configuration App. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b149f44d-bc94-46b7-8b1a-ae7e149689ee</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReq11</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::22:7:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::22:7:52</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 Once DI Shifting mode is selected, this selection shall persist across resets, power resets, and software updates. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID afdc1437-9b83-4c4f-bff8-f2f5c3983e35</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReq12</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::22:8:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::22:8:37</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 Mechanical shifting shall be the default on initial start up or after a factory-settings reset. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7382be46-acf9-4aaf-b4d9-8f797a3fcd95</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DIReq13</_name>
+			<_modifiedTimeWeak type="a">3.8.2020::22:9:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::22:9:32</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The system shall leave DI Shifting mode when the user selects the Mechanical Shifting option in the Configuration App. \par%0D
+}%0D
+</_body>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 96e2ce92-2436-4cd9-9029-6567d2514937</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID 02ee9354-2750-4492-ab07-64b50de8f577</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Model</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TableView</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UseOwnerScope</_Name>
+													<_Value type="a">False</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Emualte DI Shifting Reqs table</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">3.8.2020::21:53:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.8.2020::21:53:41</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hid type="a">GUID 75f3e5b3-a632-4236-8708-ada6253cb224</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

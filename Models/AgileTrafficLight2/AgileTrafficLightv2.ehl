@@ -1,0 +1,10 @@
+[Op Calls]
+[Events]
+itsTrafficLightSystem->secondaryTurn->GEN(exCarArrive())`TurnLane
+itsTrafficLightSystem->GEN(exStart())`TrafficLightSystem
+itsTrafficLightSystem->secondaryTurn->GEN(evGo(TRUE,"Sec Turn"))`TurnLane
+itsTrafficLightSystem->primaryTurn->GEN(evGo(FALSE,"P Turn"))`TurnLane
+itsTrafficLightSystem->primaryTurn->GEN(evGoTurn())`TurnLane
+TrafficLightSystem->GEN(exStart())`Default::TrafficLightSystem
+TrafficLightSystem.primaryTurn:TurnLane->GEN(exCarArrive())`Default::TurnLane
+[Breakpoints]

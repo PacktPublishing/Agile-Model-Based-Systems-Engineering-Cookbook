@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0c619c80-3f63-45ef-9f2b-9abe04c6243d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">ArchitecturalAnalysisPkg</_name>
+			<_modifiedTimeWeak type="a">5.1.2020::14:0:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">5.1.2020::14:0:21</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">5.1.2020::14:0:21</weakCGTime>
+			<strongCGTime type="a">12.27.2019::13:45:0</strongCGTime>
+			<_defaultComposite type="s">GUID 811644b0-ea5c-45ef-8163-f6c31c71001c</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 8a1e5d82-9641-4910-b4b6-dcb6eca383e7</value>
+				<value>GUID 811644b0-ea5c-45ef-8163-f6c31c71001c</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">MotorTradeStufyPkg</fileName>
+			<_id type="a">GUID 8a1e5d82-9641-4910-b4b6-dcb6eca383e7</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 811644b0-ea5c-45ef-8163-f6c31c71001c</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

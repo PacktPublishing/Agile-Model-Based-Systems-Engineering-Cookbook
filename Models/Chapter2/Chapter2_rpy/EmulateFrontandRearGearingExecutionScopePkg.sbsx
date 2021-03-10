@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID bcdf883d-3c4f-4861-a96e-13733de324b3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateFrontandRearGearingExecutionScopePkg</_name>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:38</_modifiedTime>
+			<weakCGTime type="a">2.22.2020::15:21:40</weakCGTime>
+			<strongCGTime type="a">2.22.2020::15:21:40</strongCGTime>
+			<_defaultComposite type="s">GUID bc7c13ca-4b0c-4ada-9626-c36f5c092378</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">2.21.2020::16:45:38</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 31e4dc9c-04cd-4b8e-9a49-1f6a0fe1641a</value>
+				<value>GUID bc7c13ca-4b0c-4ada-9626-c36f5c092378</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">Emulate_Front_and_Rear_GearingSim</fileName>
+			<_id type="a">GUID 31e4dc9c-04cd-4b8e-9a49-1f6a0fe1641a</_id>
+		</IComponent>
+		<IClass type="e">
+			<_id type="a">GUID bc7c13ca-4b0c-4ada-9626-c36f5c092378</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:40</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">2.22.2020::15:21:40</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 5412a511-f194-4a63-bd0e-51b9b379b5a8</value>
+				<value>GUID 76809a77-5999-4105-8cf6-2657f3cc2061</value>
+				<value>GUID 686c1d9a-11c4-4ba7-b983-3545c5601700</value>
+				<value>GUID adfeca42-acac-4df7-9243-ffe0f561f576</value>
+				<value>GUID cd1b0cfd-87c2-4c41-960c-3129e945637b</value>
+			</AggregatesList>
+		</IClass>
+		<IPart type="e">
+			<_id type="a">GUID 5412a511-f194-4a63-bd0e-51b9b379b5a8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">itsUc_EmulateFrontandRearGearing</_name>
+			<_modifiedTimeWeak type="a">2.21.2020::16:45:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.21.2020::16:45:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hname type="a">Uc_EmulateFrontandRearGearing</_hname>
+					<_hid type="a">GUID e1a0ccfd-a8b1-498a-90d9-5fd1113b1b25</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 76809a77-5999-4105-8cf6-2657f3cc2061</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtTrainingApp</_name>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:38</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg::EmulateFrontandRearGearingActorPkg</_hsubsystem>
+					<_hname type="a">aEFRG_TrainingApp</_hname>
+					<_hid type="a">GUID cd57066d-c065-40ad-906c-3c72902e63de</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IPart type="e">
+			<_id type="a">GUID 686c1d9a-11c4-4ba7-b983-3545c5601700</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">prtRider</_name>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:40</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg::EmulateFrontandRearGearingActorPkg</_hsubsystem>
+					<_hname type="a">aEFRG_Rider</_hname>
+					<_hid type="a">GUID c674f502-a4ed-440b-be3a-c52fed8cb797</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+		</IPart>
+		<IObjectLink type="e">
+			<_id type="a">GUID adfeca42-acac-4df7-9243-ffe0f561f576</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:39</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 5412a511-f194-4a63-bd0e-51b9b379b5a8</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 76809a77-5999-4105-8cf6-2657f3cc2061</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hclass type="a">Uc_EmulateFrontandRearGearing</_hclass>
+					<_hname type="a">paEFRG_TrainingApp</_hname>
+					<_hid type="a">GUID c591ffe4-31ef-4e72-9c72-9ebf55cdfe77</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg::EmulateFrontandRearGearingActorPkg</_hsubsystem>
+					<_hclass type="a">aEFRG_TrainingApp</_hclass>
+					<_hname type="a">pUc_EmulateFrontandRearGearing</_hname>
+					<_hid type="a">GUID eb0e203c-3e2a-4020-80db-0623f882c87d</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		<IObjectLink type="e">
+			<_id type="a">GUID cd1b0cfd-87c2-4c41-960c-3129e945637b</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">connector_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">connector</_hname>
+							<_hid type="a">GUID af0f57c0-ca41-456e-87cc-be8bf10a1c55</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">2.22.2020::15:21:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">2.22.2020::15:21:40</_modifiedTime>
+			<_toLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 686c1d9a-11c4-4ba7-b983-3545c5601700</_hid>
+				</IHandle>
+			</_toLink>
+			<_fromLink type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPart</_hm2Class>
+					<_hid type="a">GUID 5412a511-f194-4a63-bd0e-51b9b379b5a8</_hid>
+				</IHandle>
+			</_fromLink>
+			<_instantiates type="r">
+				<IMetaLinkHandle type="e">
+				</IMetaLinkHandle>
+			</_instantiates>
+			<_end1Multiplicity type="a">1</_end1Multiplicity>
+			<_end2Multiplicity type="a">1</_end2Multiplicity>
+			<_toPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingActorPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg::EmulateFrontandRearGearingActorPkg</_hsubsystem>
+					<_hclass type="a">aEFRG_Rider</_hclass>
+					<_hname type="a">pUc_EmulateFrontandRearGearing</_hname>
+					<_hid type="a">GUID e0a3fe7c-77e9-4de3-ae7e-f111f65aa1d9</_hid>
+				</IHandle>
+			</_toPort>
+			<_fromPort type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IPort</_hm2Class>
+					<_hfilename type="a">.\EmulateFrontandRearGearingPkg.sbsx</_hfilename>
+					<_hsubsystem type="a">FunctionalAnalysisPkg::EmulateFrontandRearGearingPkg</_hsubsystem>
+					<_hclass type="a">Uc_EmulateFrontandRearGearing</_hclass>
+					<_hname type="a">paEFRG_Rider</_hname>
+					<_hid type="a">GUID 0eca6baf-6e49-47d3-90fc-46f950e39d0e</_hid>
+				</IHandle>
+			</_fromPort>
+		</IObjectLink>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

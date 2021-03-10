@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID f6b51ab5-a7d1-470d-9863-d0b546cfc584</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">EmulateBasicGearingTypesPkg</_name>
+			<_modifiedTimeWeak type="a">12.27.2019::18:5:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::18:25:2</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">12.27.2019::18:5:35</weakCGTime>
+			<strongCGTime type="a">12.27.2019::14:58:59</strongCGTime>
+			<_defaultComposite type="s">GUID 5f8c6322-bfdf-4cbd-9fce-6330eb372224</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 5f8c6322-bfdf-4cbd-9fce-6330eb372224</value>
+				<value>GUID e45f25f1-2e6a-464b-bd26-29008bd293ce</value>
+				<value>GUID ef9b8aac-6bbd-4b3b-9bd4-a82ed27f26b4</value>
+				<value>GUID be6f498e-7519-48b7-877a-b0ef3e55fe9d</value>
+				<value>GUID 72456177-cb67-4cf6-9e1b-2f42f5071a88</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 5f8c6322-bfdf-4cbd-9fce-6330eb372224</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IType type="e">
+			<_id type="a">GUID e45f25f1-2e6a-464b-bd26-29008bd293ce</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DEFAULT_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::18:3:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::18:3:20</_modifiedTime>
+			<_declaration type="a">#define %25s 30</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID ef9b8aac-6bbd-4b3b-9bd4-a82ed27f26b4</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MIN_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::18:3:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::18:3:53</_modifiedTime>
+			<_declaration type="a">#define %25s 30</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID be6f498e-7519-48b7-877a-b0ef3e55fe9d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MAX_GEARING</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::18:4:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::18:4:24</_modifiedTime>
+			<_declaration type="a">#define %25s 140</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID 72456177-cb67-4cf6-9e1b-2f42f5071a88</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">GEAR_INCREMENT</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueType</_hname>
+							<_hid type="a">GUID 07facaa0-2de4-4089-b5bb-64e56e4ae04f</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.27.2019::18:5:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.27.2019::18:5:35</_modifiedTime>
+			<_declaration type="a">#define %25s 5</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
