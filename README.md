@@ -26,7 +26,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Following is what you need for this book:**
 If you are a systems engineer who wants to pursue model-based systems engineering in an agile setting, this book will show you how you can do that without breaking a sweat. Fundamental knowledge of SysML is necessary; the book will teach you the rest.
 
-With the following software and hardware list you can run all models present in the book (Chapter 1-5).
+With the following software and hardware list you can open all models present in the book (Chapter 1-5).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
