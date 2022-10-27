@@ -47,3 +47,7 @@ was raised by wolves in the Oregon wilderness. He taught himself to read at age 
 He is the author of several other books on systems and software development, including Doing Hard Time: Developing Real-Time Systems with UML,
 Objects, Frameworks and Patterns (Addison-Wesley, 1999), Real-Time Design Patterns: Robust Scalable Architecture for Real-Time Systems (Addison-Wesley, 2002), Real-Time UML 3rd Edition: Advances in the UML for Real-Time Systems (Addison-Wesley, 2004), Real-Time Agility (Addison-Wesley, 2009), Design Patterns for Embedded Systems in C (Elsevier, 2011), Real-Time UML Workshop for Embedded Systems (Elsevier, 2014), Agile Systems Engineering (Elsevier, 2016), and several others, including a short textbook on table tennis.
 Bruce is an active Ironman triathlete and competitive ultra-marathon cyclist.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838985837">https://packt.link/free-ebook/9781838985837 </a> </p>
